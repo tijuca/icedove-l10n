@@ -320,7 +320,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Message Menu -->
 <!ENTITY msgMenu.label "Mesazh">
-<!ENTITY msgMenu.accesskey "M">
+<!ENTITY msgMenu.accesskey "e">
 <!ENTITY newMsgCmd.label "Mesazh i Ri">
 <!ENTITY newMsgCmd.accesskey "R">
 <!ENTITY newNewMsgCmd.label "Përgjigje">
