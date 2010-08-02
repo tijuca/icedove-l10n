@@ -62,8 +62,8 @@
 <!ENTITY abbreviateOn.label "Emra të plotë (Për shembull, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Emra të shkurtuar (Për shembull, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Të mëtejshëm…">
+<!ENTITY advancedButton.accesskey "m">
 <!ENTITY serverDefaultCharset.label "Kodim Parazgjedhje Shkronjash:">
-<!ENTITY advancedButton.accesskey "K">
 <!ENTITY localFolderPicker.label "Përzgjidhni Drejtori Vendore">
 <!ENTITY browseFolder.label "Shfletoni…">
 <!ENTITY browseFolder.accesskey "S">

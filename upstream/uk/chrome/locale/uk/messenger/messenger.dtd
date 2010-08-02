@@ -325,7 +325,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newNewMsgCmd.accesskey "П">
 <!ENTITY archiveMsgCmd.label "Архів">
 <!ENTITY archiveMsgCmd.accesskey "А">
-<!ENTITY archiveMsgCmd.key  "а">
+<!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY replyMsgCmd.label "Відповісти">
 <!ENTITY replyMsgCmd.accesskey "В">
 <!ENTITY replyMsgCmd.key  "r">
@@ -723,8 +723,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutCmd.accesskey "u">
 <!ENTITY copyCmd.label "Копіювати">
 <!ENTITY copyCmd.accesskey "К">
-<!ENTITY pasteCmd.label "Paste">
-<!ENTITY pasteCmd.accesskey "P">
+<!ENTITY pasteCmd.label "Вставити">
+<!ENTITY pasteCmd.accesskey "т">
 <!ENTITY selectAllCmd.label "Вибрати всі">
 <!ENTITY selectAllCmd.accesskey "В">
 <!ENTITY copyLinkCmd.label "Копіювати адресу посилання">
