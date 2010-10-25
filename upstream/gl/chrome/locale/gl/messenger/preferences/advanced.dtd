@@ -6,16 +6,25 @@
 
 <!-- General Settings -->
 
-<!ENTITY enableGlodaSearch.label             "Activar indexador de mensaxes">
-<!ENTITY enableGlodaSearch.accesskey         "i">
+<!ENTITY enableGlodaSearch.label       "Activar indexador de mensaxes">
+<!ENTITY enableGlodaSearch.accesskey   "i">
 <!ENTITY systemIntegration.label       "Integración co sistema">
-<!ENTITY alwaysCheckDefault.label      "Sempre comprobar se &brandShortName; é o navegador por defecto no inicio">
-<!ENTITY alwaysCheckDefault.accesskey  "S">
+<!ENTITY alwaysCheckDefault.label      "Sempre comprobar se &brandShortName; é o navegador predefinido no inicio">
+<!ENTITY alwaysCheckDefault.accesskey  "a">
 <!ENTITY searchIntegration.label       "Permitir que &searchIntegration.engineName; busque nas mensaxes">
 <!ENTITY searchIntegration.accesskey   "P">
 <!ENTITY checkNow.label                "Comprobar agora">
 <!ENTITY checkNow.accesskey            "C">
+<!ENTITY configEditDesc.label          "Configuración avanzada">
+<!ENTITY configEdit.label              "Editor de configuración…">
+<!ENTITY configEdit.accesskey          "n">
+<!ENTITY returnReceiptsInfo.label      "Determine como debe xestionar &brandShortName; os avisos de recepción.">
+<!ENTITY showReturnReceipts.label      "Avisos de recepción…">
+<!ENTITY showReturnReceipts.accesskey  "r">
 
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption               "Lectura">
+<!ENTITY display.caption               "Visualización">
 <!ENTITY showCondensedAddresses.label  "Mostrar só o nome das persoas da miña axenda de enderezos">
 <!ENTITY showCondensedAddresses.accesskey "d">
 
@@ -39,24 +48,12 @@
 <!ENTITY closeMsgWindowOnDelete.label  "Pechar a xanela de mensaxe ao eliminar">
 <!ENTITY closeMsgWindowOnDelete.accesskey "P">
 
-<!ENTITY configEditDesc.label          "Configuración avanzada">
-<!ENTITY configEdit.label              "Editor de configuración…">
-<!ENTITY configEdit.accesskey          "n">
-<!ENTITY returnReceiptsInfo.label      "Determine como debe xestionar &brandShortName; os avisos de recepción.">
-<!ENTITY showReturnReceipts.label      "Avisos de recepción…">
-<!ENTITY showReturnReceipts.accesskey  "r">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption                "Lectura">
-<!ENTITY display.caption                "Visualización">
-
 <!-- Update -->
 <!ENTITY autoCheck.label                "Buscar automaticamente actualizacións para:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "T">
+<!ENTITY enableAppUpdate.accesskey      "h">
 <!ENTITY enableAddonsUpdate.label       "Complementos instalados">
 <!ENTITY enableAddonsUpdate.accesskey   "i">
-<!ENTITY checkNow.label                 "Verificar agora…">
 <!ENTITY whenUpdatesFound.label         "Cando se encontren actualizacións para &brandShortName;:">
 <!ENTITY modeAskMe.label                "Preguntarme que quero facer">
 <!ENTITY modeAskMe.accesskey            "P">
@@ -70,7 +67,7 @@
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Configuración…">
 <!ENTITY showSettings.accesskey        "f">
-<!ENTITY proxiesConfigure.label        "Determinar como se conecta &brandShortName; á Internet">
+<!ENTITY proxiesConfigure.label        "Configurar o modo en que &brandShortName; se conecta á Internet">
 <!ENTITY connectionsInfo.caption       "Conexión">
 <!ENTITY offlineInfo.caption           "Sen conexión">
 <!ENTITY offlineInfo.label             "Configurar opcións sen conexión">
@@ -83,12 +80,12 @@
 <!ENTITY kb.label "KB">
 
 <!-- LOCALIZATION NOTE:
-The entities useCacheBefore.label and useCacheAfter.label appear on a single
-line in preferences as follows:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
 
-&useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Utilizar até">
+<!ENTITY useCacheBefore.label            "Usar ata">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             "MB de espazo en caché">
 <!ENTITY clearCacheNow.label             "Limpar agora">

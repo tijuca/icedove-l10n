@@ -79,9 +79,9 @@
 <!ENTITY ScreenName.label               "Nome en pantalla:">
 <!ENTITY ScreenName.accesskey           "p">
 
-<!ENTITY allowRemoteContent1.label       "Permitir contido remoto.">
-<!ENTITY allowRemoteContent1.accesskey   "m">
-<!ENTITY allowRemoteContent1.tooltip     "Nas mensaxes HTML é posíbel incorporar
+<!ENTITY allowRemoteContent1.label      "Permitir contido remoto.">
+<!ENTITY allowRemoteContent1.accesskey  "m">
+<!ENTITY allowRemoteContent1.tooltip    "Nas mensaxes HTML é posíbel incorporar
 contido de orixes remotas. Ao abrilas conectarase con esta orixe externa. Isto pode 
 permitir o rastrexamento das mensaxe que foron lidas. Marcando esta caixa permitirase 
 a visualización do contido incorporado nas mensaxes HTML deste contacto.">
@@ -91,7 +91,7 @@ a visualización do contido incorporado nas mensaxes HTML deste contacto.">
 <!ENTITY HomePhone.label                "Domicilio:">
 <!ENTITY HomePhone.accesskey            "o">
 <!ENTITY FaxNumber.label                "Fax:">
-<!ENTITY FaxNumber.accesskey            "a">
+<!ENTITY FaxNumber.accesskey            "x">
 <!ENTITY PagerNumber.label              "Busca:">
 <!ENTITY PagerNumber.accesskey          "c">
 <!ENTITY CellularNumber.label           "Móbil:">

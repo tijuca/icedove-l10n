@@ -77,8 +77,7 @@
 <!ENTITY cellSelectNext.accessKey         "S">
 <!ENTITY cellSelectPrevious.label         "Anterior">
 <!ENTITY cellSelectPrevious.accessKey     "A">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange.label         "Aplicaranse as modificacións actuais antes de modificar a selección">
+<!ENTITY applyBeforeChange.label          "Aplicaranse as modificacións actuais antes de modificar a selección">
 <!ENTITY cellContentAlignment.label       "Aliñamento do contido">
 <!ENTITY cellHorizontal.label             "Horizontal:">
 <!ENTITY cellHorizontal.accessKey         "H">

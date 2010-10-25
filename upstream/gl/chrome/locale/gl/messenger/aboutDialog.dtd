@@ -1,13 +1,12 @@
-<!ENTITY aboutDialog.title      "Acerca de &brandFullName;">
-
+<!ENTITY aboutDialog.title      "Sobre o &brandFullName;">
 <!ENTITY aboutButton.label      "&lt; Atrás">
 <!ENTITY aboutButton.accesskey  "A">
 <!ENTITY aboutVersion           "versión">
 <!ENTITY copyrightText          "&#169;1998-2008 Colaboradores. Todos os dereitos reservados. Os logotipos de Mozilla Thunderbird e de 
                                  Thunderbird son marcas rexistradas da Fundación Mozilla.  Todos os dereitos  
                                  reservados.">
-<!ENTITY aboutMenu.label        "Acerca de">
-<!ENTITY aboutMenu.accesskey    "r">
+<!ENTITY aboutMenu.label        "Sobre">
+<!ENTITY aboutMenu.accesskey    "b">
 <!ENTITY aboutCredits.label     "Créditos">
 <!ENTITY aboutCredits.accesskey "C">
 <!ENTITY aboutRights.label      "Os seus dereitos">

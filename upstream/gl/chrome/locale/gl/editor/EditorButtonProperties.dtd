@@ -41,7 +41,7 @@
 <!ENTITY ButtonType.label "Tipo">
 <!ENTITY ButtonType.accesskey "T">
 <!ENTITY submit.value "Enviar">
-<!ENTITY reset.value "Restaurar">
+<!ENTITY reset.value "Restabelecer">
 <!ENTITY button.value "Botón">
 
 <!ENTITY ButtonName.label "Nome:">

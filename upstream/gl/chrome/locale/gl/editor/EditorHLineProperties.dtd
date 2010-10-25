@@ -1,4 +1,4 @@
-﻿<!-- ***** BEGIN LICENSE BLOCK *****
+<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -37,24 +37,24 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Horizontal Line Properties">
+<!ENTITY windowTitle.label "Propiedades da liña horizontal">
 
-<!ENTITY dimensionsBox.label "Dimensions">
-<!ENTITY heightEditField.label "Height:">
+<!ENTITY dimensionsBox.label "Dimensións">
+<!ENTITY heightEditField.label "Altura:">
 <!ENTITY heightEditField.accessKey "G">
-<!ENTITY widthEditField.label "Width:">
+<!ENTITY widthEditField.label "Largura:">
 <!ENTITY widthEditField.accessKey "W">
-<!ENTITY pixelsPopup.value "pixels">
-<!ENTITY alignmentBox.label "Alignment">
-<!ENTITY leftRadio.label "Left">
+<!ENTITY pixelsPopup.value "píxeles">
+<!ENTITY alignmentBox.label "Aliñamento">
+<!ENTITY leftRadio.label "Esquerda">
 <!ENTITY leftRadio.accessKey "L">
-<!ENTITY centerRadio.label "Center">
+<!ENTITY centerRadio.label "Centro">
 <!ENTITY centerRadio.accessKey "C">
-<!ENTITY rightRadio.label "Right">
+<!ENTITY rightRadio.label "Dereita">
 <!ENTITY rightRadio.accessKey "R">
 
 <!ENTITY threeDShading.label "3-D Shading">
 <!ENTITY threeDShading.accessKey "S">
-<!ENTITY saveSettings.label "Use as Default">
+<!ENTITY saveSettings.label "Usar como predefinido">
 <!ENTITY saveSettings.accessKey "D">
-<!ENTITY saveSettings.tooltip "Save these settings to use when inserting new horizontal lines">
+<!ENTITY saveSettings.tooltip "Gardar estas configuracións para usar ao inserir novas liñas horizontais">

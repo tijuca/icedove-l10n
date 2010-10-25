@@ -1,4 +1,4 @@
-<!ENTITY window.title  "Acerca do correo lixo">
+<!ENTITY window.title  "Sobre o correo lixo">
 <!ENTITY window.width  "450">
 <!ENTITY info1a.label  "&brandShortName; detecta automaticamente mensaxes de entrada que parezan ser lixo (tamén coñecidas como spam). Estas mensaxes mostraranse cunha icona de lixo">
 <!ENTITY info1b.label  ".">

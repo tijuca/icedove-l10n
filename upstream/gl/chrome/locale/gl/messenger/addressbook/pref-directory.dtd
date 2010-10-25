@@ -1,4 +1,4 @@
-﻿<!-- ***** BEGIN LICENSE BLOCK *****
+<!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
  The contents of this file are subject to the Mozilla Public License Version
@@ -46,5 +46,5 @@
 <!ENTITY addDirectory.accesskey    "g">
 <!ENTITY editDirectory.label       "Editar">
 <!ENTITY editDirectory.accesskey   "E">
-<!ENTITY deleteDirectory.label     "Eliminar">
-<!ENTITY deleteDirectory.accesskey "l">
+<!ENTITY deleteDirectory.label     "Borrar">
+<!ENTITY deleteDirectory.accesskey "o">

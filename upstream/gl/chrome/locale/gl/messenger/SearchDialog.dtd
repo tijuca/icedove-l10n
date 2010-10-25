@@ -5,13 +5,12 @@
 <!ENTITY searchSubfolders.accesskey  "s">
 <!ENTITY searchOnServer.label        "Executar busca no servidor">
 <!ENTITY searchOnServer.accesskey    "u">
-
 <!ENTITY resetButton.label           "Limpar">
 <!ENTITY resetButton.accesskey       "L">
 <!ENTITY openButton.label            "Abrir">
 <!ENTITY openButton.accesskey        "b">
-<!ENTITY deleteButton.label          "Eliminar">
-<!ENTITY deleteButton.accesskey      "E">
+<!ENTITY deleteButton.label          "Borrar">
+<!ENTITY deleteButton.accesskey      "o">
 <!ENTITY searchDialogTitle.label     "Buscar nas mensaxes">
 <!ENTITY results.label               "Resultados">
 <!ENTITY fileHereMenu.label          "Gardar aquí">
@@ -45,7 +44,7 @@
 <!ENTITY statusColumn.label "Estado">
 <!ENTITY sizeColumn.label "Tamaño">
 <!ENTITY junkStatusColumn.label "Estado do correo lixo">
-<!ENTITY unreadColumn.label "Non lido">
+<!ENTITY unreadColumn.label "Non lida">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Ler">
 <!ENTITY receivedColumn.label "Recibido">

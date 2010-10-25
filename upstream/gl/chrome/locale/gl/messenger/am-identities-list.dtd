@@ -3,5 +3,5 @@
 <!ENTITY identitiesListAdd.accesskey  "n">
 <!ENTITY identitiesListEdit.label "Editar…">
 <!ENTITY identitiesListEdit.accesskey "E">
-<!ENTITY identitiesListDelete.label "Eliminar">
-<!ENTITY identitiesListDelete.accesskey "l">
+<!ENTITY identitiesListDelete.label "Borrar">
+<!ENTITY identitiesListDelete.accesskey "o">

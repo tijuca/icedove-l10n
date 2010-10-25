@@ -21,7 +21,7 @@
 <!ENTITY signMessage.accesskey "d">
 <!ENTITY signingCert.message "Utilizar este certificado para asinar as mensaxes que envíe:">
 
-<!ENTITY certificates.label     "Certificados">
+<!ENTITY certificates.label "Certificados">
 <!ENTITY manageCerts.label "Ver certificados">
 <!ENTITY manageCerts.accesskey "V">
 <!ENTITY manageDevices.label "Dispositivos de seguranza">

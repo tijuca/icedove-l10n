@@ -53,7 +53,7 @@
 <!ENTITY replaceButton.accessKey "S">
 <!ENTITY replaceAllButton.label "Substituír todo">
 <!ENTITY replaceAllButton.accessKey "t">
-<!ENTITY stopButton.label "Parar">
+<!ENTITY stopButton.label "Deter">
 <!ENTITY stopButton.accessKey "P">
 <!ENTITY userDictionary.label "Dicionario persoal:">
 <!ENTITY moreDictionaries.label "Descargar máis dicionarios…">

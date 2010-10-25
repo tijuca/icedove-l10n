@@ -4,7 +4,7 @@
 <!ENTITY  proxyTitle.label              "Configurar proxys para acceder á Internet">
 <!ENTITY  noProxyTypeRadio.label        "Sen proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
-<!ENTITY  systemTypeRadio.label         "Utilizar a configuración de proxy do sistema">
+<!ENTITY  systemTypeRadio.label         "Usar a configuración do proxy do sistema">
 <!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "Detectar automaticamente a configuración do proxy para esta rede">
 <!ENTITY  WPADTypeRadio.accesskey       "r">
@@ -21,9 +21,9 @@
 <!ENTITY  socks.label                   "Servidor SOCKS:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
-<!ENTITY  socks4.accesskey              "v">
+<!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
-<!ENTITY  socks5.accesskey              "5">
+<!ENTITY  socks5.accesskey              "v">
 <!ENTITY  HTTPport.label                "Porto:">
 <!ENTITY  HTTPport.accesskey            "t">
 <!ENTITY  SSLport.label                 "Porto:">
@@ -33,5 +33,5 @@
 <!ENTITY  noproxy.label                 "Sen proxy para:">
 <!ENTITY  noproxy.accesskey             "p">
 <!ENTITY  noproxyExplain.label          "Exemplo: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Utilizar este proxy para todos os protocolos">
-<!ENTITY  shareproxy.accesskey          "z">
+<!ENTITY  shareproxy.label              "Usar este servidor proxy para todos os protocolos">
+<!ENTITY  shareproxy.accesskey          "x">

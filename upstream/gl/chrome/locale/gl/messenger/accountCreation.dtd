@@ -23,10 +23,6 @@
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
 
-<!-- LOCALIZATION NOTE (createAndEditSettings.label): This label is a link
-     which will create the account and take the user to the account
-     configuration screen. -->
-
 <!ENTITY manualSetup.label               "Configuración manual…">
 <!ENTITY manualSetup.accesskey           "m">
 <!ENTITY cancel.label                    "Cancelar">
@@ -35,8 +31,8 @@
 <!ENTITY continue.accesskey              "C">
 <!ENTITY startOver.label                 "Comezar desde o principio">
 <!ENTITY startOver.accesskey             "o">
-<!ENTITY stop.label                      "Parar">
-<!ENTITY stop.accesskey                  "P">
+<!ENTITY stop.label                      "Deter">
+<!ENTITY stop.accesskey                  "t">
 <!-- LOCALIZATION NOTE (retest.label): This is the text that is
      displayed on the button which will re-guess the account configuration,
      taking into account the settings the user has changed. -->
@@ -51,16 +47,12 @@
 <!ENTITY warning.label                   "Aviso!">
 <!ENTITY incomingSettings.label          "Configuración de entrada:">
 <!ENTITY outgoingSettings.label          "Configuración de saída:">
-
-
 <!ENTITY technicaldetails.label          "Detalles técnicos">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label            "Entendo os riscos.">
 <!ENTITY confirmWarning.accesskey        "t">
-
-
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
@@ -78,7 +70,7 @@
 <!ENTITY insecureServer.tooltip.title    "Aviso! Este é un servidor inseguro.">
 <!ENTITY insecureServer.tooltip.details  "Prema no círculo para máis detalles.">
 
-<!ENTITY insecureUnencrypted.description   "O correo envíase sen cifrar, de maneira que as súas mensaxes poderían ser lidas por atacantes, etc. &brandShortName; permitiralle recibir o seu correo, pero debería conseguir que o seu fornecedor de correo configure o servidor cunha conexión segura.">
+<!ENTITY insecureUnencrypted.description "O correo envíase sen cifrar, de maneira que as súas mensaxes poderían ser lidas por atacantes, etc. &brandShortName; permitiralle recibir o seu correo, pero debería conseguir que o seu fornecedor de correo configure o servidor cunha conexión segura.">
 <!ENTITY insecureSelfSigned.description  "O servidor usa un certificado no que non se pode confiar, de maneira que non se pode asegurar
 que ninguén estea a interceptar o tráfico entre &brandShortName; e o seu servidor. &brandShortName; permitiralle recibir o seu correo, pero debería conseguir que o seu fornecedor configure o servidor cun certificado confiábel.">
 <!ENTITY secureServer.description        "Parabéns! Este é un servidor seguro.">

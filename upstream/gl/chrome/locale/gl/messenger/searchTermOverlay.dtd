@@ -1,4 +1,4 @@
-﻿<!ENTITY matchAll.label     "Coincidir con todo o seguinte">
+<!ENTITY matchAll.label     "Coincidir con todo o seguinte">
 <!ENTITY matchAll.accesskey "C">
 <!ENTITY matchAny.label     "Coincidir con calquera do seguinte">
 <!ENTITY matchAny.accesskey "s">

@@ -42,7 +42,7 @@
 
 <!ENTITY generalInfo.label                       "Información xeral">
 <!ENTITY folderCharsetTab.label                  "Codificación de caracteres predefinida:">
-<!ENTITY folderCharsetTab.accesskey              "E">
+<!ENTITY folderCharsetTab.accesskey              "e">
 <!ENTITY folderCharsetOverride.label             "Aplicar os valores predefinidos a todas as mensaxes do cartafol (ignoraranse as definicións individuais e a detección automática de codificación de caracteres das mensaxes)">
 <!ENTITY folderCharsetOverride.accesskey         "c">
 <!ENTITY folderRebuildSummaryFile.label          "Reconstruír índice">
@@ -50,27 +50,23 @@
 <!ENTITY folderRebuildSummaryFileTip.label       "Reconstruír ficheiro de resumo"> 
      
 <!ENTITY retention.label "Política de retención">
-<!ENTITY retentionUseAccount.label  "Utilizar as miñas configuracións da conta">
+<!ENTITY retentionUseAccount.label  "Usar as configuracións da miña conta">
 <!ENTITY retentionUseAccount.accesskey "U">
-
 <!ENTITY daysOld.label "días de antigüidade">
 <!ENTITY message.label "mensaxes">
 <!ENTITY retentionCleanup.label "Para recuperar espazo no disco, as mensaxes antigas poden eliminarse permanentemente">
-
 <!ENTITY retentionCleanupImap.label "Para recuperar espazo en disco, as mensaxes antigas poden eliminarse permanentemente, tanto as copias locais como os orixinais no servidor remoto:">
 <!ENTITY retentionCleanupPop.label "Para recuperar espazo en disco, incluíndo os orixinais no servidor remoto:">
-
-
 <!ENTITY retentionDeleteMsg.label "Eliminar mensaxes maiores que">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Non eliminar ningunha mensaxe">
 <!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepRecent.label "Eliminar todas excepto as máis recentes">
 <!ENTITY retentionKeepRecent.accesskey "l">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Eliminar sempre as mensaxes lidas (ignora as configuracións de antigüidade)">
 <!ENTITY retentionApplyToFlagged.label "Sempre manter mensaxes marcadas">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
-
 
 <!ENTITY folderSynchronizationTab.label          "Sincronización">
 <!ENTITY folderCheckForNewMessages.label         "Buscar novas mensaxes neste cartafol">

@@ -3,7 +3,7 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
 <!ENTITY fileMenu.label          "Ficheiro">
-<!ENTITY fileMenu.accesskey        "f">
+<!ENTITY fileMenu.accesskey        "F">
 <!ENTITY newMenu.label            "Novo">
 <!ENTITY newMenu.accesskey          "o">
 
@@ -21,11 +21,11 @@
 <!ENTITY copyCmd.label            "Copiar">
 <!ENTITY copyCmd.key            "C">
 <!ENTITY copyCmd.accesskey          "o">
-<!ENTITY pasteCmd.label            "Colar">
+<!ENTITY pasteCmd.label            "Pegar">
 <!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey          "a">
-<!ENTITY deleteCmd.label          "Eliminar">
-<!ENTITY deleteCmd.accesskey        "m">
+<!ENTITY pasteCmd.accesskey          "P">
+<!ENTITY deleteCmd.label          "Borrar">
+<!ENTITY deleteCmd.accesskey        "o">
 <!ENTITY selectAllCmd.label          "Seleccionar todo">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "t">
@@ -44,11 +44,9 @@
 <!ENTITY proxy.label                                    "Configuración proxy…">
 <!ENTITY proxy.accesskey                                "x">
 
-
 <!ENTITY closeCmd.label      "Pechar">
 <!ENTITY closeCmd.key      "W">
 <!ENTITY closeCmd.accesskey    "c">
-
 
 <!ENTITY quitApplicationCmd.label  "Saír">
 <!ENTITY quitApplicationCmd.key    "Q">
