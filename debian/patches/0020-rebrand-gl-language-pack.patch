@@ -5,11 +5,11 @@ Subject: [PATCH] rebrand gl language pack
 ---
  upstream/gl/chrome/locale/gl/branding/brand.dtd    |    4 ++--
  .../gl/chrome/locale/gl/branding/brand.properties  |    4 ++--
- .../gl/chrome/locale/gl/messenger/aboutDialog.dtd  |    6 ++----
+ .../gl/chrome/locale/gl/messenger/aboutDialog.dtd  |    4 +---
  .../chrome/locale/gl/messenger/accountCreation.dtd |    2 +-
  upstream/gl/chrome/locale/gl/messenger/credits.dtd |    2 +-
  .../locale/gl/messenger/featureConfigurator.dtd    |    8 ++++----
- 6 files changed, 12 insertions(+), 14 deletions(-)
+ 6 files changed, 11 insertions(+), 13 deletions(-)
 
 diff --git a/upstream/gl/chrome/locale/gl/branding/brand.dtd b/upstream/gl/chrome/locale/gl/branding/brand.dtd
 index 1707e62..64e36c2 100644
@@ -32,10 +32,10 @@ index 857d0c3..44bf191 100644
 +brandFullName=Icedove
  vendorShortName=Mozilla
 diff --git a/upstream/gl/chrome/locale/gl/messenger/aboutDialog.dtd b/upstream/gl/chrome/locale/gl/messenger/aboutDialog.dtd
-index 70d2ded..1d230e7 100644
+index 4d2320b..8ecd925 100644
 --- a/upstream/gl/chrome/locale/gl/messenger/aboutDialog.dtd
 +++ b/upstream/gl/chrome/locale/gl/messenger/aboutDialog.dtd
-@@ -3,9 +3,7 @@
+@@ -2,9 +2,7 @@
  <!ENTITY aboutButton.label      "&lt; Atrás">
  <!ENTITY aboutButton.accesskey  "A">
  <!ENTITY aboutVersion           "versión">
@@ -43,21 +43,14 @@ index 70d2ded..1d230e7 100644
 -                                 Thunderbird son marcas rexistradas da Fundación Mozilla.  Todos os dereitos  
 -                                 reservados.">
 +<!ENTITY copyrightText          "&#169;1998-2008 Colaboradores. Todos os dereitos reservados.">
- <!ENTITY aboutMenu.label        "Acerca de">
- <!ENTITY aboutMenu.accesskey    "r">
+ <!ENTITY aboutMenu.label        "Sobre">
+ <!ENTITY aboutMenu.accesskey    "b">
  <!ENTITY aboutCredits.label     "Créditos">
-@@ -17,4 +15,4 @@
- <!ENTITY aboutLicense.label      "Licenza">
- <!ENTITY aboutLicense.accesskey  "L">
- 
--<!ENTITY cmdCloseMac.commandKey "w">
-\ No newline at end of file
-+<!ENTITY cmdCloseMac.commandKey "w">
 diff --git a/upstream/gl/chrome/locale/gl/messenger/accountCreation.dtd b/upstream/gl/chrome/locale/gl/messenger/accountCreation.dtd
-index da23444..ecb1f2d 100644
+index a7d6d53..ddf02e1 100644
 --- a/upstream/gl/chrome/locale/gl/messenger/accountCreation.dtd
 +++ b/upstream/gl/chrome/locale/gl/messenger/accountCreation.dtd
-@@ -73,7 +73,7 @@
+@@ -65,7 +65,7 @@
  <!ENTITY changeSettings.label            "Cambiar configuracións">
  <!ENTITY changeSettings.accesskey        "f">
  
@@ -67,14 +60,14 @@ index da23444..ecb1f2d 100644
  <!ENTITY insecureServer.tooltip.title    "Aviso! Este é un servidor inseguro.">
  <!ENTITY insecureServer.tooltip.details  "Prema no círculo para máis detalles.">
 diff --git a/upstream/gl/chrome/locale/gl/messenger/credits.dtd b/upstream/gl/chrome/locale/gl/messenger/credits.dtd
-index 1a1985d..dcd8812 100644
+index 3f6ed0e..96761c6 100644
 --- a/upstream/gl/chrome/locale/gl/messenger/credits.dtd
 +++ b/upstream/gl/chrome/locale/gl/messenger/credits.dtd
 @@ -1,5 +1,5 @@
  <!ENTITY credit.title     "Créditos de &brandFullName;">
 -<!ENTITY brandMotto       "Os Thunderbirds levantan o voo!">
 +<!ENTITY brandMotto       "Os Icedove levantan o voo!">
- <!ENTITY credit.thanks    "Grazas en especial a">
+ <!ENTITY credit.thanks    "Agradecemento especial a">
  
  <!-- localization credits look like this: -->
 diff --git a/upstream/gl/chrome/locale/gl/messenger/featureConfigurator.dtd b/upstream/gl/chrome/locale/gl/messenger/featureConfigurator.dtd

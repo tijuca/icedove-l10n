@@ -1,0 +1,37 @@
+From: Christoph Goehre <chris@sigxcpu.org>
+Date: Sun, 31 Oct 2010 11:15:09 +0100
+Subject: [PATCH] sl: change Edit (Urejanje) to CTRL+E and email source view to CTRL+U
+
+Closes: #601331
+---
+ .../locale/sl/communicator/utilityOverlay.dtd      |    2 +-
+ .../sl/chrome/locale/sl/messenger/messenger.dtd    |    2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/upstream/sl/chrome/locale/sl/communicator/utilityOverlay.dtd b/upstream/sl/chrome/locale/sl/communicator/utilityOverlay.dtd
+index 3406624..09181d9 100644
+--- a/upstream/sl/chrome/locale/sl/communicator/utilityOverlay.dtd
++++ b/upstream/sl/chrome/locale/sl/communicator/utilityOverlay.dtd
+@@ -8,7 +8,7 @@
+ <!ENTITY newMenu.accesskey          "N">
+ 
+ <!ENTITY editMenu.label          "Urejanje">
+-<!ENTITY editMenu.accesskey        "U">
++<!ENTITY editMenu.accesskey        "e">
+ <!ENTITY undoCmd.label            "Razveljavi">
+ <!ENTITY undoCmd.key            "Z">
+ <!ENTITY undoCmd.accesskey          "r">
+diff --git a/upstream/sl/chrome/locale/sl/messenger/messenger.dtd b/upstream/sl/chrome/locale/sl/messenger/messenger.dtd
+index be01b59..d1a265d 100644
+--- a/upstream/sl/chrome/locale/sl/messenger/messenger.dtd
++++ b/upstream/sl/chrome/locale/sl/messenger/messenger.dtd
+@@ -261,7 +261,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
+ 
+ <!ENTITY pageSourceCmd.label "Izvor besedila">
+ <!ENTITY pageSourceCmd.accesskey "I">
+-<!ENTITY pageSourceCmd.key "o">
++<!ENTITY pageSourceCmd.key "u">
+ 
+ <!-- Search Menu -->
+ <!ENTITY findMenu.label "Poišči">
+-- 
