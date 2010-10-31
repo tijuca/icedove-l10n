@@ -14,9 +14,9 @@
 <!ENTITY  proportional.accesskey                  "P">
 
 <!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "f">
+<!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "S">
+<!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monoespazado:">
 <!ENTITY  monospace.accesskey                     "z">
 
@@ -37,15 +37,15 @@
 <!ENTITY  font.langGroup.hebrew                   "Hebreo">
 <!ENTITY  font.langGroup.arabic                   "Árabe">
 <!ENTITY  font.langGroup.devanagari               "Devanagari">
-<!ENTITY  font.langGroup.tamil                    " Tamil">
+<!ENTITY  font.langGroup.tamil                    "Tamil">
 <!ENTITY  font.langGroup.armenian                 "Armenio">
 <!ENTITY  font.langGroup.bengali                  "Bengalí">
-<!ENTITY  font.langGroup.canadian                 "Silabario canadense unificado">
+<!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
 <!ENTITY  font.langGroup.ethiopic                 "Etíope">
 <!ENTITY  font.langGroup.georgian                 "Xeorxiano">
 <!ENTITY  font.langGroup.gujarati                 "Guxarati">
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
-<!ENTITY  font.langGroup.khmer                    "Khmer">
+<!ENTITY  font.langGroup.khmer                    "Camboxano">
 <!ENTITY  font.langGroup.malayalam                "Malaialam">
 
 <!-- Minimum font size -->
@@ -57,6 +57,10 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
+<!-- fonts in message -->
+<!ENTITY  fontControl.label                       "Control dos tipos de letra">
+<!ENTITY  useFixedWidthForPlainText.label         "Usar un tipo de letra con ancho fixo para as mensaxes de texto sen formato">
+<!ENTITY  fixedWidth.accesskey                    "a">
 <!ENTITY  useDocumentFonts.label                  "Permitir que as mensaxes utilicen outros tipos de letra">
 <!ENTITY  useDocumentFonts.accesskey              "o">
 
@@ -70,8 +74,3 @@
 <!ENTITY viewDefaultCharsetList.accesskey  "a">
 <!ENTITY replyInDefaultCharset2.label     "Cando sexa posíbel, utilice a codificación de caracteres predefinida en respostas">
 <!ENTITY replyInDefaultCharset2.accesskey "n">
-
-<!-- fonts in message -->
-<!ENTITY  fontControl.label                       "Control dos tipos de letra">
-<!ENTITY  useFixedWidthForPlainText.label         "Usar un tipo de letra con ancho fixo para as mensaxes de texto sen formato">
-<!ENTITY  fixedWidth.accesskey                    "a">

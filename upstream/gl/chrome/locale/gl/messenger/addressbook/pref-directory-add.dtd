@@ -66,7 +66,7 @@
 <!ENTITY results.label                     "resultados">
 <!ENTITY offlineText.label                 "Se descarga unha copia local do directorio poderá traballar nela sen ter conexión.">
 <!ENTITY saslMechanism.label               "Método de inicio de sesión: ">
-<!ENTITY saslMechanism.accesskey           "m">
+<!ENTITY saslMechanism.accesskey           "M">
 <!ENTITY saslOff.label                     "Simple">
 <!ENTITY saslOff.accesskey                 "l">
 <!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">

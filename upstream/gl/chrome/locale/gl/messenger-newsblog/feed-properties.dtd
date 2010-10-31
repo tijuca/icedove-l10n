@@ -1,5 +1,5 @@
 <!-- Feed Properties Dialog -->
-<!ENTITY window.title             "Propiedades das fontes">
+<!ENTITY window.title             "Propiedades da fonte">
 
 <!ENTITY feedFolder.label         "Gardar artigos en: ">
 <!ENTITY feedFolder.accesskey     "G">
@@ -12,8 +12,8 @@
 <!ENTITY quickMode.label          "Mostrar o resumo do artigo en vez de cargar a páxina web">
 <!ENTITY quickMode.accesskey      "M">
 
-<!ENTITY copyLinkCmd.label        "Copiar enderezo da ligazón">
+<!ENTITY copyLinkCmd.label        "Copiar a localización da ligazón">
 <!ENTITY copyLinkCmd.accesskey    "C">
 
-<!ENTITY pasteLinkCmd.label       "Colar">
-<!ENTITY pasteLinkCmd.accesskey   "o">
+<!ENTITY pasteLinkCmd.label       "Pegar">
+<!ENTITY pasteLinkCmd.accesskey   "P">

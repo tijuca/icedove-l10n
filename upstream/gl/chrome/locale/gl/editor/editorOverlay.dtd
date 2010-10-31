@@ -44,7 +44,7 @@
 
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Ficheiro">
-<!ENTITY fileMenu.accesskey "f">
+<!ENTITY fileMenu.accesskey "F">
 <!ENTITY newBlankPageCmd.label "Páxina do Composer">
 <!ENTITY newBlankPageCmd.accesskey "p" >
 <!ENTITY newMenu.label "Novo">
@@ -89,20 +89,14 @@
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "E">
-<!ENTITY pasteNoFormatting.label "Colar sen formato">
+<!ENTITY pasteNoFormatting.label "Pegar sen formato">
 <!ENTITY pasteNoFormatting.accesskey "r">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Colar como">
+<!ENTITY pasteAs.label "Pegar como">
 <!ENTITY pasteAs.accesskey "o">
 <!ENTITY publishSettings.label "Publicar configuración do sitio…">
 <!ENTITY publishSettings.accesskey "b">
-
-<!-- For a "Paste" submenu when more than 1 
-     clipboard formats are available -->
-<!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
-     Set to: "Table" or "Nested Table" depending on context 
-     This accesskey must be in both strings -->
-<!ENTITY pasteAsQuotationCmd.label "Copiar como cita">
+<!ENTITY pasteAsQuotationCmd.label "Pegar como cita">
 <!ENTITY pasteAsQuotationCmd.accesskey "r">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Localizar e substituír…">
@@ -125,8 +119,6 @@
 <!ENTITY validateCmd.label "Validar HTML">
 <!ENTITY validateCmd.accesskey "V">
 
-<!-- View menu items -->
-
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Inserir">
 <!ENTITY insertMenu.accesskey "I">
@@ -142,24 +134,22 @@
 <!ENTITY insertTableCmd.label "Táboa…">
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
-<!ENTITY insertHTMLCmd.accesskey "h">
+<!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "Caracteres e símbolos…">
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "Quebrar imaxes">
 <!ENTITY insertBreakAllCmd.accesskey "r">
 
-<!-- Insert form menu items -->
-
 <!-- Used just in context popup. -->
 <!ENTITY spellCheckNoSuggestions.label "(Non se encontraron suxestións)">
 <!ENTITY spellCheckIgnoreWord.label "Ignorar a palabra">
-<!ENTITY spellCheckIgnoreWord.accesskey "m">
+<!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Engadir ao dicionario">
 <!ENTITY spellCheckAddToDictionary.accesskey "g">
 <!ENTITY createLinkCmd.label "Crear ligazón…">
 <!ENTITY createLinkCmd.accesskey "z">
 <!ENTITY editLinkCmd.label "Editar ligazón no novo Composer">
-<!ENTITY editLinkCmd.accesskey "I">
+<!ENTITY editLinkCmd.accesskey "i">
 <!-- (Toplevel Edit menu uses utilityOverlay) -->
 <!ENTITY undoCmd.label "Desfacer">
 <!ENTITY undoCmd.accesskey "D">
@@ -169,10 +159,10 @@
 <!ENTITY cutCmd.accesskey "C">
 <!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Colar">
-<!ENTITY pasteCmd.accesskey "a">
-<!ENTITY deleteCmd.label "Eliminar">
-<!ENTITY deleteCmd.accesskey "n">
+<!ENTITY pasteCmd.label "Pegar">
+<!ENTITY pasteCmd.accesskey "P">
+<!ENTITY deleteCmd.label "Borrar">
+<!ENTITY deleteCmd.accesskey "o">
 <!ENTITY clearCmd.label "Limpar">
 <!ENTITY clearCmd.accesskey "L">
 <!ENTITY selectAllCmd.label "Seleccionar todo">
@@ -183,16 +173,16 @@
 <!ENTITY fontfaceMenu.label "Tipo de letra">
 <!ENTITY fontfaceMenu.accesskey "T">
 <!ENTITY fontVarWidth.label "Largura variábel">
-<!ENTITY fontVarWidth.accesskey "V">
+<!ENTITY fontVarWidth.accesskey "v">
 <!ENTITY fontFixedWidth.label "Largura fixa">
 <!ENTITY fontFixedWidth.accesskey "x">
 <!ENTITY fontFixedWidth.key "T">
 <!ENTITY fontHelvetica.label "Helvetica, Arial">
-<!ENTITY fontHelvetica.accesskey "H">
+<!ENTITY fontHelvetica.accesskey "l">
 <!ENTITY fontTimes.label "Times">
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
-<!ENTITY fontCourier.accesskey "c">
+<!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Escoller un tamaño de tipo de letra">
@@ -246,7 +236,7 @@
 <!ENTITY styleStrong.label "Énfase forte">
 <!ENTITY styleStrong.accesskey "f">
 <!ENTITY styleCite.label "Cita">
-<!ENTITY styleCite.accesskey "c">
+<!ENTITY styleCite.accesskey "C">
 <!ENTITY styleAbbr.label "Abreviación">
 <!ENTITY styleAbbr.accesskey "A">
 <!ENTITY styleAcronym.label "Acrónimo">
@@ -259,7 +249,7 @@
 <!ENTITY styleVar.accesskey "V">
 
 <!ENTITY formatFontColor.label "Cor do texto…">
-<!ENTITY formatFontColor.accesskey "c">
+<!ENTITY formatFontColor.accesskey "C">
 <!ENTITY tableOrCellColor.label "Cor do fondo da cela ou da táboa…">
 <!ENTITY tableOrCellColor.accesskey "f">
 
@@ -272,7 +262,7 @@
 <!ENTITY paragraphMenu.label "Parágrafo">
 <!ENTITY paragraphMenu.accesskey "P">
 <!ENTITY paragraphParagraphCmd.label "Parágrafo">  
-<!ENTITY paragraphParagraphCmd.accesskey "p">
+<!ENTITY paragraphParagraphCmd.accesskey "P">
 <!ENTITY heading1Cmd.label "Título 1">
 <!ENTITY heading1Cmd.accesskey "1">
 <!ENTITY heading2Cmd.label "Título 2">
@@ -314,8 +304,6 @@
 <!ENTITY advancedPropertiesCmd.label "Propiedades avanzadas">
 <!ENTITY advancedPropertiesCmd.accesskey "v">
 
-<!-- Style Sheet submenu NOT IMPLEMENTED -->
-
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Aliñar">
 <!ENTITY alignMenu.accesskey "A">
@@ -355,9 +343,10 @@
 <!-- Table Menu -->
 <!ENTITY tableMenu.label "Táboa">
 <!ENTITY tableMenu.accesskey "T">
+
 <!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "Seleccionar">
-<!ENTITY tableSelectMenu.accesskey "s">
+<!ENTITY tableSelectMenu.accesskey "S">
 
 <!ENTITY tableSelectMenu2.label "Selección da táboa">
 <!ENTITY tableSelectMenu2.accesskey "S">
@@ -387,19 +376,18 @@
 <!ENTITY tableColumnAfter.accesskey "d">
 <!ENTITY tableCell.label "Cela">
 <!ENTITY tableCells.label "Celas">
-<!ENTITY tableCell.accesskey "c">
+<!ENTITY tableCell.accesskey "C">
 <!ENTITY tableCellContents.label "Contidos da cela">
 <!ENTITY tableCellContents.accesskey "t">
 <!ENTITY tableAllCells.label "Todas as celas">
 <!ENTITY tableAllCells.accesskey "d">
 <!ENTITY tableCellBefore.label "Cela antes">
 <!ENTITY tableCellBefore.accesskey "a">
-<!-- uses tablecell.accesskey -->
 <!ENTITY tableCellAfter.label "Cela despois">
 <!ENTITY tableCellAfter.accesskey "d">
 <!-- Delete SubMenu -->
-<!ENTITY tableDeleteMenu.label "Eliminar">
-<!ENTITY tableDeleteMenu.accesskey "E">
+<!ENTITY tableDeleteMenu.label "Borrar">
+<!ENTITY tableDeleteMenu.accesskey "o">
 
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
@@ -414,8 +402,6 @@
 <!ENTITY convertToTable.accesskey "C">
 <!ENTITY tableProperties.label "Propiedades da táboa…">
 <!ENTITY tableProperties.accesskey "P">
-
-<!-- Tools menu -->
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Barra de menú">
@@ -466,10 +452,6 @@
 <!ENTITY alignRightButton.tooltip "Aliñar texto pola marxe dereita">
 <!ENTITY alignjustifyButton.tooltip "Aliñar texto polas marxes dereita e esquerda">
 
-<!-- Formatting toolbar not used, but may be in future -->
-
-<!-- Used with color pickers in Format toolbar and Format Menu -->
-
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normal">
 <!ENTITY NormalMode.label "Modo edición normal">
@@ -485,7 +467,7 @@
 <!ENTITY HTMLSourceMode.accesskey "C">
 <!ENTITY HTMLSourceMode.tooltip "Editar código fonte HTML">
 <!ENTITY PreviewMode.label "Previsualizar">
-<!ENTITY PreviewMode.accesskey "p">
+<!ENTITY PreviewMode.accesskey "P">
 <!ENTITY PreviewMode.tooltip "Mostrar como WYSIWYG (como no navegador)">
 
 <!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'

@@ -35,6 +35,6 @@
 
  ***** END LICENSE BLOCK ***** -->
 <!ENTITY nameColumn.label   "Nome"> 
-<!ENTITY unreadColumn.label "Non lido"> 
+<!ENTITY unreadColumn.label "Non lida"> 
 <!ENTITY totalColumn.label "Total"> 
-<!ENTITY folderSizeColumn.label "Tamaño">
+<!ENTITY folderSizeColumn.label "Tamaño"> 

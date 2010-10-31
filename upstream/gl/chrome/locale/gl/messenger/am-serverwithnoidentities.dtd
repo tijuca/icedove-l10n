@@ -7,5 +7,5 @@
 <!ENTITY emptyTrashOnExit.accesskey "s">
 <!ENTITY localPath.label "Directorio local:">
 <!ENTITY localFolderPicker.label "Seleccione un cartafol local">
-<!ENTITY browseFolder.label "Explorar…">
-<!ENTITY browseFolder.accesskey "E">
+<!ENTITY browseFolder.label "Examinar…">
+<!ENTITY browseFolder.accesskey "x">

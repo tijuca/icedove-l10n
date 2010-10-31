@@ -41,7 +41,7 @@
 <!ENTITY defaultColorsRadio.label "Cores predefinidas do lector (Non definir cores na páxina)">
 <!ENTITY defaultColorsRadio.accessKey "N">
 <!ENTITY defaultColorsRadio.tooltip "Utilizar a configuración de cor só a partir do navegador do usuario (lector)">
-<!ENTITY customColorsRadio.label "Utilizar cores personalizadas:">
+<!ENTITY customColorsRadio.label "Usar cores personalizadas:">
 <!ENTITY customColorsRadio.accessKey "c">
 <!ENTITY customColorsRadio.tooltip "Esta configuración de cor anula a configuración do navegador do usuario">
 

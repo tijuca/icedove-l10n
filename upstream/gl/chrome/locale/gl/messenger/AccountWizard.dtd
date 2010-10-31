@@ -53,16 +53,11 @@
 <!ENTITY imapType.accesskey "I">
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
-<!ENTITY popType.accesskey "O">
+<!ENTITY popType.accesskey "P">
 
-<!-- for when the user has an SMTP server pre-configured -->
-<!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
-     this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
-    inserting text after the "&quot;" entity in currentSmtpAfter.label, if required grammatically
--->
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Utilizarase o seu servidor de correo de saída (SMTP), &quot;">
 <!ENTITY haveSmtp1.suffix2 "&quot;. Pode cambiar os servidores de saída na configuración da conta.">
@@ -78,15 +73,15 @@
 <!ENTITY usernameSmtpDesc.label "Introduza o nome de usuario de saída facilitado polo seu fornecedor de correo electrónico (normalmente é o mesmo que o de entrada).">
 <!ENTITY usernameSmtpLabel.label "Nome de usuario de saída:">
 <!ENTITY usernameSmtpLabel.accesskey "o">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Utilizarase o seu nome de usuario de saída (SMTP), &quot;">
 <!ENTITY haveSmtp2.suffix2 "&quot;. Pode cambiar os servidores de saída na configuración da conta.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "O seu servidor de saída (SMTP),  &quot;">
 <!ENTITY haveSmtp3.suffix2 "&quot;, é idéntico ao de entrada, utilizarase o seu nome de usuario de entrada para acceder a el. Pode cambiar os servidores de saída na configuración da conta.">
@@ -108,9 +103,9 @@
 <!ENTITY smtpServerNamePrefix.label "Nome do servidor de correo de saída (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Nome do servidor de noticias (NNTP):">
 <!ENTITY downloadOnLogin.label "Descargar as mensaxes agora">
-<!ENTITY downloadOnLogin.accesskey "d">
+<!ENTITY downloadOnLogin.accesskey "D">
 <!ENTITY deferStorageDesc.label "Desmarque esta caixa para así almacenar o correo desta conta nun directorio propio. Desta forma a conta aparecerá no nivel superior. Se non o fai pasará a formar parte da conta Cartafoles locais da caixa de entrada global.">
 <!ENTITY deferStorage.label "Utilizar a caixa de entrada global (almacenar nos cartafoles locais)">
+<!ENTITY deferStorage.accesskey "g">
 <!ENTITY clickFinish.label "Prema Finalizar para gardar esta configuración e saír do asistente.">
 <!ENTITY clickFinish.labelMac "Prema Finalizar para gardar esta configuración e saír do asistente.">
-<!ENTITY deferStorage.accesskey "G">

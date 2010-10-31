@@ -3,13 +3,13 @@
 
 <!ENTITY style.label                      "Estilo:">
 <!ENTITY style.accesskey                  "l">
-<!ENTITY regularStyle.label               "Regular">
+<!ENTITY regularStyle.label               "Normal">
 <!ENTITY bold.label                       "Negra">
 <!ENTITY italic.label                     "Cursiva">
 <!ENTITY boldItalic.label                 "Cursiva e negra">
 <!ENTITY size.label                       "Tamaño:">
 <!ENTITY size.accesskey                   "T">
-<!ENTITY regularSize.label                "Regular">
+<!ENTITY regularSize.label                "Normal">
 <!ENTITY bigger.label                     "Máis grande">
 <!ENTITY smaller.label                    "Menor">
 <!ENTITY color.label                      "Cor:">
@@ -28,13 +28,13 @@
 <!ENTITY convertEmoticons.accesskey    "M">
 
 <!-- labels -->
-<!ENTITY displayTagsText.label    "As etiquetas poden utilizarse para categorizar e ordenar as mensaxes.">
-<!ENTITY addTagButton.label       "Engadir">
-<!ENTITY addTagButton.accesskey   "d">
-<!ENTITY editTagButton.label      "Editar">
+<!ENTITY displayTagsText.label     "As etiquetas poden utilizarse para categorizar e ordenar as mensaxes.">
+<!ENTITY addTagButton.label        "Engadir">
+<!ENTITY addTagButton.accesskey    "d">
+<!ENTITY editTagButton.label       "Editar">
 <!ENTITY editTagButton.accesskey   "t">
-<!ENTITY removeTagButton.label    "Eliminar">
-<!ENTITY removeTagButton.accesskey "E">
+<!ENTITY removeTagButton.label     "Borrar">
+<!ENTITY removeTagButton.accesskey "o">
 
 <!-- Fonts -->
 <!ENTITY fontsAndColors.label    "Tipos de letra">

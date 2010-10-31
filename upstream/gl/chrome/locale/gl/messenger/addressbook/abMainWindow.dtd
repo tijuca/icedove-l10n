@@ -8,8 +8,8 @@
 <!ENTITY newContact.label                               "Contacto da axenda de enderezos…">
 <!ENTITY newContact.accesskey                           "C">
 <!ENTITY newContact.key                                 "N">
-<!ENTITY newListCmd.label                               "Lista de correo…">
-<!ENTITY newListCmd.accesskey                           "i">
+<!ENTITY newListCmd.label                               "Ro&lda de correo…">
+<!ENTITY newListCmd.accesskey                           "l">
 <!ENTITY newAddressBookCmd.label                        "Axenda de enderezos…">
 <!ENTITY newAddressBookCmd.accesskey                    "x">
 <!ENTITY newLDAPDirectoryCmd.label                      "Directorio LDAP…">
@@ -50,11 +50,11 @@
 <!ENTITY copyCmd.label                                  "Copiar">
 <!ENTITY copyCmd.key                                    "C">
 <!ENTITY copyCmd.accesskey                              "p">
-<!ENTITY pasteCmd.label                                 "Colar">
+<!ENTITY pasteCmd.label                                 "Pegar">
 <!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "C">
-<!ENTITY deleteCmd.label                                "Eliminar">
-<!ENTITY deleteCmd.accesskey                            "m">
+<!ENTITY pasteCmd.accesskey                             "P">
+<!ENTITY deleteCmd.label                                "Borrar">
+<!ENTITY deleteCmd.accesskey                            "a">
 <!ENTITY deleteAbCmd.label                              "Eliminar a axenda de enderezos">
 <!ENTITY deleteContactCmd.label                         "Eliminar contacto">
 <!ENTITY deleteContactsCmd.label                        "Eliminar contactos">
@@ -116,7 +116,6 @@
 <!ENTITY preferencesCmdUnix.accesskey                   "f">
 
 <!-- Address Book Toolbar and Context Menus -->  
-
 <!ENTITY newContactButton.label                         "Novo contacto">
 <!ENTITY newContactButton.accesskey                     "c">
 <!ENTITY newlistButton.label                            "Nova lista">
@@ -127,8 +126,8 @@
 <!ENTITY newmsgButton.accesskey                         "b">
 <!ENTITY newIM.label                                    "Mensaxe instantánea">
 <!ENTITY newIM.accesskey                                "a">
-<!ENTITY deleteButton2.label                            "Eliminar">
-<!ENTITY deleteButton2.accesskey                        "E">
+<!ENTITY deleteButton2.label                            "Borrar">
+<!ENTITY deleteButton2.accesskey                        "o">
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Crear un novo contacto na axenda de enderezos">
@@ -170,7 +169,7 @@
 <!ENTITY PagerNumber.label                              "Busca">
 <!ENTITY PagerNumber.accesskey                          "s">
 <!ENTITY FaxNumber.label                                "Fax">
-<!ENTITY FaxNumber.accesskey                            "x">
+<!ENTITY FaxNumber.accesskey                            "F">
 <!ENTITY HomePhone.label                                "Teléfono particular">
 <!ENTITY HomePhone.accesskey                            "p">
 <!ENTITY WorkPhone.label                                "Teléfono do traballo">

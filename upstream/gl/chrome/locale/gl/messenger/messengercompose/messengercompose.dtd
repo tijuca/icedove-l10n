@@ -1,4 +1,4 @@
-<!-- LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Escribir: (sen asunto)">
 
 <!-- File Menu -->
@@ -19,8 +19,8 @@
 <!ENTITY attachPageCmd.label "Páxina web…">
 <!ENTITY attachPageCmd.accesskey "x">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Cartón persoal (vCard)">
-<!ENTITY attachVCardCmd.accesskey "C">
+<!ENTITY attachVCardCmd.label "Tarxeta persoal (vCard)">
+<!ENTITY attachVCardCmd.accesskey "p">
 <!ENTITY closeCmd.label "Pechar">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "P">
@@ -62,16 +62,16 @@
 <!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "o"> 
-<!ENTITY pasteCmd.label "Colar">
+<!ENTITY pasteCmd.label "Pegar">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "a">
+<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "Reaxustar">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "x">
-<!ENTITY deleteCmd.label "Eliminar">
-<!ENTITY deleteCmd.accesskey "m">
+<!ENTITY deleteCmd.label "Borrar">
+<!ENTITY deleteCmd.accesskey "o">
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "S"> 
@@ -121,8 +121,8 @@
 <!ENTITY quoteCmd.accesskey "x">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCard.label "Anexar cartón persoal (vCard)">
-<!ENTITY attachVCard.accesskey "c">
+<!ENTITY attachVCard.label "Anexar tarxeta persoal (vCard)">
+<!ENTITY attachVCard.accesskey "v">
 
 <!ENTITY returnReceiptMenu.label "Aviso de recepción">
 <!ENTITY returnReceiptMenu.accesskey "v">
@@ -146,7 +146,7 @@
 <!ENTITY lowPriorityCmd.label "Baixa">
 <!ENTITY lowPriorityCmd.accesskey "i">
 <!ENTITY normalPriorityCmd.label "Normal">
-<!ENTITY normalPriorityCmd.accesskey "l">
+<!ENTITY normalPriorityCmd.accesskey "N">
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highPriorityCmd.accesskey "A">
 <!ENTITY highestPriorityCmd.label "Moi alta">
@@ -175,7 +175,7 @@
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Minimizar">
-<!ENTITY bringAllToFront.label "Traer todo para adiante">
+<!ENTITY bringAllToFront.label "Traer todo á fronte">
 <!ENTITY zoomWindow.label "Zoom"> 
 <!ENTITY windowMenu.label "Xanela">
 
@@ -196,7 +196,7 @@
 <!ENTITY saveButton.tooltip "Gardar esta mensaxe"> 
 <!ENTITY cutButton.tooltip              "Cortar">
 <!ENTITY copyButton.tooltip             "Copiar">
-<!ENTITY pasteButton.tooltip            "Colar">
+<!ENTITY pasteButton.tooltip            "Pegar">
 
 <!-- Headers -->
 <!ENTITY fromAddr.label "De:">
@@ -213,7 +213,6 @@
 <!ENTITY attachments.accesskey "s">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
 <!ENTITY SmileButton.tooltip "Inserir unha emoticona">
 <!ENTITY smiley1Cmd.label "Sorrindo">
 <!ENTITY smiley2Cmd.label "Fruncindo o cello">
@@ -244,15 +243,15 @@
 <!ENTITY cut.accesskey "C">
 <!ENTITY copy.label "Copiar">
 <!ENTITY copy.accesskey "o">
-<!ENTITY paste.label "Colar">
-<!ENTITY paste.accesskey "a">
-<!ENTITY pasteQuote.label "Copiar como cita">
+<!ENTITY paste.label "Pegar">
+<!ENTITY paste.accesskey "P">
+<!ENTITY pasteQuote.label "Pegar como cita">
 <!ENTITY pasteQuote.accesskey "i">
 
 <!ENTITY openAttachment.label "Abrir">
 <!ENTITY openAttachment.accesskey "b">
-<!ENTITY delete.label "Eliminar">
-<!ENTITY delete.accesskey "l">
+<!ENTITY delete.label "Borrar">
+<!ENTITY delete.accesskey "o">
 <!ENTITY removeAttachment.label "Eliminar anexo">
 <!ENTITY removeAttachment.accesskey "E">
 <!ENTITY renameAttachment.label "Renomear…">

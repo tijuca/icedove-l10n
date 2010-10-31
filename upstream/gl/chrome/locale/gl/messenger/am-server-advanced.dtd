@@ -17,7 +17,7 @@
 <!ENTITY publicNamespace.label "Público (compartido):">
 <!ENTITY publicNamespace.accesskey "c">
 <!ENTITY otherUsersNamespace.label "Outros usuarios:">
-<!ENTITY otherUsersNamespace.accesskey "d">
+<!ENTITY otherUsersNamespace.accesskey "O">
 <!ENTITY overrideNamespaces.label "Permitir que o servidor ignore estes espazos de nome">
 <!ENTITY overrideNamespaces.accesskey "n">
 <!ENTITY pop3Desc.label "Ao descargar correo pop deste servidor, utilizar o seguinte cartafol para o correo novo:" >

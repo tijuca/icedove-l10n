@@ -1,5 +1,5 @@
-<!ENTITY editContactPanelDeleteContact.label "Eliminar">
-<!ENTITY editContactPanelDeleteContact.accesskey "l">
+<!ENTITY editContactPanelDeleteContact.label "Borrar">
+<!ENTITY editContactPanelDeleteContact.accesskey "o">
 
 <!ENTITY editContactName.label "Nome:">
 <!ENTITY editContactName.accesskey "N">
@@ -12,4 +12,3 @@
 
 <!ENTITY editContactPanelDone.label "Feito">
 <!ENTITY editContactPanelDone.accesskey "t">
-

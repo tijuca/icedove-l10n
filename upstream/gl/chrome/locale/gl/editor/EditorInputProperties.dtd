@@ -60,7 +60,7 @@
 <!ENTITY InitialValue.label "Valor inicial:">
 <!ENTITY InitialValue.accesskey "V">
 <!ENTITY InputChecked.label "Verificado inicialmente">
-<!ENTITY InputChecked.accesskey "C">
+<!ENTITY InputChecked.accesskey "c">
 <!ENTITY InputSelected.label "Seleccionado inicialmente">
 <!ENTITY InputSelected.accesskey "S">
 <!ENTITY InputReadOnly.label "Só de lectura">
@@ -68,7 +68,7 @@
 <!ENTITY InputDisabled.label "Desactivado">
 <!ENTITY InputDisabled.accesskey "D">
 <!ENTITY tabIndex.label "Índice de tabulación:">
-<!ENTITY tabIndex.accesskey "I">
+<!ENTITY tabIndex.accesskey "i">
 <!ENTITY TextSize.label "Tamaño do campo:">
 <!ENTITY TextSize.accesskey "T">
 <!ENTITY TextLength.label "Lonxitude máxima:">

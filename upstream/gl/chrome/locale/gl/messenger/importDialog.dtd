@@ -49,10 +49,10 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importAll.accesskey      "T">
 <!ENTITY importMail.label         "Correo">
 <!ENTITY importMail.accesskey     "C">
-<!ENTITY importAddressbook.label  "Axenda">
+<!ENTITY importAddressbook.label  "Axendas de enderezos">
 <!ENTITY importAddressbook.accesskey "A">
-<!ENTITY importSettings.label     "Configuracións">
-<!ENTITY importSettings.accesskey "C">
+<!ENTITY importSettings.label     "Configuración">
+<!ENTITY importSettings.accesskey "g">
 <!ENTITY importFilters.label      "Filtros">
 <!ENTITY importFilters.accesskey  "F">
 
@@ -66,7 +66,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription2.label "Unha vez importados, poderá acceder a eles desde o &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Seleccione o programa a partir do cal desexa importar:">
-<!ENTITY selectDescription.accesskey "P">
+<!ENTITY selectDescription.accesskey "p">
 
 <!ENTITY back.label               "&lt; Atrás">
 <!ENTITY forward.label            "Seguinte &gt;">
@@ -78,11 +78,10 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY title.label              "Título">
 <!ENTITY processing.label         "Importando…">
 
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x ten un enderezo por cada cartón, mentres que &brandShortName; ten dous (Particular e Traballo).">
+<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x ten un enderezo por cada tarxeta, mentres que &brandShortName; ten dous (Particular e Traballo).">
 <!ENTITY FieldDiscInputText2.label  "Seleccione a categoría en que desexa gardar os enderezos importados:">
 <!ENTITY FieldDiscWarning.label  "Esta categoría utilizarase para todas as entradas da axenda seleccionada: ">
 <!ENTITY importHome.label        "Inicio">
 <!ENTITY importHome.accesskey    "I">
 <!ENTITY importWork.label        "Traballo">
 <!ENTITY importWork.accesskey    "T">
-

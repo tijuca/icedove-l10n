@@ -3,7 +3,7 @@
 <!ENTITY itemSpellCheck.label                "Ortografía">
 
 <!ENTITY forwardMsg.label                     "Reencamiñar mensaxes:">
-<!ENTITY forwardMsg.accesskey                 "E">
+<!ENTITY forwardMsg.accesskey                 "e">
 <!ENTITY inline.label                         "Inseridas">
 <!ENTITY asAttachment.label                   "Como anexo">
 <!ENTITY addExtension.label                   "engadir extensión ao nome do ficheiro">
@@ -18,13 +18,13 @@
 <!ENTITY fontColor.accesskey                  "C">
 <!ENTITY bgColor.label                        "Cor de fondo:">
 <!ENTITY bgColor.accesskey                    "r">
-<!ENTITY restoreHTMLDefaults.label            "Restaurar predefinicións">
-<!ENTITY restoreHTMLDefaults.accesskey        "u">
+<!ENTITY restoreHTMLDefaults.label            "Restaurar predefinidos">
+<!ENTITY restoreHTMLDefaults.accesskey        "R">
 
 <!ENTITY spellCheck.label                     "Verificar a ortografía antes do envío">
 <!ENTITY spellCheck.accesskey                 "V">
 <!ENTITY spellCheckInline.label               "Activar a verificación ortográfica ao escribir">
-<!ENTITY spellCheckInline1.accesskey           "o">
+<!ENTITY spellCheckInline1.accesskey          "o">
 <!ENTITY languagePopup.label                  "Idioma:">
 <!ENTITY languagePopup.accessKey              "m">
 <!ENTITY downloadDictionaries.label           "Descargar máis dicionarios">
@@ -52,6 +52,6 @@
 <!ENTITY sendOptions.accesskey                 "O">
 
 <!ENTITY attachmentReminder.label              "Comprobar adxuntos olvidados">
-<!ENTITY attachmentReminder.accesskey          "V">
+<!ENTITY attachmentReminder.accesskey          "v">
 <!ENTITY attachmentReminderOptions.label       "Palabras chave…">
 <!ENTITY attachmentReminderOptions.accesskey   "P">

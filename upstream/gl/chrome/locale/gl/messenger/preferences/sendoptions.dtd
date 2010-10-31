@@ -20,13 +20,12 @@
 <!ENTITY AddHtmlDomain.accesskey      "d">
 <!ENTITY AddPlainText.label           "Engadir…">
 <!ENTITY AddPlainText.accesskey       "E">
-<!ENTITY DeleteHtmlDomain.label       "Eliminar">
-<!ENTITY DeleteHtmlDomain.accesskey   "m">
-<!ENTITY DeletePlainText.label        "Eliminar">
-<!ENTITY DeletePlainText.accesskey    "n">
+<!ENTITY DeleteHtmlDomain.label       "Borrar">
+<!ENTITY DeleteHtmlDomain.accesskey   "o">
+<!ENTITY DeletePlainText.label        "Borrar">
+<!ENTITY DeletePlainText.accesskey    "o">
 
 <!ENTITY add.htmltitle                "Engadir nome de dominio HTML">
 <!ENTITY add.htmldomain               "Nome de dominio HTML:">
 <!ENTITY add.plaintexttitle           "Engadir nome de dominio de texto sen formato">
 <!ENTITY add.plaintextdomain          "Nome de dominio de texto sen formato:">
-

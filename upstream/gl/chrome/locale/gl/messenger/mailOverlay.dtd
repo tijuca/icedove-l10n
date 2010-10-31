@@ -2,6 +2,6 @@
 <!ENTITY  newMessageCmd.key               "M">
 <!ENTITY  newMessageCmd.label             "Mensaxe">
 <!ENTITY  newMessageCmd.accesskey         "e">
-
+ 
 <!ENTITY  newContactCmd.label             "Contacto da axenda de enderezos…">
 <!ENTITY  newContactCmd.accesskey         "C">

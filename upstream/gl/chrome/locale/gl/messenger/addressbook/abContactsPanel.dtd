@@ -4,7 +4,7 @@
 <!ENTITY searchInput.accesskey              "r">
 <!ENTITY SearchNameOrEmail.label            "Nome ou correo electrónico">
 
-<!ENTITY deleteAddrBookCard.label           "Eliminar">
+<!ENTITY deleteAddrBookCard.label           "Borrar">
 <!ENTITY addrBookCardProperties.label       "Propiedades">
 <!ENTITY addtoToFieldMenu.label             "Engadir no campo Para">
 <!ENTITY addtoCcFieldMenu.label             "Engadir no campo CC">

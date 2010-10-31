@@ -1,12 +1,3 @@
-<!ENTITY contextBoth.label "se comprobe o correo ou se execute manualmente">
-<!ENTITY contextDesc.accesskey "A">
-<!ENTITY contextDesc.label "Aplicar filtro cando:">
-<!ENTITY contextIncoming.label "se comprobe o correo">
-<!ENTITY contextManual.label "se execute manualmente">
-
-
-
-
 <!ENTITY window.title "Regras de filtraxe">
 
 <!ENTITY filterName.label "Nome do filtro:">
@@ -20,11 +11,16 @@
 <!ENTITY normalPriorityCmd.label "Normal">
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highestPriorityCmd.label "A máis alta">
+
+<!ENTITY contextDesc.label "Aplicar filtro cando:">
+<!ENTITY contextDesc.accesskey "A">
+<!ENTITY contextIncoming.label "se comprobe o correo">
+<!ENTITY contextManual.label "se execute manualmente">
+<!ENTITY contextBoth.label "se comprobe o correo ou se execute manualmente">
 <!ENTITY contextPostPlugin.label "se comprobe o correo (despois de clasificalo)">
 <!ENTITY contextPostPluginBoth.label "se comprobe o correo (despois de clasificalo) ou se execute manualmente">
 <!ENTITY filterActionDesc.label "Realizar estas accións:">
 <!ENTITY filterActionDesc.accesskey "s">
-
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Mover mensaxe a">
