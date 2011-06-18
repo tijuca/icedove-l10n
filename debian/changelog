@@ -1,3 +1,9 @@
+icedove-l10n (1:3.1.10-1~bpo60+1) squeeze-backports; urgency=low
+
+  * Rebuild for squeeze-backports.
+
+ -- Christoph Goehre <chris@sigxcpu.org>  Sat, 18 Jun 2011 18:45:48 +0200
+
 icedove-l10n (1:3.1.10-1) unstable; urgency=low
 
   * New Upstream Version
