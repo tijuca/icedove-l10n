@@ -59,7 +59,7 @@ Closes: #616102
  52 files changed, 52 insertions(+)
 
 diff --git a/upstream/ar/install.rdf b/upstream/ar/install.rdf
-index c68ff02..edeb3d9 100644
+index dbacb5b..242bd73 100644
 --- a/upstream/ar/install.rdf
 +++ b/upstream/ar/install.rdf
 @@ -19,5 +19,6 @@
@@ -70,7 +70,7 @@ index c68ff02..edeb3d9 100644
    </Description>
  </RDF>
 diff --git a/upstream/ast/install.rdf b/upstream/ast/install.rdf
-index a4f6492..838bd14 100644
+index b359427..bf0c64b 100644
 --- a/upstream/ast/install.rdf
 +++ b/upstream/ast/install.rdf
 @@ -18,5 +18,6 @@
@@ -81,7 +81,7 @@ index a4f6492..838bd14 100644
    </Description>
  </RDF>
 diff --git a/upstream/be/install.rdf b/upstream/be/install.rdf
-index 6ac0a89..83bb4d3 100644
+index 36cf9cc..78271d7 100644
 --- a/upstream/be/install.rdf
 +++ b/upstream/be/install.rdf
 @@ -19,5 +19,6 @@
@@ -92,7 +92,7 @@ index 6ac0a89..83bb4d3 100644
    </Description>
  </RDF>
 diff --git a/upstream/bg/install.rdf b/upstream/bg/install.rdf
-index 1a717fc..ed312b5 100644
+index 264c3f4..4318e73 100644
 --- a/upstream/bg/install.rdf
 +++ b/upstream/bg/install.rdf
 @@ -19,5 +19,6 @@
@@ -103,7 +103,7 @@ index 1a717fc..ed312b5 100644
    </Description>
  </RDF>
 diff --git a/upstream/bn-BD/install.rdf b/upstream/bn-BD/install.rdf
-index 0f7ad20..52d7723 100644
+index eb5edf2..eb8dc4d 100644
 --- a/upstream/bn-BD/install.rdf
 +++ b/upstream/bn-BD/install.rdf
 @@ -19,5 +19,6 @@
@@ -114,7 +114,7 @@ index 0f7ad20..52d7723 100644
    </Description>
  </RDF>
 diff --git a/upstream/br/install.rdf b/upstream/br/install.rdf
-index 0c40158..955a3b5 100644
+index e411e35..93fbf67 100644
 --- a/upstream/br/install.rdf
 +++ b/upstream/br/install.rdf
 @@ -19,5 +19,6 @@
@@ -125,7 +125,7 @@ index 0c40158..955a3b5 100644
    </Description>
  </RDF>
 diff --git a/upstream/ca/install.rdf b/upstream/ca/install.rdf
-index 85fdf80..735ba40 100644
+index 9f1f148..1101872 100644
 --- a/upstream/ca/install.rdf
 +++ b/upstream/ca/install.rdf
 @@ -19,5 +19,6 @@
@@ -136,7 +136,7 @@ index 85fdf80..735ba40 100644
    </Description>
  </RDF>
 diff --git a/upstream/cs/install.rdf b/upstream/cs/install.rdf
-index fa8c44c..bf39b9d 100644
+index 9f1ba29..2c71963 100644
 --- a/upstream/cs/install.rdf
 +++ b/upstream/cs/install.rdf
 @@ -19,5 +19,6 @@
@@ -147,7 +147,7 @@ index fa8c44c..bf39b9d 100644
    </Description>
  </RDF>
 diff --git a/upstream/da/install.rdf b/upstream/da/install.rdf
-index f9683c4..3816f40 100644
+index 02dee99..3c3ee09 100644
 --- a/upstream/da/install.rdf
 +++ b/upstream/da/install.rdf
 @@ -18,5 +18,6 @@
@@ -158,7 +158,7 @@ index f9683c4..3816f40 100644
    </Description>
  </RDF>
 diff --git a/upstream/de/install.rdf b/upstream/de/install.rdf
-index ea5fcdf..a187b21 100644
+index 13c8a95..d81264c 100644
 --- a/upstream/de/install.rdf
 +++ b/upstream/de/install.rdf
 @@ -19,5 +19,6 @@
@@ -169,7 +169,7 @@ index ea5fcdf..a187b21 100644
    </Description>
  </RDF>
 diff --git a/upstream/el/install.rdf b/upstream/el/install.rdf
-index 206dfe1..0b9e93a 100644
+index f2b1227..0da873b 100644
 --- a/upstream/el/install.rdf
 +++ b/upstream/el/install.rdf
 @@ -18,5 +18,6 @@
@@ -180,7 +180,7 @@ index 206dfe1..0b9e93a 100644
    </Description>
  </RDF>
 diff --git a/upstream/en-GB/install.rdf b/upstream/en-GB/install.rdf
-index 7bb56af..3c24cf2 100644
+index 54ab9be..140b905 100644
 --- a/upstream/en-GB/install.rdf
 +++ b/upstream/en-GB/install.rdf
 @@ -19,5 +19,6 @@
@@ -191,7 +191,7 @@ index 7bb56af..3c24cf2 100644
    </Description>
  </RDF>
 diff --git a/upstream/es-AR/install.rdf b/upstream/es-AR/install.rdf
-index 86590f2..3263aef 100644
+index c8af876..1f5a107 100644
 --- a/upstream/es-AR/install.rdf
 +++ b/upstream/es-AR/install.rdf
 @@ -19,5 +19,6 @@
@@ -202,7 +202,7 @@ index 86590f2..3263aef 100644
    </Description>
  </RDF>
 diff --git a/upstream/es-ES/install.rdf b/upstream/es-ES/install.rdf
-index 02d91e8..ced38ac 100644
+index 8f55ed0..bf37603 100644
 --- a/upstream/es-ES/install.rdf
 +++ b/upstream/es-ES/install.rdf
 @@ -18,5 +18,6 @@
@@ -213,7 +213,7 @@ index 02d91e8..ced38ac 100644
    </Description>
  </RDF>
 diff --git a/upstream/et/install.rdf b/upstream/et/install.rdf
-index 2ee4688..9374c6c 100644
+index eff0b05..ef459e5 100644
 --- a/upstream/et/install.rdf
 +++ b/upstream/et/install.rdf
 @@ -19,5 +19,6 @@
@@ -224,7 +224,7 @@ index 2ee4688..9374c6c 100644
    </Description>
  </RDF>
 diff --git a/upstream/eu/install.rdf b/upstream/eu/install.rdf
-index b700628..703bb0d 100644
+index 1eb0cfb..6a184aa 100644
 --- a/upstream/eu/install.rdf
 +++ b/upstream/eu/install.rdf
 @@ -19,5 +19,6 @@
@@ -235,7 +235,7 @@ index b700628..703bb0d 100644
    </Description>
  </RDF>
 diff --git a/upstream/fi/install.rdf b/upstream/fi/install.rdf
-index f0ac7c2..8efe761 100644
+index bfcf65f..9af620c 100644
 --- a/upstream/fi/install.rdf
 +++ b/upstream/fi/install.rdf
 @@ -18,5 +18,6 @@
@@ -246,7 +246,7 @@ index f0ac7c2..8efe761 100644
    </Description>
  </RDF>
 diff --git a/upstream/fr/install.rdf b/upstream/fr/install.rdf
-index bce2ac3..321bbcc 100644
+index ef9f3e9..d6e333d 100644
 --- a/upstream/fr/install.rdf
 +++ b/upstream/fr/install.rdf
 @@ -19,5 +19,6 @@
@@ -257,7 +257,7 @@ index bce2ac3..321bbcc 100644
    </Description>
  </RDF>
 diff --git a/upstream/fy-NL/install.rdf b/upstream/fy-NL/install.rdf
-index b514d8c..8cc0745 100644
+index 3419924..8dee39c 100644
 --- a/upstream/fy-NL/install.rdf
 +++ b/upstream/fy-NL/install.rdf
 @@ -18,5 +18,6 @@
@@ -268,7 +268,7 @@ index b514d8c..8cc0745 100644
    </Description>
  </RDF>
 diff --git a/upstream/ga-IE/install.rdf b/upstream/ga-IE/install.rdf
-index 9fee3fb..c42a4a9 100644
+index b06ab0e..87d0932 100644
 --- a/upstream/ga-IE/install.rdf
 +++ b/upstream/ga-IE/install.rdf
 @@ -19,5 +19,6 @@
@@ -279,7 +279,7 @@ index 9fee3fb..c42a4a9 100644
    </Description>
  </RDF>
 diff --git a/upstream/gd/install.rdf b/upstream/gd/install.rdf
-index d753358..5468fa9 100644
+index 8d9a385..776636d 100644
 --- a/upstream/gd/install.rdf
 +++ b/upstream/gd/install.rdf
 @@ -19,5 +19,6 @@
@@ -290,7 +290,7 @@ index d753358..5468fa9 100644
    </Description>
  </RDF>
 diff --git a/upstream/gl/install.rdf b/upstream/gl/install.rdf
-index b6edf4f..23306d7 100644
+index 588107c..095e058 100644
 --- a/upstream/gl/install.rdf
 +++ b/upstream/gl/install.rdf
 @@ -19,5 +19,6 @@
@@ -301,7 +301,7 @@ index b6edf4f..23306d7 100644
    </Description>
  </RDF>
 diff --git a/upstream/he/install.rdf b/upstream/he/install.rdf
-index 716a1aa..49f10fb 100644
+index e8f8713..d9bb1db 100644
 --- a/upstream/he/install.rdf
 +++ b/upstream/he/install.rdf
 @@ -19,5 +19,6 @@
@@ -312,7 +312,7 @@ index 716a1aa..49f10fb 100644
    </Description>
  </RDF>
 diff --git a/upstream/hu/install.rdf b/upstream/hu/install.rdf
-index 5bef822..d0d7e45 100644
+index e71a047..fa633dc 100644
 --- a/upstream/hu/install.rdf
 +++ b/upstream/hu/install.rdf
 @@ -19,5 +19,6 @@
@@ -323,7 +323,7 @@ index 5bef822..d0d7e45 100644
    </Description>
  </RDF>
 diff --git a/upstream/id/install.rdf b/upstream/id/install.rdf
-index 6b0747b..c7eff29 100644
+index 0ade8b9..a588c6a 100644
 --- a/upstream/id/install.rdf
 +++ b/upstream/id/install.rdf
 @@ -19,5 +19,6 @@
@@ -334,7 +334,7 @@ index 6b0747b..c7eff29 100644
    </Description>
  </RDF>
 diff --git a/upstream/is/install.rdf b/upstream/is/install.rdf
-index a06ea29..fdc304b 100644
+index e65055d..18a710e 100644
 --- a/upstream/is/install.rdf
 +++ b/upstream/is/install.rdf
 @@ -18,5 +18,6 @@
@@ -345,7 +345,7 @@ index a06ea29..fdc304b 100644
    </Description>
  </RDF>
 diff --git a/upstream/it/install.rdf b/upstream/it/install.rdf
-index 4da1304..d9a77b9 100644
+index 1eb110f..5b612ea 100644
 --- a/upstream/it/install.rdf
 +++ b/upstream/it/install.rdf
 @@ -18,5 +18,6 @@
@@ -356,7 +356,7 @@ index 4da1304..d9a77b9 100644
    </Description>
  </RDF>
 diff --git a/upstream/ja/install.rdf b/upstream/ja/install.rdf
-index 29eaab6..63a2778 100644
+index a6ab38b..590efab 100644
 --- a/upstream/ja/install.rdf
 +++ b/upstream/ja/install.rdf
 @@ -19,5 +19,6 @@
@@ -367,7 +367,7 @@ index 29eaab6..63a2778 100644
    </Description>
  </RDF>
 diff --git a/upstream/ko/install.rdf b/upstream/ko/install.rdf
-index aa550b7..e322f5c 100644
+index 10eee7f..c081d2b 100644
 --- a/upstream/ko/install.rdf
 +++ b/upstream/ko/install.rdf
 @@ -19,5 +19,6 @@
@@ -378,7 +378,7 @@ index aa550b7..e322f5c 100644
    </Description>
  </RDF>
 diff --git a/upstream/lt/install.rdf b/upstream/lt/install.rdf
-index 81792b4..4889251 100644
+index b818b59..c130b67 100644
 --- a/upstream/lt/install.rdf
 +++ b/upstream/lt/install.rdf
 @@ -19,5 +19,6 @@
@@ -389,7 +389,7 @@ index 81792b4..4889251 100644
    </Description>
  </RDF>
 diff --git a/upstream/nb-NO/install.rdf b/upstream/nb-NO/install.rdf
-index 56b3c8c..25d0422 100644
+index d71f4e4..aa03efd 100644
 --- a/upstream/nb-NO/install.rdf
 +++ b/upstream/nb-NO/install.rdf
 @@ -19,5 +19,6 @@
@@ -400,7 +400,7 @@ index 56b3c8c..25d0422 100644
    </Description>
  </RDF>
 diff --git a/upstream/nl/install.rdf b/upstream/nl/install.rdf
-index 16dfcac..343be43 100644
+index 8bf8ca6..8636220 100644
 --- a/upstream/nl/install.rdf
 +++ b/upstream/nl/install.rdf
 @@ -19,5 +19,6 @@
@@ -411,7 +411,7 @@ index 16dfcac..343be43 100644
    </Description>
  </RDF>
 diff --git a/upstream/nn-NO/install.rdf b/upstream/nn-NO/install.rdf
-index 1450885..5e14438 100644
+index 9557556..7261179 100644
 --- a/upstream/nn-NO/install.rdf
 +++ b/upstream/nn-NO/install.rdf
 @@ -19,5 +19,6 @@
@@ -422,7 +422,7 @@ index 1450885..5e14438 100644
    </Description>
  </RDF>
 diff --git a/upstream/pa-IN/install.rdf b/upstream/pa-IN/install.rdf
-index b35bc08..6ad58f2 100644
+index 1031b53..57bba01 100644
 --- a/upstream/pa-IN/install.rdf
 +++ b/upstream/pa-IN/install.rdf
 @@ -18,5 +18,6 @@
@@ -433,7 +433,7 @@ index b35bc08..6ad58f2 100644
    </Description>
  </RDF>
 diff --git a/upstream/pl/install.rdf b/upstream/pl/install.rdf
-index d0e8c7a..3eb90ae 100644
+index 1d115ee..8cf0080 100644
 --- a/upstream/pl/install.rdf
 +++ b/upstream/pl/install.rdf
 @@ -19,5 +19,6 @@
@@ -444,7 +444,7 @@ index d0e8c7a..3eb90ae 100644
    </Description>
  </RDF>
 diff --git a/upstream/pt-BR/install.rdf b/upstream/pt-BR/install.rdf
-index c991140..ce403c0 100644
+index f8c44c3..7e0b01a 100644
 --- a/upstream/pt-BR/install.rdf
 +++ b/upstream/pt-BR/install.rdf
 @@ -18,5 +18,6 @@
@@ -455,7 +455,7 @@ index c991140..ce403c0 100644
    </Description>
  </RDF>
 diff --git a/upstream/pt-PT/install.rdf b/upstream/pt-PT/install.rdf
-index 138017a..ec40193 100644
+index 586e0c2..783f621 100644
 --- a/upstream/pt-PT/install.rdf
 +++ b/upstream/pt-PT/install.rdf
 @@ -19,5 +19,6 @@
@@ -466,7 +466,7 @@ index 138017a..ec40193 100644
    </Description>
  </RDF>
 diff --git a/upstream/rm/install.rdf b/upstream/rm/install.rdf
-index 15ab631..2740b59 100644
+index 97a0cb8..eaf3a81 100644
 --- a/upstream/rm/install.rdf
 +++ b/upstream/rm/install.rdf
 @@ -19,5 +19,6 @@
@@ -477,7 +477,7 @@ index 15ab631..2740b59 100644
    </Description>
  </RDF>
 diff --git a/upstream/ro/install.rdf b/upstream/ro/install.rdf
-index ba6619b..aa614ff 100644
+index 2d5e339..eb91820 100644
 --- a/upstream/ro/install.rdf
 +++ b/upstream/ro/install.rdf
 @@ -19,5 +19,6 @@
@@ -488,7 +488,7 @@ index ba6619b..aa614ff 100644
    </Description>
  </RDF>
 diff --git a/upstream/ru/install.rdf b/upstream/ru/install.rdf
-index c7f0140..68625b1 100644
+index 4b47dc4..6d1d09f 100644
 --- a/upstream/ru/install.rdf
 +++ b/upstream/ru/install.rdf
 @@ -19,5 +19,6 @@
@@ -499,7 +499,7 @@ index c7f0140..68625b1 100644
    </Description>
  </RDF>
 diff --git a/upstream/si/install.rdf b/upstream/si/install.rdf
-index 1b150e6..141bc02 100644
+index ce4f338..fd0a0c2 100644
 --- a/upstream/si/install.rdf
 +++ b/upstream/si/install.rdf
 @@ -19,5 +19,6 @@
@@ -510,7 +510,7 @@ index 1b150e6..141bc02 100644
    </Description>
  </RDF>
 diff --git a/upstream/sk/install.rdf b/upstream/sk/install.rdf
-index d293987..7567277 100644
+index bef6638..dfbf1b9 100644
 --- a/upstream/sk/install.rdf
 +++ b/upstream/sk/install.rdf
 @@ -19,5 +19,6 @@
@@ -521,7 +521,7 @@ index d293987..7567277 100644
    </Description>
  </RDF>
 diff --git a/upstream/sl/install.rdf b/upstream/sl/install.rdf
-index b1dd1be..d194fe8 100644
+index eb0c965..37d8549 100644
 --- a/upstream/sl/install.rdf
 +++ b/upstream/sl/install.rdf
 @@ -18,5 +18,6 @@
@@ -532,7 +532,7 @@ index b1dd1be..d194fe8 100644
    </Description>
  </RDF>
 diff --git a/upstream/sq/install.rdf b/upstream/sq/install.rdf
-index be6f215..542c35d 100644
+index 38ef6ff..dba7c82 100644
 --- a/upstream/sq/install.rdf
 +++ b/upstream/sq/install.rdf
 @@ -19,5 +19,6 @@
@@ -543,7 +543,7 @@ index be6f215..542c35d 100644
    </Description>
  </RDF>
 diff --git a/upstream/sr/install.rdf b/upstream/sr/install.rdf
-index c4daf1d..e3ce28e 100644
+index 7fe0a21..b74e510 100644
 --- a/upstream/sr/install.rdf
 +++ b/upstream/sr/install.rdf
 @@ -19,5 +19,6 @@
@@ -554,7 +554,7 @@ index c4daf1d..e3ce28e 100644
    </Description>
  </RDF>
 diff --git a/upstream/sv-SE/install.rdf b/upstream/sv-SE/install.rdf
-index cfa0189..5de2145 100644
+index cd5cd28..edce3ea 100644
 --- a/upstream/sv-SE/install.rdf
 +++ b/upstream/sv-SE/install.rdf
 @@ -18,5 +18,6 @@
@@ -565,7 +565,7 @@ index cfa0189..5de2145 100644
    </Description>
  </RDF>
 diff --git a/upstream/ta-LK/install.rdf b/upstream/ta-LK/install.rdf
-index dbe97fa..f77aa84 100644
+index cc01a9f..4dfa38f 100644
 --- a/upstream/ta-LK/install.rdf
 +++ b/upstream/ta-LK/install.rdf
 @@ -19,5 +19,6 @@
@@ -576,7 +576,7 @@ index dbe97fa..f77aa84 100644
    </Description>
  </RDF>
 diff --git a/upstream/tr/install.rdf b/upstream/tr/install.rdf
-index 43f5a94..ee54488 100644
+index 9ca22ef..7d4eaa9 100644
 --- a/upstream/tr/install.rdf
 +++ b/upstream/tr/install.rdf
 @@ -19,5 +19,6 @@
@@ -587,7 +587,7 @@ index 43f5a94..ee54488 100644
    </Description>
  </RDF>
 diff --git a/upstream/uk/install.rdf b/upstream/uk/install.rdf
-index d6b00c5..61d7522 100644
+index 385c9c4..27ea136 100644
 --- a/upstream/uk/install.rdf
 +++ b/upstream/uk/install.rdf
 @@ -18,5 +18,6 @@
@@ -598,7 +598,7 @@ index d6b00c5..61d7522 100644
    </Description>
  </RDF>
 diff --git a/upstream/vi/install.rdf b/upstream/vi/install.rdf
-index d0e583e..14abb60 100644
+index 61108b6..8b7c2f2 100644
 --- a/upstream/vi/install.rdf
 +++ b/upstream/vi/install.rdf
 @@ -19,5 +19,6 @@
@@ -609,7 +609,7 @@ index d0e583e..14abb60 100644
    </Description>
  </RDF>
 diff --git a/upstream/zh-CN/install.rdf b/upstream/zh-CN/install.rdf
-index a82010c..86d3104 100644
+index ff277e6..f60a008 100644
 --- a/upstream/zh-CN/install.rdf
 +++ b/upstream/zh-CN/install.rdf
 @@ -19,5 +19,6 @@
@@ -620,7 +620,7 @@ index a82010c..86d3104 100644
    </Description>
  </RDF>
 diff --git a/upstream/zh-TW/install.rdf b/upstream/zh-TW/install.rdf
-index 6a30b1b..54dbc89 100644
+index ba83958..78d3c80 100644
 --- a/upstream/zh-TW/install.rdf
 +++ b/upstream/zh-TW/install.rdf
 @@ -19,5 +19,6 @@
