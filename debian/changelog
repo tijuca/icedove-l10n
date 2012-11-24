@@ -1,3 +1,9 @@
+icedove-l10n (1:10.0.11-1) unstable; urgency=low
+
+  * [9634c6f] Imported Upstream version 10.0.11
+
+ -- Christoph Goehre <chris@sigxcpu.org>  Sat, 24 Nov 2012 11:31:12 -0500
+
 icedove-l10n (1:10.0.10-1) unstable; urgency=low
 
   * [5139afa] Imported Upstream version 10.0.10 (Closes: #691658)
