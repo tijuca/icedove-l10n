@@ -1,3 +1,9 @@
+icedove-l10n (1:10.0.10-1~bpo60+1) squeeze-backports; urgency=low
+
+  * Rebuild for squeeze-backports. (Closes: #700457)
+
+ -- Carsten Schoenert <c.schoenert@t-online.de>  Tue, 26 Feb 2013 18:16:28 +0100
+
 icedove-l10n (1:10.0.10-1) unstable; urgency=low
 
   * [5139afa] Imported Upstream version 10.0.10 (Closes: #691658)
