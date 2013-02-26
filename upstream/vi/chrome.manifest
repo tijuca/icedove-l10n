@@ -1,23 +1,25 @@
-locale communicator vi jar:chrome/vi.jar!/locale/vi/communicator/
-override chrome://mozapps/locale/downloads/settingsChange.dtd chrome://messenger/locale/downloads/settingsChange.dtd
-locale passwordmgr vi jar:chrome/vi.jar!/locale/vi/passwordmgr/
+locale messenger-mapi vi chrome/vi/locale/vi/messenger-mapi/
+locale messenger vi chrome/vi/locale/vi/messenger/
+locale global vi chrome/vi/locale/vi/global/
+locale pippki vi chrome/vi/locale/vi/pippki/
+locale editor vi chrome/vi/locale/vi/editor/
 override chrome://global/locale/netError.dtd chrome://messenger/locale/netError.dtd
-locale cookie vi jar:chrome/vi.jar!/locale/vi/cookie/
-locale necko vi jar:chrome/vi.jar!/locale/vi/necko/
-locale global vi jar:chrome/vi.jar!/locale/vi/global/
-locale messenger vi jar:chrome/vi.jar!/locale/vi/messenger/
-locale pippki vi jar:chrome/vi.jar!/locale/vi/pippki/
-locale pipnss vi jar:chrome/vi.jar!/locale/vi/pipnss/
-locale places vi jar:chrome/vi.jar!/locale/vi/places/
-locale mozldap vi jar:chrome/vi.jar!/locale/vi/mozldap/
-locale alerts vi jar:chrome/vi.jar!/locale/vi/alerts/
-locale global-platform vi jar:chrome/vi.jar!/locale/vi/global-platform/
-locale autoconfig vi jar:chrome/vi.jar!/locale/vi/autoconfig/
-locale global-region vi jar:chrome/vi.jar!/locale/vi/global-region/
-locale messenger-region vi jar:chrome/vi.jar!/locale/vi/messenger-region/
-locale messenger-smime vi jar:chrome/vi.jar!/locale/vi/messenger-smime/
-locale mozapps vi jar:chrome/vi.jar!/locale/vi/mozapps/
-locale editor vi jar:chrome/vi.jar!/locale/vi/editor/
-locale messenger-mapi vi jar:chrome/vi.jar!/locale/vi/messenger-mapi/
-locale branding vi jar:chrome/vi.jar!/locale/vi/branding/
-locale messenger-newsblog vi jar:chrome/vi.jar!/locale/vi/messenger-newsblog/
+locale necko vi chrome/vi/locale/vi/necko/
+locale testpilot vi chrome/vi/locale/vi/feedback/
+locale passwordmgr vi chrome/vi/locale/vi/passwordmgr/
+locale communicator vi chrome/vi/locale/vi/communicator/
+manifest chrome/vi.manifest
+locale autoconfig vi chrome/vi/locale/vi/autoconfig/
+locale messenger-smime vi chrome/vi/locale/vi/messenger-smime/
+locale messenger-region vi chrome/vi/locale/vi/messenger-region/
+locale mozapps vi chrome/vi/locale/vi/mozapps/
+locale alerts vi chrome/vi/locale/vi/alerts/
+locale branding vi chrome/vi/locale/vi/branding/
+locale messenger-newsblog vi chrome/vi/locale/vi/messenger-newsblog/
+locale global-region vi chrome/vi/locale/vi/global-region/
+locale pipnss vi chrome/vi/locale/vi/pipnss/
+override chrome://mozapps/locale/downloads/settingsChange.dtd chrome://messenger/locale/downloads/settingsChange.dtd
+locale mozldap vi chrome/vi/locale/vi/mozldap/
+locale places vi chrome/vi/locale/vi/places/
+locale global-platform vi chrome/vi/locale/vi/global-platform/
+locale cookie vi chrome/vi/locale/vi/cookie/

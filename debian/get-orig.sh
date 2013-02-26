@@ -10,24 +10,47 @@ if [ "$#" -lt 1 ]; then
     exit 1
 fi
 
-VERSION=$1
-ALLXPI=`wget http://mirror.switch.ch/ftp/mirror/mozilla/thunderbird/releases/$VERSION/linux-i686/xpi -O - | grep ".xpi</a>" | awk -F\" '{ print $10 }'`
+TMPDIR=`mktemp -d /tmp/icedove-l10n.XXXXXXXXXX`
 CURDIR=`pwd`
+VERSION=$1
+VERSIONWITHOUTESR=`echo $1 | sed -e 's/\([0-9\.]*\)\([a-z]\{3\}\)/\1/'`
 
-for XPI in $ALLXPI; do
+if [ -f $CURDIR/../icedove-l10n_$VERSIONWITHOUTESR.orig.tar.gz ]; then
+    echo "icedove-l10n_$VERSIONWITHOUTESR.orig.tar.gz exists, giving up..."
+    exit 1
+fi
+
+mkdir $TMPDIR/icedove-l10n-$VERSIONWITHOUTESR
+mkdir $TMPDIR/icedove-l10n-$VERSIONWITHOUTESR/upstream
+cd $TMPDIR/icedove-l10n-$VERSIONWITHOUTESR
+
+# use wget mirror mode
+wget -m ftp://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/$VERSION/linux-i686/xpi
+cp ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/$VERSION/linux-i686/xpi/*.xpi upstream
+
+for XPI in `ls upstream`; do
     LOCALE=`basename $XPI .xpi`
-    rm -rf $CURDIR/upstream/$LOCALE
-    mkdir $CURDIR/upstream/$LOCALE
-    wget -O $CURDIR/upstream/$XPI -4 http://releases.mozilla.org/pub/mozilla.org/thunderbird/releases/$VERSION/linux-i686/xpi/$XPI
-    unzip -o -q -d $CURDIR/upstream/$LOCALE $CURDIR/upstream/$XPI
-    cd $CURDIR/upstream/$LOCALE
+    mkdir upstream/$LOCALE
+    unzip -o -q -d upstream/$LOCALE upstream/$XPI
+    cd upstream/$LOCALE
     if [ -f chrome/$LOCALE.jar ]; then
         JAR=$LOCALE.jar
     else
         JAR=`echo $XPI | sed --posix 's|-.*||'`.jar
     fi
-    unzip -o -q -d chrome chrome/$JAR
-    rm -f chrome/$JAR
-    rm $CURDIR/upstream/$XPI
-    cd $CURDIR/upstream
+    if [ -f chrome/$JAR ]; then
+        unzip -o -q -d chrome chrome/$JAR
+        rm -f chrome/$JAR
+    fi
+    cd $TMPDIR/icedove-l10n-$VERSIONWITHOUTESR
+    rm upstream/$XPI
 done
+
+# en-US is integrated in icedove itself
+cd $TMPDIR/icedove-l10n-$VERSIONWITHOUTESR
+rm -rf upstream/en-US
+rm -rf ftp.mozilla.org
+cd ..
+tar -zcf icedove-l10n_$VERSIONWITHOUTESR.orig.tar.gz icedove-l10n-$VERSIONWITHOUTESR
+cp icedove-l10n_$VERSIONWITHOUTESR.orig.tar.gz $CURDIR/..
+rm -rf $TMPDIR/icedove-l10n-$VERSIONWITHOUTESR
