@@ -1,3 +1,9 @@
+icedove-l10n (1:17.0.7-1~bpo70+1) wheezy-backports; urgency=low
+
+  * Rebuild for wheezy-backports.
+
+ -- Carsten Schoenert <c.schoenert@t-online.de>  Thu, 27 Jun 2013 17:41:42 +0200
+
 icedove-l10n (1:17.0.7-1) unstable; urgency=low
 
   * Imported Upstream version 17.0.7
