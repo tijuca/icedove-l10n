@@ -1,3 +1,15 @@
+icedove-l10n (1:24.3.0-1~deb7u1) stable-security; urgency=low
+
+  [ Carsten Schoenert ]
+  * [f8be119] Imported Upstream version 24.3.0
+  * [22131c3] adding new languages for Armenian and Croatian
+
+  [ Christoph Goehre ]
+  * [2e8504f] adjust icedove depends to >= 24.2.0 and << 25
+  * [87c1645] rebuild patch queue from patch-queue branch
+
+ -- Christoph Goehre <chris@sigxcpu.org>  Mon, 31 Mar 2014 16:12:42 -0400
+
 icedove-l10n (1:17.0.7-1~deb7u1) stable-security; urgency=low
 
   [ Carsten Schoenert ]
