@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY biffStart.label "Poglej za nove članke vsakih ">
 <!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "minut">
@@ -10,6 +14,8 @@
 
 <!ENTITY manageSubscriptions.label "Upravljanje naročnin …"> 
 <!ENTITY manageSubscriptions.accesskey "U">
+
+<!ENTITY feedWindowTitle.label "Čarovnik za račune virov">
 
 <!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName "Novice in spletni dnevniki RSS">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY updateWizard.title "Абнаўленне праграмнага забеспячэння">
 <!ENTITY checking.title "Праверка абнаўленняў">
 <!ENTITY updateCheck.label "Шукаюцца навейшыя версіі &brandShortName;…">
@@ -17,6 +21,11 @@
 <!ENTITY manualUpdate.space.desc "Даступна параенае абнаўленне бяспекі і ўстойлівасці, але вы не
                                            не маеце дастаковай прасторы, каб усталяваць яго.">
 <!ENTITY manualUpdateGetMsg.label "Вы заўсёды можаце атрымаць апошнюю версію &brandShortName; на:">
+<!ENTITY unsupported.title "Непадтрымальная сістэма">
+<!ENTITY unsupported.label "Ваш &brandShortName; састарэў, але навейшая версія
+                                           не падтрымліваецца на вашай сістэме. Узніміце, калі ласка, вашу сістэму і тады паспрабуйце зноў.
+                                           Вы не пабачыце гэтае папярэджанне зноў, але вы можаце">
+<!ENTITY unsupportedLink.label "даведацца больш.">
 <!ENTITY incompatibleCheck.title "Праверка сумяшчальнасці дадаткаў">
 <!ENTITY incompatibleCheck.label "Шукаюцца навейшыя версіі вашых дадаткаў…">
 <!ENTITY clickHere.label "Пабачыць болей падрабязныя звесткі пра гэта абнаўленне">

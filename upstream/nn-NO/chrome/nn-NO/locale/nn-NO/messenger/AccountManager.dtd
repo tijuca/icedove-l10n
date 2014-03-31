@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from AccountManager.xul -->
 
 <!ENTITY accountManagerTitle.label "Kontoinnstillingar">
@@ -8,6 +12,8 @@
 <!ENTITY addMailAccountButton.accesskey "e">
 <!ENTITY addIMAccountButton.label "Legg til nettpratkonto …">
 <!ENTITY addIMAccountButton.accesskey "r">
+<!ENTITY addFeedAccountButton.label "Legg til nyheitskjeldekonto …">
+<!ENTITY addFeedAccountButton.accesskey "h">
 <!ENTITY addOtherAccountButton.label "Legg til annan konto …">
 <!ENTITY addOtherAccountButton.accesskey "L">
 <!ENTITY setDefaultButton.label "Vel som standard">

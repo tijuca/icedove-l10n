@@ -9,13 +9,15 @@
 <!ENTITY loginAtStartup.label "Vérifier les nouveaux articles au démarrage"> 
 <!ENTITY loginAtStartup.accesskey "r">
 
-<!ENTITY useQuickMode.label "Par défaut, afficher le résumé de l'article plutôt que de télécharger la page Web"> 
-<!ENTITY useQuickMode.accesskey "P">
+<!ENTITY useQuickMode.label "Par défaut, afficher le résumé de l'article plutôt que de télécharger la page web"> 
+<!ENTITY useQuickMode.accesskey "a">
 
-<!ENTITY manageSubscriptions.label "Gérer les abonnements…"> 
+<!ENTITY manageSubscriptions.label "Gérer les abonnements…">
 <!ENTITY manageSubscriptions.accesskey "G">
 
-<!-- entities from defaults/isp/rss.rdf -->
+<!ENTITY feedWindowTitle.label "Assistant de compte de flux">
+
+<!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName "Blogs et nouvelles">
 <!ENTITY feeds.wizardShortName "Flux">
 <!ENTITY feeds.wizardLongName "Blogs et nouvelles">

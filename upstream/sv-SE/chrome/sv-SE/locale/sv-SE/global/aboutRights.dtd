@@ -1,3 +1,6 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
@@ -50,7 +53,7 @@
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights2.webservices-a "&brandFullName; använder webbaserade informationstjänster (”Tjänster”) för vissa funktioner i den här binära versionen av &brandShortName;. Villkoren för dessa beskrivs nedan. Om du inte vill använda en eller flera av dessa Tjänster eller om nedanstående villkor är oacceptabla, kan du inaktivera funktionen eller tjänsten. Instruktioner om hur du inaktiverar en särskild funktion eller tjänst finns ">
 <!ENTITY rights2.webservices-b "här">
-<!ENTITY rights2.webservices-c ".">
+<!ENTITY rights3.webservices-c ". Andra funktioner och tjänster kan inaktiveras i programinställningarna.">
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Säker surfning: ">

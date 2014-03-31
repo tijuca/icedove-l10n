@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 <!ENTITY newFolderCmd.label "Папка…">
@@ -21,12 +25,12 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "І">
 <!ENTITY newIMAccountCmd.label "Рахунак гутаркі…">
 <!ENTITY newIMAccountCmd.accesskey "г">
+<!ENTITY newFeedAccountCmd.label "Рахунак жывільніка…">
+<!ENTITY newFeedAccountCmd.accesskey "ж">
 <!ENTITY newIMContactCmd.label "Гутарковая сувязь…">
 <!ENTITY newIMContactCmd.accesskey "г">
 <!ENTITY openMessageFileCmd.label "Адкрыць захаваны ліст…">
 <!ENTITY openMessageFileCmd.accesskey "А">
-<!ENTITY openAttachmentCmd.label "Далучэнні">
-<!ENTITY openAttachmentCmd.accesskey "Д">
 <!ENTITY saveAsMenu.label "Захаваць як">
 <!ENTITY saveAsMenu.accesskey "Я">
 <!ENTITY saveAsFileCmd.label "Файл">
@@ -229,23 +233,6 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "ф">
 <!ENTITY viewAttachmentsInlineCmd.label "Адлюстроўваць далучэнні ўсярэдзіне">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "Ў">
-<!ENTITY fullZoomEnlargeCmd.label "Павялічыць">
-<!ENTITY fullZoomEnlargeCmd.accesskey "в">
-<!ENTITY fullZoomEnlargeCmd.commandkey "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-<!ENTITY fullZoomReduceCmd.label "Паменшыць">
-<!ENTITY fullZoomReduceCmd.accesskey "м">
-<!ENTITY fullZoomReduceCmd.commandkey "-">
-<!ENTITY fullZoomReduceCmd.commandkey2 "">
-<!ENTITY fullZoomResetCmd.label "Узнавіць">
-<!ENTITY fullZoomResetCmd.accesskey "У">
-<!ENTITY fullZoomResetCmd.commandkey "0">
-<!ENTITY fullZoomResetCmd.commandkey2 "">
-<!ENTITY fullZoomToggleCmd.label "Павялічваць толькі тэкст">
-<!ENTITY fullZoomToggleCmd.accesskey "т">
-<!ENTITY fullZoom.label "Павялічэнне">
-<!ENTITY fullZoom.accesskey "в">
 <!ENTITY pageSourceCmd.label "Зыходнік ліста">
 <!ENTITY pageSourceCmd.accesskey "ы">
 <!ENTITY pageSourceCmd.key "u">
@@ -298,7 +285,7 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Гутарка">
 <!ENTITY goChatCmd.accesskey "г">
-<!ENTITY goChatCmd.commandKey "C">
+<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Ліст з зоркаю">
 <!ENTITY prevStarredMsgCmd.accesskey "з">
 <!ENTITY folderMenu.label "Папка">
@@ -347,7 +334,7 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Стварыць сіта з ліста…">
 <!ENTITY createFilter.accesskey "с">
-<!ENTITY moveMsgToMenu.label "Перамесціць у">
+<!ENTITY moveMsgToMenu.label "Перамясціць у">
 <!ENTITY moveMsgToMenu.accesskey "м">
 <!ENTITY moveCopyMsgRecentMenu.label "Апошні">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "А">
@@ -416,12 +403,14 @@
 <!ENTITY openConversationCmd.label "Адкрыць у гутарцы">
 <!ENTITY openConversationCmd.accesskey "т">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "Адкрыць ліст з жывільніка">
-<!ENTITY openFeedMessage.accesskey "ж">
-<!ENTITY openFeedWebPageInWindow.label "Старонку Сеціва ў новым акне">
-<!ENTITY openFeedWebPageInWindow.accesskey "а">
-<!ENTITY openFeedSummaryInWindow.label "Зводку ў новым акне">
-<!ENTITY openFeedSummaryInWindow.accesskey "ў">
+<!ENTITY openAttachmentListCmd.label "Далучэнні">
+<!ENTITY openAttachmentListCmd.accesskey "Д">
+<!ENTITY openFeedMessage1.label "Падчас адкрыцця паведамленняў жывільніка">
+<!ENTITY openFeedMessage1.accesskey "а">
+<!ENTITY openFeedWebPage.label "Адчыніць на сеціўнай старонцы">
+<!ENTITY openFeedWebPage.accesskey "с">
+<!ENTITY openFeedSummary.label "Адчыніць як зводку">
+<!ENTITY openFeedSummary.accesskey "з">
 <!ENTITY openFeedWebPageInMP.label "Пераключэнне шыбы ліста: старонка Сеціва, зводка">
 <!ENTITY openFeedWebPageInMP.accesskey "к">
 <!ENTITY windowMenu.label "Акно">
@@ -469,6 +458,8 @@
 <!ENTITY accountManagerCmd.label "Наладжванні рахунку…">
 <!ENTITY accountManagerCmd.accesskey "н">
 <!ENTITY accountManagerCmdUnix.accesskey "р">
+<!ENTITY allowRemoteDebugging.label "Дазволіць адлеглую наладку">
+<!ENTITY allowRemoteDebugging.accesskey "д">
 <!ENTITY getMsgButton.label "Атрымаць">
 <!ENTITY newMsgButton.label "Укласці">
 <!ENTITY replyButton.label "Адказаць">
@@ -513,6 +504,8 @@
 <!ENTITY replyAllButton.tooltip "Адказаць адпраўніку і ўсім атрымальнікам">
 <!ENTITY replyListButton.tooltip "Адказаць паштоваму спісу">
 <!ENTITY forwardButton.tooltip "Накіраваць вылучаны ліст">
+<!ENTITY forwardAsInline.tooltip "Накіраваць вылучаны ліст як убудаваны тэкст">
+<!ENTITY forwardAsAttachment.tooltip "Накіраваць вылучаны ліст як далучэнне">
 <!ENTITY fileButton.tooltip "Перамясціць вылучаны ліст">
 <!ENTITY archiveButton.tooltip "Заархівіраваць вылучаныя лісты">
 <!ENTITY nextButton.tooltip "Перамясціцца да наступнага непрачытанага ліста">
@@ -532,22 +525,26 @@
 <!ENTITY chatButton.tooltip "Паказаць устаўку гутаркі">
 <!ENTITY tagButton.tooltip "Меткі лістоў">
 <!ENTITY compactButton.tooltip "Прыняць выдаленыя лісты з вылучанай папкі">
-<!ENTITY appmenuButton.tooltip "Паказвае меню прыстасаванняў">
+<!ENTITY appmenuButton1.tooltip "Адлюстраваць меню &brandShortName; Menu">
+<!ENTITY buttonMenuForwardAsInline.label "Накіраваць усярэдзіне">
+<!ENTITY buttonMenuForwardAsAttachment.label "Накіраваць як далучэнне">
 <!ENTITY appmenuNewMsgCmd.label "Новы ліст">
 <!ENTITY appmenuNewContactCmd.label "Сувязь з адраснай кнігі…">
 <!ENTITY appmenuEditMenu.label "Праўка">
 <!ENTITY appmenuQFBMenu.label "Паліца хуткага сіта">
 <!ENTITY appmenuToolbarLayout.label "Раскладка прыладапаліцы…">
+<!ENTITY appmenuSelectThread.label "Вылучыць нізку">
+<!ENTITY appmenuSelectFlagged.label "Вылучыць пазначаныя зоркамі лісты">
 <!ENTITY addNewTag.label "Новая метка…">
 <!ENTITY addNewTag.accesskey "Н">
-<!ENTITY manageTags.label "Кіраваць тэгамі…">
+<!ENTITY manageTags.label "Кіраваць мецінамі…">
 <!ENTITY manageTags.accesskey "К">
 <!ENTITY folderColumn.label "Назва">
 <!ENTITY folderSizeColumn.label "Памер">
 <!ENTITY folderContextGetMessages.label "Атрымаць лісты">
 <!ENTITY folderContextGetMessages.accesskey "А">
-<!ENTITY folderContextOpenNewWindow.label "Адчыніць">
-<!ENTITY folderContextOpenNewWindow.accesskey "ч">
+<!ENTITY folderContextOpenInNewWindow.label "Адкрыць у новым акне">
+<!ENTITY folderContextOpenInNewWindow.accesskey "А">
 <!ENTITY folderContextOpenNewTab.label "Адчыніць у новай устаўцы">
 <!ENTITY folderContextOpenNewTab.accesskey "у">
 <!ENTITY folderContextNew.label "Новая падпапка…">
@@ -649,14 +646,24 @@
 <!ENTITY contextReplyList.accesskey "с">
 <!ENTITY contextForward.label "Накіраваць">
 <!ENTITY contextForward.accesskey "к">
-<!ENTITY contextForwardAsAttachment.label "Накіраваць як далучэнні">
-<!ENTITY contextForwardAsAttachment.accesskey "Д">
+<!ENTITY contextForwardAsMenu.label "Накіраваць як">
+<!ENTITY contextForwardAsMenu.accesskey "я">
+<!ENTITY contextForwardAsInline.label "Усярэдзіне">
+<!ENTITY contextForwardAsInline.accesskey "у">
+<!ENTITY contextForwardAsAttachmentItem.label "Далучэнне">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "Д">
+<!ENTITY contextMultiForwardAsAttachment.label "Накіраваць як далучэнні">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "л">
 <!ENTITY contextMoveMsgMenu.label "Перамясціць у">
 <!ENTITY contextMoveMsgMenu.accesskey "м">
-<!ENTITY contextMoveCopyMsgRecentMenu.label "Апошні">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Апошняя">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "А">
 <!ENTITY contextCopyMsgMenu.label "Капіяваць у">
 <!ENTITY contextCopyMsgMenu.accesskey "К">
+<!ENTITY contextKillThreadMenu.label "Ігнараваць нізку">
+<!ENTITY contextKillThreadMenu.accesskey "І">
+<!ENTITY contextKillSubthreadMenu.label "Ігнараваць паднізку">
+<!ENTITY contextWatchThreadMenu.label "Сачыць за нізкай">
 <!ENTITY contextSaveAs.label "Захаваць як…">
 <!ENTITY contextSaveAs.accesskey "Я">
 <!ENTITY contextPrint.label "Друкаваць…">

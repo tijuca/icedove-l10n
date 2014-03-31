@@ -87,6 +87,7 @@
 <!ENTITY findCmd.label "Aimsigh agus Ionadaigh…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "A">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Aimsigh Arís">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "m">
@@ -139,8 +140,8 @@
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "Fógairt Stádais Sheachadta">
 <!ENTITY dsnMenu.accesskey "F">
-<!ENTITY outputFormatMenu.label "Formáid">
-<!ENTITY outputFormatMenu.accesskey "F">
+<!ENTITY deliveryFormatMenu.label "Formáid Seachadta">
+<!ENTITY deliveryFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Uath-Bhrathadóireacht">
 <!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "Gnáth-Théacs Amháin">

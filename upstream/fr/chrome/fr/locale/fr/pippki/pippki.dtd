@@ -15,7 +15,7 @@
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "Effacer">
 <!ENTITY resetPassword.title  "Effacer le mot de passe principal">
-<!ENTITY resetPassword.text  "Si vous effacez votre mot de passe principal, tous vos mots de passe Web et courrier, vos données de formulaires, vos certificats personnels et vos clés privées seront oubliés. Voulez-vous vraiment supprimer le mot de passe principal ?">
+<!ENTITY resetPassword.text  "Si vous effacez votre mot de passe principal, tous vos mots de passe web et courrier, vos données de formulaires, vos certificats personnels et vos clés privées seront oubliés. Voulez-vous vraiment supprimer le mot de passe principal ?">
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title  "Saisie du mot de passe principal">
@@ -39,7 +39,7 @@
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Téléchargement du certificat">
 <!ENTITY downloadCert.message1 "On vous a demandé de confirmer une nouvelle autorité de certification (AC).">
-<!ENTITY downloadCert.trustSSL "Confirmer cette AC pour identifier des sites Web.">
+<!ENTITY downloadCert.trustSSL "Confirmer cette AC pour identifier des sites web.">
 <!ENTITY downloadCert.trustEmail "Confirmer cette AC pour identifier les utilisateurs de courrier.">
 <!ENTITY downloadCert.trustObjSign "Confirmer cette AC pour identifier les développeurs de logiciels.">
 <!ENTITY downloadCert.message3 "Avant de confirmer cette AC pour quelque raison que ce soit, vous devriez l'examiner elle, ses méthodes et ses procédures (si possible).">
@@ -47,10 +47,6 @@
 <!ENTITY downloadCert.viewPolicy.label "Politique">
 <!ENTITY downloadCert.viewCert.text "Examiner le certificat d'AC">
 <!ENTITY downloadCert.viewPolicy.text "Examiner la politique d'AC et ses procédures">
-
-<!-- Certificate Exists in database -->
-<!ENTITY caCertExists.title "Un certificat existe">
-<!ENTITY caCertExists.message "Le certificat existe déjà.">
 
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Requête d'identification d'utilisateur">
@@ -81,8 +77,6 @@
 <!ENTITY escrowWarn.message2 "Cependant, votre clé de chiffrement privée sera stockée par l'autorité de certificat, et pourra être utilisée pour lire le courrier ou des documents chiffrés sans votre permission.">
 <!ENTITY examineCert.label "Voir le certificat">
 <!ENTITY examineCert.accesskey "V">
-
-<!ENTITY serverCrlNextupdate.message "Veuillez demander de l'aide à votre administrateur">
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Génération d'une clé privée">

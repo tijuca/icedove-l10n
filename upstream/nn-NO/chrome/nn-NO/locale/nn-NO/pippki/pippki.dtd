@@ -46,10 +46,6 @@
 <!ENTITY downloadCert.viewCert.text "Undersøk CA-sertifikat">
 <!ENTITY downloadCert.viewPolicy.text "Undersøk CA-framgangsmåtar og prosedyrar">
 
-<!-- Certificate Exists in database -->
-<!ENTITY caCertExists.title "Sertifikatet finst">
-<!ENTITY caCertExists.message "Sertifikatet finst alt.">
-
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Førespurnad om brukaridentifikasjon">
 <!ENTITY clientAuthAsk.message1 "Denne nettstaden har bede om at du identifiserer deg sjølv med eit sertifikat:">
@@ -80,8 +76,6 @@
 <!ENTITY examineCert.label "Vis sertifikat">
 <!ENTITY examineCert.accesskey "V">
 
-<!ENTITY serverCrlNextupdate.message "Spør systemansvarleg om hjelp">
-
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Genererer ein privat nøkkel">
 <!ENTITY createCertInfo.msg1 "Opprettar nøkkel … Dette kan ta litt tid …">
@@ -90,7 +84,7 @@
 <!-- Form Signing confirmation prompt -->
 <!ENTITY formSigning.title "Signering av tekst">
 <!ENTITY formSigning.cert "Signerande sertifikat">
-<!ENTITY formSigning.confirmPassword "For å stadfeste at du ynskjer å signere denne meldinga med det valde sertifikatet, skriv inn hovudpassordet.">
+<!ENTITY formSigning.confirmPassword "For å stadfeste at du ønskjer å signere denne meldinga med det valde sertifikatet, skriv inn hovudpassordet.">
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Autentisering med verna teikn">

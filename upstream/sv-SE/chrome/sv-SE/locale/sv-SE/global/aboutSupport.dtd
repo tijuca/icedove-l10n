@@ -21,6 +21,11 @@
 <!ENTITY aboutSupport.appBasicsName "Namn">
 <!ENTITY aboutSupport.appBasicsVersion "Version">
 
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+<!ENTITY aboutSupport.appBasicsUpdateHistory "Uppdateringshistorik">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Visa uppdateringshistorik">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "Profilmapp">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
@@ -46,6 +51,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsName "Namn">
 <!ENTITY aboutSupport.modifiedPrefsValue "Värde">
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+<!ENTITY aboutSupport.userJSTitle "user.js-inställningar">
+<!ENTITY aboutSupport.userJSDescription "Din profilmapp innehåller en <a id='prefs-user-js-link'>user.js-fil</a> som inkluderar inställningar som inte har skapats av &brandShortName;.">
+
 <!ENTITY aboutSupport.graphicsTitle "Grafik">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
@@ -60,4 +69,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "Installationshistorik">
 <!ENTITY aboutSupport.updateHistoryTitle "Uppdateringshistorik">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Kopiera allt till urklipp">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Kopiera text till urklipp">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopiera rådata till urklipp">

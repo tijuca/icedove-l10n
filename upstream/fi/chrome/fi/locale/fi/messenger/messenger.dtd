@@ -32,12 +32,12 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "O">
 <!ENTITY newIMAccountCmd.label "Pikaviestitili…">
 <!ENTITY newIMAccountCmd.accesskey "v">
+<!ENTITY newFeedAccountCmd.label "Syötetili…">
+<!ENTITY newFeedAccountCmd.accesskey "t">
 <!ENTITY newIMContactCmd.label "Pikaviestikontakti…">
 <!ENTITY newIMContactCmd.accesskey "k">
 <!ENTITY openMessageFileCmd.label  "Avaa tallennettu viesti…">
 <!ENTITY openMessageFileCmd.accesskey  "A">
-<!ENTITY openAttachmentCmd.label  "Liitetiedostot">
-<!ENTITY openAttachmentCmd.accesskey  "L">
 <!ENTITY saveAsMenu.label  "Tallenna nimellä">
 <!ENTITY saveAsMenu.accesskey  "n">
 <!ENTITY saveAsFileCmd.label  "Tiedosto">
@@ -252,33 +252,6 @@
 <!ENTITY viewAttachmentsInlineCmd.label  "Näytä liitteet viestiin sisällytettynä">
 <!ENTITY viewAttachmentsInlineCmd.accesskey  "N">
 
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
-<!ENTITY fullZoomEnlargeCmd.label       "Suurenna">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "S">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "Pienennä">
-<!ENTITY fullZoomReduceCmd.accesskey    "P">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "Palauta ">
-<!ENTITY fullZoomResetCmd.accesskey     "a">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "Muuta vain tekstin kokoa">
-<!ENTITY fullZoomToggleCmd.accesskey    "M">
-<!ENTITY fullZoom.label                 "Viestin suurennus">
-<!ENTITY fullZoom.accesskey             "V">
-
 <!ENTITY pageSourceCmd.label  "Viestin lähdekoodi">
 <!ENTITY pageSourceCmd.accesskey  "k">
 <!ENTITY pageSourceCmd.key  "u">
@@ -335,7 +308,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "Ö">
 <!ENTITY goChatCmd.label "Keskustele">
 <!ENTITY goChatCmd.accesskey "K">
-<!ENTITY goChatCmd.commandKey "C">
+<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label  "Tähdellä merkitty viesti">
 <!ENTITY prevStarredMsgCmd.accesskey  "T">
 <!ENTITY folderMenu.label "Kansio">
@@ -455,12 +428,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openConversationCmd.label "Avaa keskusteluna">
 <!ENTITY openConversationCmd.accesskey "k">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openFeedMessage.label "Avaa syötteen viesti">
-<!ENTITY openFeedMessage.accesskey "A">
-<!ENTITY openFeedWebPageInWindow.label "Verkkosivu uuteen ikkunaan">
-<!ENTITY openFeedWebPageInWindow.accesskey "V">
-<!ENTITY openFeedSummaryInWindow.label "Yhteenveto uuteen ikkunaan">
-<!ENTITY openFeedSummaryInWindow.accesskey "Y">
+<!ENTITY openAttachmentListCmd.label "Liitetiedostot">
+<!ENTITY openAttachmentListCmd.accesskey "L">
+<!ENTITY openFeedMessage1.label "Avattaessa syöteviestejä">
+<!ENTITY openFeedMessage1.accesskey "A">
+<!ENTITY openFeedWebPage.label "Avaa verkkosivuna">
+<!ENTITY openFeedWebPage.accesskey "v">
+<!ENTITY openFeedSummary.label "Avaa yhteenvetona">
+<!ENTITY openFeedSummary.accesskey "y">
 <!ENTITY openFeedWebPageInMP.label "Vaihda viestipaneelissa verkkosivun ja yhteenvedon kesken">
 <!ENTITY openFeedWebPageInMP.accesskey "V">
 
@@ -514,6 +489,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey "a">
+<!ENTITY allowRemoteDebugging.label "Salli virheenjäljitys etänä">
+<!ENTITY allowRemoteDebugging.accesskey "v">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label  "Nouda viestit">
@@ -562,6 +539,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyAllButton.tooltip  "Vastaa lähettäjälle ja kaikille vastaanottajille">
 <!ENTITY replyListButton.tooltip "Vastaa postituslistalle">
 <!ENTITY forwardButton.tooltip  "Välitä viesti eteenpäin">
+<!ENTITY forwardAsInline.tooltip "Välitä viesti viestirungossa">
+<!ENTITY forwardAsAttachment.tooltip "Välitä viesti liitteenä">
 <!ENTITY fileButton.tooltip  "Tallenna valittu viesti">
 <!ENTITY archiveButton.tooltip "Arkistoi valitut viestit">
 <!ENTITY nextButton.tooltip  "Siirry seuraavaan lukematta olevaan viestiin">
@@ -581,7 +560,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "Näytä keskustelu-välilehti">
 <!ENTITY tagButton.tooltip "Aseta viesteihin tunnuksia">
 <!ENTITY compactButton.tooltip "Poista poistettu viesti valitusta kansiosta">
-<!ENTITY appmenuButton.tooltip "Avaa sovellusvalikon">
+<!ENTITY appmenuButton1.tooltip "Avaa &brandShortName;-valikko">
+
+<!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Välitä rungossa">
+<!ENTITY buttonMenuForwardAsAttachment.label "Välitä liitteenä">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Uusi viesti">
@@ -589,6 +572,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY appmenuEditMenu.label "Muokkaa">
 <!ENTITY appmenuQFBMenu.label "Pikasuodatuspalkki">
 <!ENTITY appmenuToolbarLayout.label "Työkalupalkin asettelu…">
+<!ENTITY appmenuSelectThread.label "Valitse viestiketju">
+<!ENTITY appmenuSelectFlagged.label "Valitse tähdellä merkityt viestit">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Uusi tunnus…">
@@ -603,8 +588,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Hae viestit">
 <!ENTITY folderContextGetMessages.accesskey "H">
-<!ENTITY folderContextOpenNewWindow.label "Avaa">
-<!ENTITY folderContextOpenNewWindow.accesskey "A">
+<!ENTITY folderContextOpenInNewWindow.label "Avaa uudessa ikkunassa">
+<!ENTITY folderContextOpenInNewWindow.accesskey "A">
 <!ENTITY folderContextOpenNewTab.label "Avaa uuteen välilehteen">
 <!ENTITY folderContextOpenNewTab.accesskey "v">
 <!ENTITY folderContextNew.label "Uusi alakansio…">
@@ -722,14 +707,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextReplyList.accesskey "l">
 <!ENTITY contextForward.label  "Välitä">
 <!ENTITY contextForward.accesskey  "ä">
-<!ENTITY contextForwardAsAttachment.label  "Välitä eteenpäin liitteenä">
-<!ENTITY contextForwardAsAttachment.accesskey  "t">
+<!ENTITY contextForwardAsMenu.label "Välitä">
+<!ENTITY contextForwardAsMenu.accesskey "V">
+<!ENTITY contextForwardAsInline.label "Rungossa">
+<!ENTITY contextForwardAsInline.accesskey "R">
+<!ENTITY contextForwardAsAttachmentItem.label "Liitteenä">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "L">
+<!ENTITY contextMultiForwardAsAttachment.label "Välitä liitteinä">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "i">
 <!ENTITY contextMoveMsgMenu.label  "Siirrä kansioon">
 <!ENTITY contextMoveMsgMenu.accesskey  "S">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Tuoreet">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "T">
 <!ENTITY contextCopyMsgMenu.label  "Kopioi kansioon">
 <!ENTITY contextCopyMsgMenu.accesskey  "K">
+<!ENTITY contextKillThreadMenu.label "Ohita viestiketju">
+<!ENTITY contextKillThreadMenu.accesskey "O">
+<!ENTITY contextKillSubthreadMenu.label "Ohita alaviestiketju">
+<!ENTITY contextWatchThreadMenu.label "Tarkkaile viestiketjua">
 <!ENTITY contextSaveAs.label  "Tallenna nimellä…">
 <!ENTITY contextSaveAs.accesskey  "n">
 <!ENTITY contextPrint.label  "Tulosta…">

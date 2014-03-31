@@ -27,8 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey  "T">
 <!ENTITY searchIntegration.label       "Salli &searchIntegration.engineName;:n etsiä viesteistä">
 <!ENTITY searchIntegration.accesskey   "S">
-<!ENTITY checkNow.label                "Tarkista heti">
-<!ENTITY checkNow.accesskey            "h">
+<!ENTITY checkDefaultsNow.label        "Tarkista heti…">
+<!ENTITY checkDefaultsNow.accesskey    "h">
 <!ENTITY configEditDesc.label          "Kaikkien asetusten muokkaus">
 <!ENTITY configEdit.label              "Asetusten muokkain…">
 <!ENTITY configEdit.accesskey          "A">
@@ -117,8 +117,6 @@
 
 <!ENTITY viewCertificates.label         "Näytä varmenteet">
 <!ENTITY viewCertificates.accesskey     "N">
-<!ENTITY viewCRLs.label                 "Sulkulistat">
-<!ENTITY viewCRLs.accesskey             "S">
 <!ENTITY validation.label               "Kelpuutus">
 <!ENTITY validation.accesskey           "K">
 <!ENTITY viewSecurityDevices.label      "Turvallisuuslaitteet">

@@ -28,16 +28,16 @@
 <!ENTITY newOtherAccountsCmd.accesskey "D">
 <!ENTITY newCreateEmailAccountCmd.label "Odpri nov poštni račun …">
 <!ENTITY newCreateEmailAccountCmd.accesskey "R">
-<!ENTITY newExistingEmailAccountCmd.label "Obstoječ poštni račun…">
+<!ENTITY newExistingEmailAccountCmd.label "Obstoječ poštni račun …">
 <!ENTITY newExistingEmailAccountCmd.accesskey "O">
-<!ENTITY newIMAccountCmd.label "Račun za klepet…">
+<!ENTITY newIMAccountCmd.label "Račun za klepet …">
 <!ENTITY newIMAccountCmd.accesskey "č">
+<!ENTITY newFeedAccountCmd.label "Račun za vir …">
+<!ENTITY newFeedAccountCmd.accesskey "r">
 <!ENTITY newIMContactCmd.label "Stik za klepet…">
 <!ENTITY newIMContactCmd.accesskey "i">
 <!ENTITY openMessageFileCmd.label "Odpri shranjeno sporočilo …">
 <!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY openAttachmentCmd.label "Priponke">
-<!ENTITY openAttachmentCmd.accesskey "K">
 <!ENTITY saveAsMenu.label "Shrani kot">
 <!ENTITY saveAsMenu.accesskey "S">
 <!ENTITY saveAsFileCmd.label "Datoteko">
@@ -252,33 +252,6 @@
 <!ENTITY viewAttachmentsInlineCmd.label "Pokaži priponke v besedilu">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "P">
 
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
-<!ENTITY fullZoomEnlargeCmd.label       "Povečaj">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "V">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "Pomanjšaj">
-<!ENTITY fullZoomReduceCmd.accesskey    "M">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "Ponastavi">
-<!ENTITY fullZoomResetCmd.accesskey     "N">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "Povečaj samo besedilo">
-<!ENTITY fullZoomToggleCmd.accesskey    "B">
-<!ENTITY fullZoom.label                 "Povečaj">
-<!ENTITY fullZoom.accesskey             "p">
-
 <!ENTITY pageSourceCmd.label "Izvor besedila">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
@@ -335,7 +308,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Klepet">
 <!ENTITY goChatCmd.accesskey "k">
-<!ENTITY goChatCmd.commandKey "C">
+<!ENTITY goChatCmd.key "C">
 <!ENTITY prevStarredMsgCmd.label "Sporočilo z zvezdico">
 <!ENTITY prevStarredMsgCmd.accesskey "v">
 <!ENTITY folderMenu.label "Mapa">
@@ -455,12 +428,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openConversationCmd.label "odpri kot pogovor">
 <!ENTITY openConversationCmd.accesskey "g">
 <!ENTITY openConversationCmd.key "g">
-<!ENTITY openFeedMessage.label "Odpri sporočilo RSS vira">
-<!ENTITY openFeedMessage.accesskey "r">
-<!ENTITY openFeedWebPageInWindow.label "Spletna stran v novem oknu">
-<!ENTITY openFeedWebPageInWindow.accesskey "s">
-<!ENTITY openFeedSummaryInWindow.label "Povzetek v novem oknu">
-<!ENTITY openFeedSummaryInWindow.accesskey "p">
+<!ENTITY openAttachmentListCmd.label "Priponke">
+<!ENTITY openAttachmentListCmd.accesskey "k">
+<!ENTITY openFeedMessage1.label "Pri odpiranju sporočil vira">
+<!ENTITY openFeedMessage1.accesskey "r">
+<!ENTITY openFeedWebPage.label "Odpri kot spletno stran">
+<!ENTITY openFeedWebPage.accesskey "s">
+<!ENTITY openFeedSummary.label "Odpri kot povzetek">
+<!ENTITY openFeedSummary.accesskey "p">
 <!ENTITY openFeedWebPageInMP.label "Izbiraj med spletno stranjo in povzetkom v podoknu za sporočila">
 <!ENTITY openFeedWebPageInMP.accesskey "m">
 
@@ -514,6 +489,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix.accesskey "N">
+<!ENTITY allowRemoteDebugging.label "Dovoli oddaljeno razhroščevanje">
+<!ENTITY allowRemoteDebugging.accesskey "O">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Prejmi pošto">
@@ -562,6 +539,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyAllButton.tooltip "odgovori pošiljatelju in vsem prejemnikom">
 <!ENTITY replyListButton.tooltip "Odgovori poštnemu seznamu">
 <!ENTITY forwardButton.tooltip "Posreduj izbrano sporočilo">
+<!ENTITY forwardAsInline.tooltip "Posreduj izbrano sporočilo medvrstično">
+<!ENTITY forwardAsAttachment.tooltip "Posreduj izbrano sporočilo kot priponko">
 <!ENTITY fileButton.tooltip "Shrani izbrano sporočilo">
 <!ENTITY archiveButton.tooltip "Arhiviraj izbrana sporočila">
 <!ENTITY nextButton.tooltip "Pojdi na naslednje neprebrano sporočilo">
@@ -581,7 +560,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "Pokaži zavihek za klepet">
 <!ENTITY tagButton.tooltip "Označi sporočila">
 <!ENTITY compactButton.tooltip "Odstrani izbrisana sporočila iz izbrane mape">
-<!ENTITY appmenuButton.tooltip "Prikaže meni aplikacije">
+<!ENTITY appmenuButton1.tooltip "Prikaže meni programa &brandShortName;">
+
+<!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Posreduj medvrstično">
+<!ENTITY buttonMenuForwardAsAttachment.label "Posreduj kot prilogo">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Novo sporočilo">
@@ -589,6 +572,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY appmenuEditMenu.label "Uredi">
 <!ENTITY appmenuQFBMenu.label "Vrstica za hitro filtriranje">
 <!ENTITY appmenuToolbarLayout.label "Postavitev orodne vrstice …">
+<!ENTITY appmenuSelectThread.label "Izberite nit">
+<!ENTITY appmenuSelectFlagged.label "Izberite sporočila z zvezdico">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nova oznaka …">
@@ -603,8 +588,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Prejmi sporočila">
 <!ENTITY folderContextGetMessages.accesskey "P">
-<!ENTITY folderContextOpenNewWindow.label "Odpri">
-<!ENTITY folderContextOpenNewWindow.accesskey "O">
+<!ENTITY folderContextOpenInNewWindow.label "Odpri v novem oknu">
+<!ENTITY folderContextOpenInNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Odpri v novem zavihku">
 <!ENTITY folderContextOpenNewTab.accesskey "N">
 <!ENTITY folderContextNew.label "Nova podmapa …">
@@ -722,14 +707,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextReplyList.accesskey "m">
 <!ENTITY contextForward.label "Posreduj">
 <!ENTITY contextForward.accesskey "d">
-<!ENTITY contextForwardAsAttachment.label "Posreduj kot priponke">
-<!ENTITY contextForwardAsAttachment.accesskey "p">
+<!ENTITY contextForwardAsMenu.label "Posreduj kot">
+<!ENTITY contextForwardAsMenu.accesskey "o">
+<!ENTITY contextForwardAsInline.label "Medvrstično">
+<!ENTITY contextForwardAsInline.accesskey "I">
+<!ENTITY contextForwardAsAttachmentItem.label "Priponko">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "P">
+<!ENTITY contextMultiForwardAsAttachment.label "Posreduj kot priponke">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "e">
 <!ENTITY contextMoveMsgMenu.label "Prestavi v">
 <!ENTITY contextMoveMsgMenu.accesskey "M">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Nedavno">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "e">
 <!ENTITY contextCopyMsgMenu.label "Kopiraj v">
 <!ENTITY contextCopyMsgMenu.accesskey "v">
+<!ENTITY contextKillThreadMenu.label "Prezri nit">
+<!ENTITY contextKillThreadMenu.accesskey "I">
+<!ENTITY contextKillSubthreadMenu.label "Prezri podnit">
+<!ENTITY contextWatchThreadMenu.label "Spremljaj nit">
 <!ENTITY contextSaveAs.label "Shrani kot …">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "Natisni …">

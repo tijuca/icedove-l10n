@@ -17,14 +17,18 @@
 <!ENTITY highestPriorityCmd.label "найвищу">
 
 <!ENTITY contextDesc.label "Застосувати фільтр:">
-<!ENTITY contextDesc.accesskey "ф">
-<!ENTITY contextIncoming.label "При перевірці пошти">
+<!ENTITY contextIncomingMail.label "Отримання нової пошти:">
+<!ENTITY contextIncomingMail.accesskey "О">
 <!ENTITY contextManual.label "Вручну">
-<!ENTITY contextBoth.label "При перевірці пошти чи вручну">
-<!ENTITY contextPostPlugin.label "При перевірці пошти (після сортування)">
-<!ENTITY contextPostPluginBoth.label "При перевірці пошти (після сортування) чи вручну">
+<!ENTITY contextManual.accesskey "р">
+<!ENTITY contextBeforeCls.label "(перед перевіркою чи не спам)">
+<!ENTITY contextAfterCls.label "(по перевірці чи не спам)">
+
 <!ENTITY filterActionDesc.label "Виконувати наступні дії:">
 <!ENTITY filterActionDesc.accesskey "и">
+
+<!ENTITY filterActionOrderWarning.label "Примітка: Дії фільтра будуть виконуватись в іншому порядку.">
+<!ENTITY filterActionOrder.label "Подивитись порядок виконання">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Перемістити повідомлення у">
