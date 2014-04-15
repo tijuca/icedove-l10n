@@ -33,3 +33,8 @@
 <!ENTITY aboutTelemetry.fetchSymbols "Získat názvy funkcí v zásobníku zatuhnutí">
 
 <!ENTITY aboutTelemetry.hideSymbols "Zobrazit surová data ze zatuhnutí">
+
+
+<!ENTITY aboutTelemetry.addonDetailsSection "
+  Add-on Details
+">

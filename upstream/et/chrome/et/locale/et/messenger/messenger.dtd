@@ -493,7 +493,7 @@
 <!ENTITY allowRemoteDebugging.accesskey                "g">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label                            "Tõmba kirjad">
+<!ENTITY getMsgButton1.label                           "Tõmba kirjad">
 <!ENTITY newMsgButton.label                            "Kirjuta">
 <!ENTITY replyButton.label                             "Vasta">
 <!ENTITY replyAllButton.label                          "Vasta kõigile">
@@ -555,7 +555,7 @@
 <!ENTITY printButton.tooltip                           "Prindi valitud kiri">
 <!ENTITY stopButton.tooltip                            "Katkesta andmeedastus">
 <!ENTITY junkButton.tooltip                            "Märgi valitud kirjad rämpspostiks">
-<!ENTITY notJunkButton.tooltip                         "Märgi see kiri mitte-rämpspostiks">
+<!ENTITY notJunkButton.tooltip                         "Eemalda sellelt kirjalt rämpsposti märge">
 <!ENTITY addressBookButton.tooltip                     "Ava aadressiraamat">
 <!ENTITY chatButton.tooltip                            "Kuva kiirsuhtluse kaarti">
 <!ENTITY tagButton.tooltip                             "Sildista kirju">
@@ -566,11 +566,22 @@
 <!ENTITY buttonMenuForwardAsInline.label               "Edasta lihttekstina">
 <!ENTITY buttonMenuForwardAsAttachment.label           "Edasta manusena">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label         "Kuva selles kirjas leiduv väline sisu">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey     "K">
+<!ENTITY remoteContentOptionAllowForAddress.label      "Kuva selle saatja kirjades leiduv väline sisu">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey  "u">
+
+<!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label                    "Ignoreeri selle kirja puhul hoiatust">
+<!ENTITY phishingOptionIgnore.accesskey                "n">
+<!ENTITY phishingOptionDisableDetection.label          "Keela petukirjade tuvastamine kõigi kirjade puhul">
+<!ENTITY phishingOptionDisableDetection.accesskey      "K">
+
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label                        "Uus kiri">
 <!ENTITY appmenuNewContactCmd.label                    "Aadressiraamatu kontakt…">
 <!ENTITY appmenuEditMenu.label                         "Redigeerimine">
-<!ENTITY appmenuQFBMenu.label                          "Kiirfiltri riba">
 <!ENTITY appmenuToolbarLayout.label                    "Kohanda tööriistariba…">
 <!ENTITY appmenuSelectThread.label                     "Vali lõim">
 <!ENTITY appmenuSelectFlagged.label                    "Vali tähistatud kirjad">
@@ -778,6 +789,7 @@
   -->
 <!ENTITY columnPicker.thisFolder.label                 "See kaust">
 
+
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label                             "Esita">
 <!ENTITY contextPlay.accesskey                         "E">
@@ -787,27 +799,6 @@
 <!ENTITY contextMute.accesskey                         "S">
 <!ENTITY contextUnmute.label                           "Summutus maha">
 <!ENTITY contextUnmute.accesskey                       "m">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label                         "&brandShortName; arvab, et selle kirja puhul on tegemist rämpspostiga.">
-<!ENTITY junkBarButton1.label                          "Pole rämpspost">
-<!ENTITY junkInfoButton.label                          "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label                   "Sinu privaatsuse kaitsmiseks on väline sisu selles kirjas blokeeritud">
-<!ENTITY loadRemoteContentButton3.label                "Näita välist sisu">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label                     "Selle kirja puhul võib olla tegemist e-posti pettusega">
-<!ENTITY removePhishingBarButton1.label                "Eira hoiatust">
-<!ENTITY disablePhishingWarning1.label                 "Keela petukirjade tuvastus kõigi kirjade puhul">
-<!ENTITY reportPhishingError1.label                    "See kiri ei tundu olevat petukiri.">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton2.label                     "Eira">
-<!ENTITY mdnBarIgnoreButton2.accesskey                 "E">
-<!ENTITY mdnBarSendButton2.label                       "Saada kättesaamiskinnitus">
-<!ENTITY mdnBarSendButton2.accesskey                   "S">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):

@@ -76,3 +76,6 @@
 <!ENTITY starredColumn.tooltip "Trykk her for å sortere etter stjerne">
 <!ENTITY locationColumn.tooltip "Trykk her for å sortere etter plassering">
 <!ENTITY idColumn.tooltip "Trykk her for å sortere etter mottatt-rekkjefølgje">
+
+<!ENTITY deleteCardButton.accesskey  "D">
+<!ENTITY deleteCardButton.label      "Delete">

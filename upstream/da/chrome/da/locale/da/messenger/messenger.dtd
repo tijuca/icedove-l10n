@@ -12,9 +12,6 @@
 <!ENTITY closeTabCmd2.accesskey "e">
 <!ENTITY closeOtherTabsCmd2.label "Luk andre faneblade">
 <!ENTITY closeOtherTabsCmd2.accesskey "L">
-<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
-     Menu option to attempt to re-open a recently closed tab.
-     -->
 <!ENTITY recentlyClosedTabsCmd.label "Senest lukkede faneblade">
 <!ENTITY recentlyClosedTabsCmd.accesskey "N">
 
@@ -75,7 +72,7 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "A">
 <!ENTITY synchronizeOfflineCmd.label "Hent/Synkroniser nu…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "Offline indstillinger…">
+<!ENTITY settingsOfflineCmd.label "Offline-indstillinger…">
 <!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Hent valgte meddelelser">
 <!ENTITY downloadSelectedCmd.accesskey "l">
@@ -502,7 +499,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY allowRemoteDebugging.accesskey "r">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label "Hent">
+<!ENTITY getMsgButton1.label "Hent meddelelser">
 <!ENTITY newMsgButton.label "Skriv">
 <!ENTITY replyButton.label "Svar">
 <!ENTITY replyAllButton.label "Svar til alle">
@@ -576,11 +573,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY buttonMenuForwardAsInline.label "Videresend som en del af meddelelsen">
 <!ENTITY buttonMenuForwardAsAttachment.label "Videresend som vedhæftet fil">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Vis eksternt indhold i denne meddelelse">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "V">
+<!ENTITY remoteContentOptionAllowForAddress.label "Vis eksternt indhold fra denne afsender">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "a">
+
+<!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Ignorer advarsel for denne meddelelse">
+<!ENTITY phishingOptionIgnore.accesskey "I">
+<!ENTITY phishingOptionDisableDetection.label "Slå tjekket for mailsvindel fra for alle meddelelser">
+<!ENTITY phishingOptionDisableDetection.accesskey "a">
+
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Ny meddelelse">
 <!ENTITY appmenuNewContactCmd.label "Kontakt…">
 <!ENTITY appmenuEditMenu.label "Rediger">
-<!ENTITY appmenuQFBMenu.label "Lynfilterlinje">
 <!ENTITY appmenuToolbarLayout.label "Tilpas værktøjslinje…">
 <!ENTITY appmenuSelectThread.label "Marker tråd">
 <!ENTITY appmenuSelectFlagged.label "Marker stjernemarkerede meddelelser">
@@ -794,27 +802,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextMute.accesskey "l">
 <!ENTITY contextUnmute.label "Slå lyd til">
 <!ENTITY contextUnmute.accesskey "S">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "&brandShortName; opfatter denne meddelelse som spam.">
-<!ENTITY junkBarButton1.label "Dette er ikke spam">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label "For at beskytte dit privatliv, har &brandShortName; blokeret eksterne billeder i denne meddelelse.">
-<!ENTITY loadRemoteContentButton3.label "Vis billeder">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "Denne meddelelse er måske mailsvindel.">
-<!ENTITY removePhishingBarButton1.label "Ikke-svindel">
-<!ENTITY disablePhishingWarning1.label "Slå tjekket for mailsvindel fra for alle meddelelser">
-<!ENTITY reportPhishingError1.label "Denne meddelelse ser ikke ud til at være mailsvindel.">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton2.label "Send ikke kvittering">
-<!ENTITY mdnBarIgnoreButton2.accesskey "i">
-<!ENTITY mdnBarSendButton2.label "Send kvittering">
-<!ENTITY mdnBarSendButton2.accesskey "s">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):

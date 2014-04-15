@@ -428,7 +428,6 @@
 <!ENTITY accountManagerCmd.label "Configuración de les cuentes…">
 <!ENTITY accountManagerCmd.accesskey "n">
 <!ENTITY accountManagerCmdUnix.accesskey "A">
-<!ENTITY getMsgButton.label "Recibir">
 <!ENTITY newMsgButton.label "Redactar">
 <!ENTITY replyButton.label "Responder">
 <!ENTITY replyAllButton.label "Resp. a toos">
@@ -758,3 +757,17 @@
 <!ENTITY buttonMenuForwardAsAttachment.label "Reunviar como axuntu">
 <!ENTITY allowRemoteDebugging.label "Permitir depuración remota">
 <!ENTITY allowRemoteDebugging.accesskey "r">
+<!ENTITY getMsgButton1.label "Recibir mensaxes">
+
+<!ENTITY phishingOptionDisableDetection.accesskey "D">
+<!ENTITY phishingOptionDisableDetection.label "Disable scam detection for all messages">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+
+<!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Ignore warning for this message">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "f">
+<!ENTITY remoteContentOptionAllowForAddress.label "Show remote content from this sender">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
+
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Show remote content in this message">

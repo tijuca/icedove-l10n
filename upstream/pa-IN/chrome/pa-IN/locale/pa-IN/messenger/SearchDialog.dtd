@@ -75,6 +75,8 @@
 <!ENTITY locationColumn.tooltip "ਸਥਿਤੀ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
 <!ENTITY idColumn.tooltip "ਪ੍ਰਾਪਤ ਕ੍ਰਮ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
 
+<!ENTITY deleteCardButton.accesskey  "D">
+<!ENTITY deleteCardButton.label      "Delete">
 <!ENTITY moveButton.accesskey        "T">
 <!ENTITY moveButton.label            "Move To">
 <!ENTITY moveHereMenu.accesskey      "H">

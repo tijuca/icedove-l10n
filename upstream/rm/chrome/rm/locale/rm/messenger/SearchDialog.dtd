@@ -77,6 +77,8 @@
 <!ENTITY locationColumn.tooltip "Cliccar per zavrar tenor posiziun">
 <!ENTITY idColumn.tooltip "Cliccar per zavrar tenor successiun da retschavida">
 
+<!ENTITY deleteCardButton.accesskey  "D">
+<!ENTITY deleteCardButton.label      "Delete">
 <!ENTITY moveButton.accesskey        "T">
 <!ENTITY moveButton.label            "Move To">
 <!ENTITY moveHereMenu.accesskey      "H">

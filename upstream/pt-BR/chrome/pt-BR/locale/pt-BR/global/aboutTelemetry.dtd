@@ -33,3 +33,8 @@
 <!ENTITY aboutTelemetry.fetchSymbols "Carregar nomes das funções para pilha dos congelamentos">
 
 <!ENTITY aboutTelemetry.hideSymbols "Exibir sem processamento dados dos congelamentos">
+
+
+<!ENTITY aboutTelemetry.addonDetailsSection "
+  Add-on Details
+">

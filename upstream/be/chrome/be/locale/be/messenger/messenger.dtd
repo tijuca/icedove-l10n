@@ -460,7 +460,7 @@
 <!ENTITY accountManagerCmdUnix.accesskey "р">
 <!ENTITY allowRemoteDebugging.label "Дазволіць адлеглую наладку">
 <!ENTITY allowRemoteDebugging.accesskey "д">
-<!ENTITY getMsgButton.label "Атрымаць">
+<!ENTITY getMsgButton1.label "Атрымаць лісты">
 <!ENTITY newMsgButton.label "Укласці">
 <!ENTITY replyButton.label "Адказаць">
 <!ENTITY replyAllButton.label "Адк. усім">
@@ -758,3 +758,16 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
 <!ENTITY showAllAppsCmdMac.label "Паказаць усе">
+
+<!ENTITY phishingOptionDisableDetection.accesskey "D">
+<!ENTITY phishingOptionDisableDetection.label "Disable scam detection for all messages">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+
+<!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Ignore warning for this message">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "f">
+<!ENTITY remoteContentOptionAllowForAddress.label "Show remote content from this sender">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
+
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Show remote content in this message">

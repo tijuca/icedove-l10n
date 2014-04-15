@@ -59,3 +59,8 @@
 <!ENTITY numberUnknown.label "невядомы">
 <!ENTITY sizeOnDisk.label "Памер на дыску:">
 <!ENTITY sizeUnknown.label "невядомы">
+
+<!ENTITY folderCharsetEnforce.accesskey          "A">
+<!ENTITY folderCharsetEnforce.label              "Apply encoding to all messages in the folder (individual message character encoding settings and auto-detection will be ignored)">
+<!ENTITY folderCharsetFallback.accesskey         "E">
+<!ENTITY folderCharsetFallback.label             "Fallback Character Encoding:">

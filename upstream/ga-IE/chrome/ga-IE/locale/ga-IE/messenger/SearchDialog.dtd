@@ -76,3 +76,6 @@
 <!ENTITY starredColumn.tooltip "Cliceáil chun sórtáil de réir réiltín">
 <!ENTITY locationColumn.tooltip "Cliceáil chun sórtáil de réir suímh">
 <!ENTITY idColumn.tooltip "Cliceáil chun sórtáil de réir ord fála">
+
+<!ENTITY deleteCardButton.accesskey  "D">
+<!ENTITY deleteCardButton.label      "Delete">

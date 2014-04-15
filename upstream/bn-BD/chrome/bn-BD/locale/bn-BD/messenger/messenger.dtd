@@ -871,7 +871,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "New Message">
-<!ENTITY appmenuQFBMenu.label "Quick Filter Bar">
 <!ENTITY appmenuSelectFlagged.label "Select Starred Messages">
 <!ENTITY appmenuSelectThread.label "Select Thread">
 <!ENTITY appmenuToolbarLayout.label "Toolbar Layout…">
@@ -908,6 +907,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardAsAttachment.tooltip "Forward selected message as an attachment">
 <!ENTITY forwardAsInline.tooltip "Forward selected message as inline text">
 <!ENTITY getAllNewMessagesCmd.key "Y">
+
+<!-- Mail Toolbar -->
+<!ENTITY getMsgButton1.label "Get Messages">
 <!ENTITY getNewMessagesCmd.key "y">
 <!ENTITY goChatCmd.accesskey "c">
 <!ENTITY goChatCmd.key "I">
@@ -921,9 +923,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY imStatus.unavailable        "Unavailable">
 <!ENTITY joinChatCmd.accesskey "t">
 <!ENTITY joinChatCmd.label "Join Chat…">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage2.label "&brandShortName; thinks this message is junk mail.">
 <!ENTITY junkItem.title "Junk">
 <!ENTITY manageTags.accesskey "M">
 <!ENTITY manageTags.label "Manage Tags…">
@@ -952,9 +951,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openFeedSummary.label "Open as Summary">
 <!ENTITY openFeedWebPage.accesskey "W">
 <!ENTITY openFeedWebPage.label "Open as Web Page">
+<!ENTITY phishingOptionDisableDetection.accesskey "D">
+<!ENTITY phishingOptionDisableDetection.label "Disable scam detection for all messages">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+
+<!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Ignore warning for this message">
 <!ENTITY previousButtonToolbarItem.label "Previous Unread">
 <!ENTITY previousMsgButton.label "Previous">
 <!ENTITY previousMsgButton.tooltip "Move to the previous message">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "f">
+<!ENTITY remoteContentOptionAllowForAddress.label "Show remote content from this sender">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
+
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Show remote content in this message">
 <!ENTITY replyNewsgroupCmd2.accesskey  "u">
 <!ENTITY replyNewsgroupCmd2.label "Followup to Newsgroup">
 <!-- LOCALIZATION NOTE (search.keyLabel.mac):

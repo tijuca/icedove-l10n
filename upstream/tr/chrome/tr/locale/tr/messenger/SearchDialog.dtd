@@ -78,6 +78,8 @@
 <!ENTITY idColumn.tooltip "İstek alınmasına göre sıralamak için tıklayın">
 
 
+<!ENTITY deleteCardButton.accesskey  "D">
+<!ENTITY deleteCardButton.label      "Delete">
 <!ENTITY moveButton.accesskey        "T">
 <!ENTITY moveButton.label            "Move To">
 <!ENTITY moveHereMenu.accesskey      "H">

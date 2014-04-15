@@ -63,3 +63,8 @@
 <!ENTITY aboutTelemetry.hideSymbols "
   Visa rådata från hängningar
 ">
+
+
+<!ENTITY aboutTelemetry.addonDetailsSection "
+  Add-on Details
+">

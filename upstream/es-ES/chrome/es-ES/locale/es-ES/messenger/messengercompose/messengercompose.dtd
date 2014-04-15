@@ -24,6 +24,8 @@
 <!ENTITY attachPageCmd.accesskey "W">
 <!ENTITY attachVCardCmd.label "Tarjeta personal (vCard)">
 <!ENTITY attachVCardCmd.accesskey "P">
+<!ENTITY remindLater.label "Recordármelo más tarde">
+<!ENTITY remindLater.accesskey "R">
 <!ENTITY closeCmd.label "Cerrar">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "c">
@@ -46,6 +48,8 @@
 <!ENTITY sendLaterCmd.accesskey "t">
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "Vista preliminar">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">

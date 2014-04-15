@@ -76,3 +76,6 @@
 <!ENTITY starredColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ աստղիկի ">
 <!ENTITY locationColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ տեղի ">
 <!ENTITY idColumn.tooltip "Սեղմեք՝ խմբավորելու ըստ ստացման կարգի ">
+
+<!ENTITY deleteCardButton.accesskey  "D">
+<!ENTITY deleteCardButton.label      "Delete">

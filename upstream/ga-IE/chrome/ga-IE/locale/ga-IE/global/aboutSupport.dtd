@@ -67,3 +67,12 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Cóipeáil an téacs go dtí an ghearrthaisce">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Cóipeáil amhshonraí go dtí an ghearrthaisce">
+
+<!ENTITY aboutSupport.crashes.allReports "All Crash Reports">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "Report ID">
+<!ENTITY aboutSupport.crashes.noConfig "This application has not been configured to display crash reports.">
+<!ENTITY aboutSupport.crashes.sendDate "Submitted">
+
+<!ENTITY aboutSupport.crashes.title "Crash Reports">

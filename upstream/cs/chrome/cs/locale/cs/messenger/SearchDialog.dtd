@@ -76,3 +76,6 @@
 <!ENTITY starredColumn.tooltip "Klepnutím seřadíte podle hvězdičky">
 <!ENTITY locationColumn.tooltip "Klepnutím seřadíte podle umístění">
 <!ENTITY idColumn.tooltip "Klepnutím seřadíte podle pořadí přijetí">
+
+<!ENTITY deleteCardButton.accesskey  "D">
+<!ENTITY deleteCardButton.label      "Delete">

@@ -73,6 +73,8 @@
 <!ENTITY locationColumn.tooltip "Nhấn để sắp xếp theo địa chỉ">
 <!ENTITY idColumn.tooltip "Nhấn để sắp xếp theo thứ tự nhận được">
 
+<!ENTITY deleteCardButton.accesskey  "D">
+<!ENTITY deleteCardButton.label      "Delete">
 <!ENTITY moveButton.accesskey        "T">
 <!ENTITY moveButton.label            "Move To">
 <!ENTITY moveHereMenu.accesskey      "H">

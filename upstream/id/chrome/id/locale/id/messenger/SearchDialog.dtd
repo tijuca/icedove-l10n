@@ -73,6 +73,8 @@
 <!ENTITY locationColumn.tooltip "Klik untuk mengurut berdasarkan lokasi">
 <!ENTITY idColumn.tooltip "Klik untuk mengurut berdasarkan penerimaan">
 
+<!ENTITY deleteCardButton.accesskey  "D">
+<!ENTITY deleteCardButton.label      "Delete">
 <!ENTITY moveButton.accesskey        "T">
 <!ENTITY moveButton.label            "Move To">
 <!ENTITY moveHereMenu.accesskey      "H">

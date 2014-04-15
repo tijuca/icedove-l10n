@@ -69,3 +69,6 @@
 <!ENTITY moveHereMenu.accesskey "o">
 <!ENTITY moveButton.label "Mover a">
 <!ENTITY moveButton.accesskey "M">
+
+<!ENTITY deleteCardButton.accesskey  "D">
+<!ENTITY deleteCardButton.label      "Delete">

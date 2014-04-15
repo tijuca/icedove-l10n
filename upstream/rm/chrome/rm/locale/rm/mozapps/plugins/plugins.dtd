@@ -58,3 +58,4 @@
 <!ENTITY plugin.mimeTypes                                    "Tips da MIME">
 
 <!ENTITY clickToActivatePlugin                               "Activate plugin.">
+<!ENTITY hidePluginBtn.label                                 "Hide plugin">

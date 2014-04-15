@@ -43,3 +43,8 @@
 
 <!ENTITY aboutTelemetry.hideSymbols "  Vis rådata frå heng
 ">
+
+
+<!ENTITY aboutTelemetry.addonDetailsSection "
+  Add-on Details
+">

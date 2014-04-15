@@ -39,3 +39,11 @@
 <!ENTITY quickFilterBar.textFilter.body.label "Цела">
 <!ENTITY quickFilterBar.glodaUpsell.continueSearch "Працягнуць гэты пошук ва ўсіх папках">
 <!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent "Націсніце 'Enter' зноў, каб працягнуць пошук у: #1">
+
+
+<!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.appmenu.label):
+     The label to display for the "App Menu... Preferences..." menu item that
+     controls whether the quick filter bar is visible.
+     -->
+<!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label
+         "Quick Filter Bar">

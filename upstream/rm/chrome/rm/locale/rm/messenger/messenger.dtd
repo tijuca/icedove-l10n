@@ -913,6 +913,9 @@
 <!ENTITY folderContextOpenInNewWindow.label "Open in New Window">
 <!ENTITY forwardAsAttachment.tooltip "Forward selected message as an attachment">
 <!ENTITY forwardAsInline.tooltip "Forward selected message as inline text">
+
+<!-- Mail Toolbar -->
+<!ENTITY getMsgButton1.label "Get Messages">
 <!ENTITY newFeedAccountCmd.accesskey "d">
 <!ENTITY newFeedAccountCmd.label "Feed Account…">
 <!ENTITY openAttachmentListCmd.accesskey "h">
@@ -923,3 +926,15 @@
 <!ENTITY openFeedSummary.label "Open as Summary">
 <!ENTITY openFeedWebPage.accesskey "W">
 <!ENTITY openFeedWebPage.label "Open as Web Page">
+<!ENTITY phishingOptionDisableDetection.accesskey "D">
+<!ENTITY phishingOptionDisableDetection.label "Disable scam detection for all messages">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+
+<!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Ignore warning for this message">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "f">
+<!ENTITY remoteContentOptionAllowForAddress.label "Show remote content from this sender">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
+
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Show remote content in this message">

@@ -156,7 +156,7 @@
 <!ENTITY sortByStarCmd.label "Estrella">
 <!ENTITY sortByStarCmd.accesskey "S">
 <!ENTITY sortByAttachmentsCmd.label "Adjuntos">
-<!ENTITY sortByAttachmentsCmd.accesskey "A">
+<!ENTITY sortByAttachmentsCmd.accesskey "m">
 <!ENTITY sortByPriorityCmd.label "Prioridad">
 <!ENTITY sortByPriorityCmd.accesskey "p">
 <!ENTITY sortBySizeCmd.label "Tamaño">
@@ -172,11 +172,11 @@
 <!ENTITY sortByFromCmd.label "Remitente">
 <!ENTITY sortByFromCmd.accesskey "R">
 <!ENTITY sortByRecipientCmd.label "Destinatario">
-<!ENTITY sortByRecipientCmd.accesskey "D">
+<!ENTITY sortByRecipientCmd.accesskey "i">
 <!ENTITY sortByUnreadCmd.label "Leídos">
 <!ENTITY sortByUnreadCmd.accesskey "L">
 <!ENTITY sortByOrderReceivedCmd.label "Orden de recepción">
-<!ENTITY sortByOrderReceivedCmd.accesskey "O">
+<!ENTITY sortByOrderReceivedCmd.accesskey "c">
 <!ENTITY sortAscending.label "Ascendente">
 <!ENTITY sortAscending.accesskey "A">
 <!ENTITY sortDescending.label "Descendente">
@@ -460,7 +460,7 @@
 <!ENTITY accountManagerCmdUnix.accesskey "A">
 <!ENTITY allowRemoteDebugging.label "Permitir depuración remota">
 <!ENTITY allowRemoteDebugging.accesskey "r">
-<!ENTITY getMsgButton.label "Recibir">
+<!ENTITY getMsgButton1.label "Recibir mensajes">
 <!ENTITY newMsgButton.label "Redactar">
 <!ENTITY replyButton.label "Responder">
 <!ENTITY replyAllButton.label "Resp. a todos">
@@ -528,10 +528,17 @@
 <!ENTITY appmenuButton1.tooltip "Mostrar el menú &brandShortName;">
 <!ENTITY buttonMenuForwardAsInline.label "Reenviar en el cuerpo del mensaje">
 <!ENTITY buttonMenuForwardAsAttachment.label "Reenviar como adjunto">
+<!ENTITY remoteContentOptionsAllowForMsg.label "Mostrar el contenido remoto en este mensaje">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "M">
+<!ENTITY remoteContentOptionAllowForAddress.label "Mostrar el contenido remoto de este remitente">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "r">
+<!ENTITY phishingOptionIgnore.label "Ignorar advertencia en este mensaje">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionDisableDetection.label "Desactivar toda detección de mensajes fraudulentos">
+<!ENTITY phishingOptionDisableDetection.accesskey "D">
 <!ENTITY appmenuNewMsgCmd.label "Nuevo mensaje">
 <!ENTITY appmenuNewContactCmd.label "Contacto de la libreta de direcciones…">
 <!ENTITY appmenuEditMenu.label "Editar">
-<!ENTITY appmenuQFBMenu.label "Barra de filtrado rápido">
 <!ENTITY appmenuToolbarLayout.label "Disposición de la barra de herramientas…">
 <!ENTITY appmenuSelectThread.label "Seleccionar conversación">
 <!ENTITY appmenuSelectFlagged.label "Seleccionar mensajes con estrella">
@@ -613,7 +620,7 @@
 <!ENTITY subjectColumn.tooltip "Pulse para ordenar por asunto">
 <!ENTITY dateColumn.tooltip "Pulse para ordenar por fecha">
 <!ENTITY priorityColumn.tooltip "Pulse para ordenar por prioridad">
-<!ENTITY tagsColumn.tooltip "Haga clic para ordenar por etiquetas">
+<!ENTITY tagsColumn.tooltip "Pulse para ordenar por etiquetas">
 <!ENTITY accountColumn.tooltip "Pulsar para ordenar por cuenta">
 <!ENTITY statusColumn.tooltip "Pulse para ordenar por estado">
 <!ENTITY sizeColumn.tooltip "Pulse para ordenar por tamaño">
@@ -683,19 +690,6 @@
 <!ENTITY contextMute.accesskey "S">
 <!ENTITY contextUnmute.label "Restaurar sonido">
 <!ENTITY contextUnmute.accesskey "s">
-<!ENTITY junkBarMessage2.label "&brandShortName; piensa que este mensaje es correo basura.">
-<!ENTITY junkBarButton1.label "Legítimo">
-<!ENTITY junkInfoButton.label "?">
-<!ENTITY remoteContentMessage2.label "Para proteger su privacidad, &brandShortName; ha bloqueado el contenido remoto en este mensaje.">
-<!ENTITY loadRemoteContentButton3.label "Mostrar contenido remoto">
-<!ENTITY phishingBarMessage2.label "Este mensaje puede ser fraudulento.">
-<!ENTITY removePhishingBarButton1.label "Ignorar advertencia">
-<!ENTITY disablePhishingWarning1.label "Desactivar detección de mensajes fraudulentos">
-<!ENTITY reportPhishingError1.label "Este mensaje no parece ser fraudulento.">
-<!ENTITY mdnBarIgnoreButton2.label "Ignorar">
-<!ENTITY mdnBarIgnoreButton2.accesskey "I">
-<!ENTITY mdnBarSendButton2.label "Enviar acuse de recibo">
-<!ENTITY mdnBarSendButton2.accesskey "v">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY search.label.base "Buscar… #1">
 <!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">

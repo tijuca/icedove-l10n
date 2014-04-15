@@ -18,3 +18,10 @@
 <!ENTITY highlight.tooltiptext "Relevar mintga posiziun da l'expressiun en il text">
 <!ENTITY caseSensitiveCheckbox.label "Resguardar maiusclas/minusclas">
 <!ENTITY caseSensitiveCheckbox.accesskey "g">
+
+<!ENTITY caseSensitive.accesskey "c">
+<!ENTITY caseSensitive.label "Match Case">
+<!ENTITY caseSensitive.tooltiptext "Search with case sensitivity">
+<!ENTITY highlightAll.accesskey "a">
+<!ENTITY highlightAll.label "Highlight All">
+<!ENTITY highlightAll.tooltiptext "Highlight all occurrences of the phrase">

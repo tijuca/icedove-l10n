@@ -31,6 +31,8 @@
 <!ENTITY propertiesButton.accesskey "P">
 <!ENTITY composeButton.label "Redactar">
 <!ENTITY composeButton.accesskey "R">
+<!ENTITY deleteCardButton.label "Eliminar">
+<!ENTITY deleteCardButton.accesskey "E">
 <!ENTITY abSearchDialogTitle.label "Búsqueda avanzada en la libreta de direcciones">
 <!ENTITY threadColumn.label "Conversación">
 <!ENTITY fromColumn.label "Remitente">
@@ -57,7 +59,7 @@
 <!ENTITY subjectColumn.tooltip "Pulse para ordenar por asunto">
 <!ENTITY dateColumn.tooltip "Pulse para ordenar por fecha">
 <!ENTITY priorityColumn.tooltip "Pulse para ordenar por prioridad">
-<!ENTITY tagsColumn.tooltip "Haga clic para ordenar por etiquetas">
+<!ENTITY tagsColumn.tooltip "Pulse para ordenar por etiquetas">
 <!ENTITY accountColumn.tooltip "Pulsar para ordenar por cuenta">
 <!ENTITY statusColumn.tooltip "Pulse para ordenar por estado">
 <!ENTITY sizeColumn.tooltip "Pulse para ordenar por tamaño">

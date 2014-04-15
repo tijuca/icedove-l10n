@@ -298,3 +298,7 @@
 
 
 <!ENTITY findReplaceCmd.key "H">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printPreviewCmd.label "Print Preview">
+<!ENTITY remindLater.accesskey "L">
+<!ENTITY remindLater.label "Remind Me Later">

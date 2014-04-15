@@ -12,8 +12,8 @@
 <!ENTITY closeTabCmd2.accesskey "I">
 <!ENTITY closeOtherTabsCmd2.label "Itxi beste fitxak">
 <!ENTITY closeOtherTabsCmd2.accesskey "t">
-<!ENTITY recentlyClosedTabsCmd.label "Azkenaldian itxitako fitxak">
-<!ENTITY recentlyClosedTabsCmd.accesskey "A">
+<!ENTITY recentlyClosedTabsCmd.label "Itxitako azken fitxak">
+<!ENTITY recentlyClosedTabsCmd.accesskey "a">
 
 <!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
@@ -493,7 +493,7 @@
 <!ENTITY allowRemoteDebugging.accesskey "z">
 <!-- Mail Toolbar -->
 
-<!ENTITY getMsgButton.label "Hartu posta">
+<!ENTITY getMsgButton1.label "Eskuratu mezuak">
 <!ENTITY newMsgButton.label "Idatzi">
 <!ENTITY replyButton.label "Erantzun">
 <!ENTITY replyAllButton.label "Erantzun denei">
@@ -570,7 +570,6 @@
 <!ENTITY appmenuNewMsgCmd.label "Mezu berria">
 <!ENTITY appmenuNewContactCmd.label "Helbide-liburuko kontaktua…">
 <!ENTITY appmenuEditMenu.label "Editatu">
-<!ENTITY appmenuQFBMenu.label "Iragazki bizkorren barra">
 <!ENTITY appmenuToolbarLayout.label "Tresna-barraren diseinua…">
 <!ENTITY appmenuSelectThread.label "Hautatu haria">
 <!ENTITY appmenuSelectFlagged.label "Hautatu mezu izardunak">
@@ -908,3 +907,16 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Erakutsi denak">
+
+<!ENTITY phishingOptionDisableDetection.accesskey "D">
+<!ENTITY phishingOptionDisableDetection.label "Disable scam detection for all messages">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+
+<!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Ignore warning for this message">
+<!ENTITY remoteContentOptionAllowForAddress.accesskey "f">
+<!ENTITY remoteContentOptionAllowForAddress.label "Show remote content from this sender">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
+
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Show remote content in this message">

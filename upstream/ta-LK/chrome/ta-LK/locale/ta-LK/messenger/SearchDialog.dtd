@@ -73,6 +73,8 @@
 <!ENTITY locationColumn.tooltip "இடவாரியாக வரிசைப்படுத்த சொடுக்குக">
 <!ENTITY idColumn.tooltip "கிடைத்த வரிசை வாரியாக வரிசைப்படுத்த சொடுக்குக.">
 
+<!ENTITY deleteCardButton.accesskey  "D">
+<!ENTITY deleteCardButton.label      "Delete">
 <!ENTITY moveButton.accesskey        "T">
 <!ENTITY moveButton.label            "Move To">
 <!ENTITY moveHereMenu.accesskey      "H">
