@@ -1,3 +1,14 @@
+icedove-l10n (1:31.2.0-1) unstable; urgency=low
+
+  [ Christoph Goehre ]
+  * [27cf05e] Imported Upstream version 31.2.0
+
+  [ Carsten Schoenert ]
+  * [d5cb699] adjust icedove depends to >= 31.2.0 and << 32
+  * [b68ab88] linitan: bump up standards version to 3.9.6
+
+ -- Christoph Goehre <chris@sigxcpu.org>  Mon, 27 Oct 2014 18:11:01 -0400
+
 icedove-l10n (1:31.0-1) unstable; urgency=low
 
   [ Carsten Schoenert ]
