@@ -1,3 +1,11 @@
+icedove-l10n (1:31.2.0-1~deb7u1) stable-security; urgency=low
+
+  * [27cf05e] Imported Upstream version 31.2.0
+  * [070b6b4] adjust icedove depends to >= 31.2.0 and << 32
+  * [83402fa] rebuild patch queue from patch-queue branch
+
+ -- Christoph Goehre <chris@sigxcpu.org>  Mon, 27 Oct 2014 19:47:19 -0400
+
 icedove-l10n (1:24.3.0-1~deb7u1) stable-security; urgency=low
 
   [ Carsten Schoenert ]
