@@ -27,7 +27,7 @@
 <!ENTITY certmgr.pending.label "Poteka preverjanje digitalnih potrdil …">
 <!ENTITY certmgr.subjectinfo.label "Izdano za">
 <!ENTITY certmgr.issuerinfo.label "Izdajatelj">
-<!ENTITY certmgr.validity.label "Veljavnost">
+<!ENTITY certmgr.periodofvalidity.label "Obdobje veljavnosti" >
 <!ENTITY certmgr.fingerprints.label "Prstni odtisi">
 <!ENTITY certmgr.certdetail.title "Podrobnosti digitalnega potrdila">
 <!ENTITY certmgr.certdetail.cn "Splošno ime (CN)">
@@ -39,14 +39,10 @@
 
 <!ENTITY certmgr.editcert.title "Urejanje nastavitev digitalnih potrdil">
 <!ENTITY certmgr.editcacert.title "Urejanje nastavitev zaupanja overiteljem">
-<!ENTITY certmgr.editsslcert.title "Urejanje nastavitev zaupanja spletnim stranem">
 <!ENTITY certmgr.editcert.edittrust "Spremeni nastavitve zaupanja:">
 <!ENTITY certmgr.editcert.trustssl "To digitalno potrdilo lahko predstavlja spletne strani.">
 <!ENTITY certmgr.editcert.trustemail "Ta digitalno potrdilo lahko predstavlja uporabnike e-pošte.">
 <!ENTITY certmgr.editcert.trustobjsign "Ta digitalno potrdilo lahko predstavlja izdelovalce programov.">
-<!ENTITY certmgr.editsslcert.edittrust "Urejanje nastavitev zaupanja digitalnih potrdil:">
-<!ENTITY certmgr.editsslcert.dotrust "Zaupaj avtentičnosti tega digitalnega potrdila.">
-<!ENTITY certmgr.editsslcert.donttrust "Ne zaupaj avtentičnosti tega digitalnega potrdila.">
 <!ENTITY certmgr.editemailcert.title "Urejanje nastavitev zaupanja e-poštnim digitalnim potrdilom">
 <!ENTITY certmgr.editemailcert.edittrust "Urejanje nastavitev zaupanja digitalnih potrdil:">
 <!ENTITY certmgr.editemailcert.dotrust "Zaupaj verodostojnosti tega digitalnega potrdila.">
@@ -63,8 +59,8 @@
 <!ENTITY certmgr.certserver "Strežnik">
 <!ENTITY certmgr.override_lifetime "Življenjska doba">
 <!ENTITY certmgr.tokenname "Varnostna naprava">
-<!ENTITY certmgr.issued "Izdan dne">
-<!ENTITY certmgr.expires "Preteče dne">
+<!ENTITY certmgr.begins "Začne veljati">
+<!ENTITY certmgr.expires "Poteče">
 <!ENTITY certmgr.email "E-mail naslov">
 <!ENTITY certmgr.serial "Serijska številka">
 

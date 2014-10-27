@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY Contact.tab                     "連絡資訊">
+<!ENTITY Contact.tab                     "聯絡資訊">
 <!ENTITY Contact.accesskey               "C">
 <!ENTITY Name.box                        "姓名">
 
@@ -46,10 +46,6 @@
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "未知">
 <!ENTITY chatName.label                 "聊天名稱:">
-
-<!ENTITY allowRemoteContent1.label      "允許遠端內容。">
-<!ENTITY allowRemoteContent1.accesskey  "r">
-<!ENTITY allowRemoteContent1.tooltip    "HTML 格式的郵件可能嵌入遠端內容到郵件中。打開這類郵件時將會同時開啟億個遠端連線讀取嵌入的遠端內容來源。此動作有可能被利用來偵測該郵件已被讀取。勾選此選項將會允許在 HTML 郵件中載入遠端內容。">
 
 <!ENTITY WorkPhone.label                "商務電話:">
 <!ENTITY WorkPhone.accesskey            "k">

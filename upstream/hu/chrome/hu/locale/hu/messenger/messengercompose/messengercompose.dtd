@@ -21,13 +21,15 @@
 <!ENTITY attachFileCmd.label "Fájlok…">
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachFileCmd.key "A">
-<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.label "Óriásfájl-küldés">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Weboldal…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Személyi kártya (vCard)">
 <!ENTITY attachVCardCmd.accesskey "k">
+<!ENTITY remindLater.label "Figyelmeztetés később">
+<!ENTITY remindLater.accesskey "F">
 <!ENTITY closeCmd.label "Bezárás">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "B">
@@ -50,6 +52,8 @@
 <!ENTITY sendLaterCmd.accesskey "l">
 <!ENTITY printSetupCmd.label "Oldalbeállítás…">
 <!ENTITY printSetupCmd.accesskey "l">
+<!ENTITY printPreviewCmd.label "Nyomtatási kép">
+<!ENTITY printPreviewCmd.accesskey "t">
 <!ENTITY printCmd.label "Nyomtatás…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "N">
@@ -84,18 +88,20 @@
 <!ENTITY selectAllCmd.label "Minden kijelölése">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "d">
-<!ENTITY findCmd.label "Keresés és csere…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "K">
+<!ENTITY findBarCmd.label "Keresés…">
+<!ENTITY findBarCmd.accesskey "K">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Keresés és csere…">
+<!ENTITY findReplaceCmd.accesskey "c">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Következő keresése">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "z">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Előző keresése">
+<!ENTITY findPrevCmd.accesskey "l">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "l">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Nézet">
@@ -176,13 +182,13 @@
 <!ENTITY addressBookCmd.label "Címjegyzék">
 <!ENTITY addressBookCmd.accesskey "C">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Postafiókok beállításai…">
-<!ENTITY accountManagerCmd.accesskey "P">
-<!ENTITY accountManagerCmdUnix.accesskey "P">
-<!ENTITY preferencesCmd.label "Beállítások…">
-<!ENTITY preferencesCmd.accesskey "B">
-<!ENTITY preferencesCmdUnix.label       "Beállítások">
-<!ENTITY preferencesCmdUnix.accesskey   "B">
+<!ENTITY accountManagerCmd2.label "Postafiók beállításai">
+<!ENTITY accountManagerCmd2.accesskey "P">
+<!ENTITY accountManagerCmdUnix2.accesskey "P">
+<!ENTITY preferencesCmd2.label "Beállítások">
+<!ENTITY preferencesCmd2.accesskey "B">
+<!ENTITY preferencesCmdUnix.label "Beállítások">
+<!ENTITY preferencesCmdUnix.accesskey "B">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -198,6 +204,7 @@
 <!ENTITY attachButton.label "Melléklet">
 <!ENTITY spellingButton.label "Helyesírás">
 <!ENTITY saveButton.label "Mentés">
+<!ENTITY printButton.label "Nyomtatás">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Üzenet elküldése azonnal">
@@ -210,6 +217,7 @@
 <!ENTITY cutButton.tooltip              "Kivágás">
 <!ENTITY copyButton.tooltip             "Másolás">
 <!ENTITY pasteButton.tooltip            "Beillesztés">
+<!ENTITY printButton.tooltip "Az üzenet kinyomtatása">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
@@ -277,7 +285,7 @@
 <!ENTITY selectAll.accesskey "d">
 <!ENTITY attachFile.label "Fájlok csatolása…">
 <!ENTITY attachFile.accesskey "F">
-<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.label "Óriásfájl-küldés…">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Konvertálás…">
 <!ENTITY convertCloud.accesskey "K">

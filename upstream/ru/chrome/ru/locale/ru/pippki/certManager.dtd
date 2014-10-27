@@ -22,7 +22,7 @@
 <!ENTITY certmgr.pending.label "Идёт проверка сертификата…">
 <!ENTITY certmgr.subjectinfo.label "Кому выдано">
 <!ENTITY certmgr.issuerinfo.label "Кем выдано">
-<!ENTITY certmgr.validity.label "Действителен">
+<!ENTITY certmgr.periodofvalidity.label "Срок действия">
 <!ENTITY certmgr.fingerprints.label "Отпечатки">
 <!ENTITY certmgr.certdetail.title "Информация о сертификате">
 <!ENTITY certmgr.certdetail.cn "Общее имя (CN)">
@@ -33,14 +33,10 @@
 <!ENTITY certmgr.certdetail.md5fingerprint "Отпечаток MD5">
 <!ENTITY certmgr.editcert.title "Изменение параметров сертификата">
 <!ENTITY certmgr.editcacert.title "Изменение степени доверия сертификату CA">
-<!ENTITY certmgr.editsslcert.title "Изменение степени доверия сертификату веб-сайта">
 <!ENTITY certmgr.editcert.edittrust "Изменить степень доверия:">
 <!ENTITY certmgr.editcert.trustssl "Этот сертификат может служить для идентификации веб-сайтов.">
 <!ENTITY certmgr.editcert.trustemail "Этот сертификат может служить для идентификации пользователей электронной почты.">
 <!ENTITY certmgr.editcert.trustobjsign "Этот сертификат может служить для идентификации программного обеспечения.">
-<!ENTITY certmgr.editsslcert.edittrust "Изменить доверие сертификату:">
-<!ENTITY certmgr.editsslcert.dotrust "Доверять этому сертификату.">
-<!ENTITY certmgr.editsslcert.donttrust "Не доверять этому сертификату.">
 <!ENTITY certmgr.editemailcert.title "Изменение доверия сертификатам электронной почты">
 <!ENTITY certmgr.editemailcert.edittrust "Укажите степень доверия сертификату:">
 <!ENTITY certmgr.editemailcert.dotrust "Доверять подлинности сертификата.">
@@ -55,8 +51,8 @@
 <!ENTITY certmgr.certserver "Сервер">
 <!ENTITY certmgr.override_lifetime "Срок действия">
 <!ENTITY certmgr.tokenname "Устройство защиты">
-<!ENTITY certmgr.issued "Выдан">
-<!ENTITY certmgr.expires "Срок действия">
+<!ENTITY certmgr.begins "Действителен с">
+<!ENTITY certmgr.expires "Действителен по">
 <!ENTITY certmgr.email "Адрес электронной почты">
 <!ENTITY certmgr.serial "Серийный номер">
 <!ENTITY certmgr.close.label "Закрыть">

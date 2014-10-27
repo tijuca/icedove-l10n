@@ -47,10 +47,6 @@
 <!ENTITY Unknown.label                  "betg enconuschent">
 <!ENTITY chatName.label                 "Num da chat:">
 
-<!ENTITY allowRemoteContent1.label      "Permetter cuntegn extern.">
-<!ENTITY allowRemoteContent1.accesskey  "r">
-<!ENTITY allowRemoteContent1.tooltip    "En messadis HTML pon esser incorporads cuntegns da funtaunas externas. Cun mussar quests messadis vegn stabilì ina connexiun ad ina funtauna externa. En questa moda po vegnir verifitgà ch'il messadi vegn legì. Cun activar questa opziun permettas ti da chargiar cuntegns da funtaunas externas da quest speditur.">
-
 <!ENTITY WorkPhone.label                "Lavur:">
 <!ENTITY WorkPhone.accesskey            "L">
 <!ENTITY HomePhone.label                "Chasa:">
@@ -140,6 +136,8 @@
 <!ENTITY ICQ.accesskey                  "I">
 <!ENTITY XMPP.label                     "ID da Jabber:">
 <!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "Pseudonim dad IRC:">
+<!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Fotografia">
 <!ENTITY Photo.accesskey                "o">
@@ -156,6 +154,3 @@
 <!ENTITY PhotoURL.placeholder           "Endatescha l'adressa web dad ina fotografia">
 <!ENTITY UpdatePhoto.label              "Actualisar">
 <!ENTITY UpdatePhoto.accesskey          "U">
-
-<!ENTITY IRC.accesskey                  "R">
-<!ENTITY IRC.label                      "IRC Nick:">

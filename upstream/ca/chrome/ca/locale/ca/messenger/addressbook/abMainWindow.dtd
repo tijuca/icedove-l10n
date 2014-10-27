@@ -74,8 +74,8 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                            "Propietats…">
-<!ENTITY propertiesCmd.accesskey                        "i">
+<!ENTITY propertiesCmd2.label                           "Propietats">
+<!ENTITY propertiesCmd2.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
 <!-- View Menu -->
 
@@ -122,8 +122,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Exporta…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd.label                           "Opcions…">
-<!ENTITY preferencesCmd.accesskey                       "O">
+<!ENTITY preferencesCmd2.label                          "Opcions">
+<!ENTITY preferencesCmd2.accesskey                      "O">
 <!ENTITY preferencesCmdUnix.label                       "Preferències">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
 <!-- Address Book Toolbar and Context Menus -->  
@@ -142,8 +142,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "u">
 <!-- Address Book Toolbar Tooltips -->
 
-<!ENTITY newContactButton.tooltip                       "Crea un nou contacte a la llibreta d'adreces">
-<!ENTITY newlistButton.tooltip                          "Crea una nova llista">
+<!ENTITY newContactButton.tooltip                       "Crea un contacte nou a la llibreta d'adreces">
+<!ENTITY newlistButton.tooltip                          "Crea una llista nova">
 <!ENTITY editButton2.tooltip                            "Edita l'element seleccionat">
 <!ENTITY newmsgButton.tooltip                           "Envia un missatge de correu">
 <!ENTITY newIM.tooltip                                  "Envieu un missatge instantani o feu un xat">

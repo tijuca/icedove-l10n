@@ -28,6 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label  "Käyntikortti (Vcard)">
 <!ENTITY attachVCardCmd.accesskey  "K">
+<!ENTITY remindLater.label "Muistuta minua myöhemmin">
+<!ENTITY remindLater.accesskey "M">
 <!ENTITY closeCmd.label  "Sulje">
 <!ENTITY closeCmd.key  "W">
 <!ENTITY closeCmd.accesskey  "S">
@@ -50,6 +52,8 @@
 <!ENTITY sendLaterCmd.accesskey  "h">
 <!ENTITY printSetupCmd.label  "Sivun asetukset…">
 <!ENTITY printSetupCmd.accesskey  "e">
+<!ENTITY printPreviewCmd.label "Tulostuksen esikatselu">
+<!ENTITY printPreviewCmd.accesskey "T">
 <!ENTITY printCmd.label  "Tulosta…">
 <!ENTITY printCmd.key  "P">
 <!ENTITY printCmd.accesskey  "o">
@@ -84,18 +88,20 @@
 <!ENTITY selectAllCmd.label  "Valitse kaikki">
 <!ENTITY selectAllCmd.key  "A">
 <!ENTITY selectAllCmd.accesskey  "V">
-<!ENTITY findCmd.label  "Etsi ja korvaa…">
-<!ENTITY findCmd.key  "F">
-<!ENTITY findCmd.accesskey  "E">
+<!ENTITY findBarCmd.label "Etsi…">
+<!ENTITY findBarCmd.accesskey "E">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Etsi ja korvaa…">
+<!ENTITY findReplaceCmd.accesskey "j">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label  "Etsi seuraava">
-<!ENTITY findAgainCmd.key  "G">
-<!ENTITY findAgainCmd.accesskey  "s">
+<!ENTITY findAgainCmd.accesskey "s">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2  "VK_F3">
 <!ENTITY findPrevCmd.label  "Etsi edellinen">
-<!ENTITY findPrevCmd.key  "G">
-<!ENTITY findPrevCmd.key2  "VK_F3">
-<!ENTITY findPrevCmd.accesskey  "d">
+<!ENTITY findPrevCmd.accesskey "d">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label  "Näytä">
@@ -176,11 +182,11 @@
 <!ENTITY addressBookCmd.label  "Osoitekirja">
 <!ENTITY addressBookCmd.accesskey  "O">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label  "Tilien asetukset…">
-<!ENTITY accountManagerCmd.accesskey  "s">
-<!ENTITY accountManagerCmdUnix.accesskey  "A">
-<!ENTITY preferencesCmd.label  "Asetukset…">
-<!ENTITY preferencesCmd.accesskey  "A">
+<!ENTITY accountManagerCmd2.label  "Tilien asetukset">
+<!ENTITY accountManagerCmd2.accesskey  "s">
+<!ENTITY accountManagerCmdUnix2.accesskey  "A">
+<!ENTITY preferencesCmd2.label  "Asetukset">
+<!ENTITY preferencesCmd2.accesskey  "A">
 <!ENTITY preferencesCmdUnix.label        "Asetukset">
 <!ENTITY preferencesCmdUnix.accesskey    "A">
 
@@ -198,6 +204,7 @@
 <!ENTITY attachButton.label  "Liitä">
 <!ENTITY spellingButton.label  "Oikoluku">
 <!ENTITY saveButton.label  "Tallenna">
+<!ENTITY printButton.label "Tulosta">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip  "Lähetä tämä viesti nyt">
@@ -210,6 +217,7 @@
 <!ENTITY cutButton.tooltip               "Leikkaa">
 <!ENTITY copyButton.tooltip              "Kopioi">
 <!ENTITY pasteButton.tooltip             "Liitä">
+<!ENTITY printButton.tooltip "Tulosta tämä viesti">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and

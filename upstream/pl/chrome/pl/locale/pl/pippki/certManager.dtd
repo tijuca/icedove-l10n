@@ -22,7 +22,7 @@
 
 <!ENTITY certmgr.subjectinfo.label 			"Wystawiony dla">
 <!ENTITY certmgr.issuerinfo.label 			"Wystawiony przez">
-<!ENTITY certmgr.validity.label 			"Ważność">
+<!ENTITY certmgr.periodofvalidity.label "Okres ważności">
 <!ENTITY certmgr.fingerprints.label 			"Odciski">
 <!ENTITY certmgr.certdetail.title 			"Szczegóły certyfikatu">
 <!ENTITY certmgr.certdetail.cn 				"Nazwa pospolita (CN)">
@@ -34,14 +34,10 @@
 
 <!ENTITY certmgr.editcert.title 			"Edycja ustawień certyfikatów bezpieczeństwa">
 <!ENTITY certmgr.editcacert.title 			"Edycja ustawień zaufania certyfikatu CA">
-<!ENTITY certmgr.editsslcert.title 			"Edycja ustawień zaufania certyfikatu witryny">
 <!ENTITY certmgr.editcert.edittrust 			"Edytuj ustawienia zaufania:">
 <!ENTITY certmgr.editcert.trustssl 			"Ten certyfikat identyfikuje witryny.">
 <!ENTITY certmgr.editcert.trustemail 			"Ten certyfikat identyfikuje użytkowników poczty.">
 <!ENTITY certmgr.editcert.trustobjsign 			"Ten certyfikat identyfikuje twórców oprogramowania.">
-<!ENTITY certmgr.editsslcert.edittrust 			"Edytuj ustawienia zaufania certyfikatu:">
-<!ENTITY certmgr.editsslcert.dotrust 			"Ufaj autentyczności tego certyfikatu.">
-<!ENTITY certmgr.editsslcert.donttrust 			"Nie ufaj autentyczności tego certyfikatu.">
 <!ENTITY certmgr.editemailcert.title 			"Edytuj ustawienia zaufania tego certyfikatu wiadomości e-mail.">
 <!ENTITY certmgr.editemailcert.edittrust 		"Edytuj ustawienia zaufania tego certyfikatu:">
 <!ENTITY certmgr.editemailcert.dotrust 			"Ufaj autentyczności tego certyfikatu.">
@@ -58,7 +54,7 @@
 <!ENTITY certmgr.certserver                   "Serwer">
 <!ENTITY certmgr.override_lifetime            "Czas życia">
 <!ENTITY certmgr.tokenname 						"Urządzenie zabezpieczające">
-<!ENTITY certmgr.issued 						"Wystawiony dnia">
+<!ENTITY certmgr.begins "Ważny od dnia">
 <!ENTITY certmgr.expires 						"Wygasa dnia">
 <!ENTITY certmgr.email 							"Adres e-mail">
 <!ENTITY certmgr.serial 						"Numer seryjny">

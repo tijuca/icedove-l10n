@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  startupAction.label         "Ko &brandShortName; se zažene:">
+<!ENTITY  startupAction.label         "Ko se &brandShortName; zažene:">
 <!ENTITY  startupAction.accesskey     "S">
-<!ENTITY  startupOffline.label        "Moji klepetni računi naj ostanejo povezani">
-<!ENTITY  startupConnectAuto.label    "Poveži samodejno more račune za klepet">
+<!ENTITY  startupOffline.label        "Ne poveži se samodejno v klepet">
+<!ENTITY  startupConnectAuto.label    "Samodejno poveži moje račune za klepet">
 
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
@@ -17,8 +17,23 @@ sentence. -->
 <!ENTITY  reportIdleAfter.accesskey     "I">
 <!ENTITY  idleTime                      "minutah nedela">
 
-<!ENTITY  andSetStatusToAway.label      "in mojo odsotnost Objavi s sporočilom stanja:">
+<!ENTITY  andSetStatusToAway.label      "in mojo odsotnost objavi s sporočilom stanja:">
 <!ENTITY  andSetStatusToAway.accesskey  "A ">
 
 <!ENTITY  sendTyping.label              "Pošlji obvestila o tipkanju med pogovori">
 <!ENTITY  sendTyping.accesskey          "T">
+
+<!ENTITY  chatNotifications.label             "Ko prispe novo sporočilo za vas:">
+<!ENTITY  desktopChatNotifications.label      "Prikaži obvestilo">
+<!ENTITY  desktopChatNotifications.accesskey  "o">
+<!ENTITY  chatSound.accesskey                 "d">
+<!ENTITY  chatSound.label                     "Predvajaj zvok">
+<!ENTITY  play.label                          "Predvajaj">
+<!ENTITY  play.accesskey                      "P">
+<!ENTITY  systemSound.label                   "Privzet zvok ob novem sporočilu">
+<!ENTITY  systemSound.accesskey               "N">
+<!ENTITY  customsound.label                   "Uporabi naslednjo zvočno datoteko">
+<!ENTITY  customsound.accesskey               "U">
+<!ENTITY  browse.label                        "Prebrskaj …">
+<!ENTITY  browse.accesskey                    "B">
+

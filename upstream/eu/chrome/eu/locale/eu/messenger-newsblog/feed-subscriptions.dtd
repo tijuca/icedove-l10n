@@ -19,6 +19,12 @@
 <!ENTITY quickMode.label             "Lehenespenez, erakutsi artikuluaren laburpena web orria kargatu ordez">
 <!ENTITY quickMode.accesskey         "L">
 
+<!ENTITY autotagEnable.label         "Sortu etiketak automatikoki &lt;kategorien&gt; izenetatik">
+<!ENTITY autotagEnable.accesskey     "m">
+<!ENTITY autotagUsePrefix.label      "Erabili aurrizkia etiketentzat:">
+<!ENTITY autotagUsePrefix.accesskey  "z">
+<!ENTITY autoTagPrefix.placeholder   "Idatzi etiketaren aurrizkia">
+
 <!ENTITY locationValidate.label      "Balidatu">
 <!ENTITY validateText.label          "Egiaztatu balidazioa eta eskuratu baliozko URLa.">
 
@@ -35,3 +41,4 @@
 <!ENTITY button.exportOPML.tooltip   "Esportatu jarioak karpeta-egiturarekin; ktrl-klik edo ktrl-sartu jarioak zerrenda gisa esportatzeko">
 
 <!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Itxi">

@@ -8,6 +8,7 @@
 <!ENTITY muteButton.unmuteLabel "Virkja hljóð">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Fylla skjá">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Hætta í fullum skjá">
+<!ENTITY castingButton.castingLabel "Senda á skjá">
 <!ENTITY stats.media "Gögn">
 <!ENTITY stats.size "Stærð">
 <!ENTITY stats.activity "Aðgerð">
@@ -16,8 +17,6 @@
 <!ENTITY stats.activityEnded "Lokið">
 <!ENTITY stats.activitySeeking "(leita)">
 <!ENTITY stats.volume "Bindi">
-<!ENTITY stats.channels "Rásir">
-<!ENTITY stats.sampleRate "Söfnunartíðni">
 <!ENTITY stats.framesParsed "Þáttaðir rammar">
 <!ENTITY stats.framesDecoded "Afkóðaðir rammar">
 <!ENTITY stats.framesPresented "Birtir rammar">

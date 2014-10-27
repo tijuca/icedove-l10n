@@ -8,6 +8,7 @@
 <!ENTITY muteButton.unmuteLabel "Уключыць гук">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Увесь экран">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Закрыць поўны экран">
+<!ENTITY castingButton.castingLabel "Перакінуць на экран">
 <!ENTITY stats.media "Медыя">
 <!ENTITY stats.size "Памер">
 <!ENTITY stats.activity "Дзейнасць">
@@ -16,8 +17,6 @@
 <!ENTITY stats.activityEnded "Скончана">
 <!ENTITY stats.activitySeeking "(шукаецца)">
 <!ENTITY stats.volume "Гучнасць">
-<!ENTITY stats.channels "Каналы">
-<!ENTITY stats.sampleRate "Узор хуткасці">
 <!ENTITY stats.framesParsed "Рамкі разабраныя">
 <!ENTITY stats.framesDecoded "Рамкі дэкадаваныя">
 <!ENTITY stats.framesPresented "Рамкі прадстаўленыя">

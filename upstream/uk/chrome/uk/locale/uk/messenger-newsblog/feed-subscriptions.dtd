@@ -35,3 +35,11 @@
 <!ENTITY button.exportOPML.tooltip   "Експортувати стрічки з структурою тек; Ctrl+клаць чи Ctrl+Enter щоб експортувати стрічки як список">
 
 <!ENTITY cmd.close.commandKey        "w">
+
+<!ENTITY autoTagPrefix.placeholder   "Enter a tag prefix">
+<!ENTITY autotagEnable.accesskey     "c">
+
+<!ENTITY autotagEnable.label         "Automatically create tags from feed &lt;category&gt; names">
+<!ENTITY autotagUsePrefix.accesskey  "P">
+<!ENTITY autotagUsePrefix.label      "Prefix tags with:">
+<!ENTITY button.close.label          "Close">

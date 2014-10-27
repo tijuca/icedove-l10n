@@ -11,11 +11,28 @@
   gestellten Fragen zu &brandShortName; suchen, besuchen Sie bitte unsere  <a id='supportLink'>Hilfeseite</a>.
 ">
 
+<!ENTITY aboutSupport.crashes.title "Absturzberichte">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "Meldungs-ID">
+<!ENTITY aboutSupport.crashes.sendDate "Gesendet">
+<!ENTITY aboutSupport.crashes.allReports "Alle Absturzberichte">
+<!ENTITY aboutSupport.crashes.noConfig "Diese Anwendung wurde nicht für die Anzeige von Absturzberichten konfiguriert.">
+
 <!ENTITY aboutSupport.extensionsTitle "Erweiterungen">
 <!ENTITY aboutSupport.extensionName "Name">
 <!ENTITY aboutSupport.extensionEnabled "Aktiviert">
 <!ENTITY aboutSupport.extensionVersion "Version">
 <!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.experimentsTitle "Experimentelle Funktionen">
+<!ENTITY aboutSupport.experimentName "Name">
+<!ENTITY aboutSupport.experimentId "ID">
+<!ENTITY aboutSupport.experimentDescription "Beschreibung">
+<!ENTITY aboutSupport.experimentActive "Aktiv">
+<!ENTITY aboutSupport.experimentEndDate "Enddatum">
+<!ENTITY aboutSupport.experimentHomepage "Homepage">
+
 
 <!ENTITY aboutSupport.appBasicsTitle "Allgemeine Informationen">
 <!ENTITY aboutSupport.appBasicsName "Name">
@@ -35,7 +52,6 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Aktivierte Plugins">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build-Konfiguration">
 <!ENTITY aboutSupport.appBasicsUserAgent "User-Agent">
-<!ENTITY aboutSupport.appBasicsCrashIDs "Absturzberichte">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Speicherverwendung">
 
 <!ENTITY aboutSupport.showDir.label "Ordner öffnen">

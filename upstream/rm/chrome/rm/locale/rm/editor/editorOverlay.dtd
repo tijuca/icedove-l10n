@@ -16,7 +16,8 @@
 <!ENTITY pasteAsQuotationCmd.label "Encollar sco citat">
 <!ENTITY pasteAsQuotationCmd.accesskey "i">
 <!ENTITY pasteAsQuotationCmd.key "Z">
-<!ENTITY findCmd.label "Tschertgar e remplazzar…">
+<!ENTITY findBarCmd.label "Tschertgar…">
+<!ENTITY findReplaceCmd.label "Tschertgar e remplazzar…">
 <!ENTITY enableInlineSpellChecker.label "Controllar l'ortografia durant tippar">
 <!ENTITY enableInlineSpellChecker.accesskey "t">
 <!ENTITY checkSpellingCmd2.label "Controllar l'ortografia…">
@@ -39,6 +40,8 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "Matematica…">
+<!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Caracters e simbols…">
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "Nova lingia sut la(s) grafica(s)">
@@ -70,12 +73,12 @@
 <!ENTITY FontSizeSelect.tooltip "Tscherna la grondezza da scrittira">
 <!ENTITY decreaseFontSize.label "Pli pitschen">
 <!ENTITY decreaseFontSize.accesskey "p">
-<!ENTITY decreaseFontSize.key "&lt;">
-<!ENTITY decreaseFontSize.key2 ","> <!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Pli grond">
 <!ENTITY increaseFontSize.accesskey "g">
-<!ENTITY increaseFontSize.key "&gt;">
-<!ENTITY increaseFontSize.key2 "."> <!-- > is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key "&gt;">
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Grondezza">
 <!ENTITY fontSizeMenu.accesskey "G">
@@ -342,9 +345,3 @@
 <!ENTITY removeTOC.accesskey      "A">
 <!ENTITY tocMenu.label            "Tavla da cuntegn">
 <!ENTITY tocMenu.accesskey        "v">
-
-<!ENTITY decrementFontSize.key "&lt;">
-<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
-<!ENTITY incrementFontSize.key "&gt;">
-<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
-

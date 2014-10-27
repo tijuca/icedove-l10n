@@ -19,6 +19,12 @@
 <!ENTITY quickMode.label             "Älä lataa artikkelin verkkosivua vaan näytä artikkelin yhteenveto">
 <!ENTITY quickMode.accesskey         "v">
 
+<!ENTITY autotagEnable.label         "Luo tunnisteet automaattisesti syötteen &lt;kategorioden&gt; nimistä">
+<!ENTITY autotagEnable.accesskey     "L">
+<!ENTITY autotagUsePrefix.label      "Lisää tunnisteisiin etuliite:">
+<!ENTITY autotagUsePrefix.accesskey  "e">
+<!ENTITY autoTagPrefix.placeholder   "Kirjoita tunnisteen etuliite">
+
 <!ENTITY locationValidate.label      "Varmista">
 <!ENTITY validateText.label          "Varmista ja hae kelvollinen osoite.">
 
@@ -35,3 +41,4 @@
 <!ENTITY button.exportOPML.tooltip   "Vie syötteet kansiorakenteella; Napsauta ctrl-näppäin pohjassa tai ctrl+enter jos haluat viedä syötteet listana">
 
 <!ENTITY cmd.close.commandKey              "w">
+<!ENTITY button.close.label          "Sulje">

@@ -11,15 +11,15 @@
 <!ENTITY pasteNoFormatting.label "ألصق بلا تنسيق">
 <!ENTITY pasteNoFormatting.accesskey "ب">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "ألصق على صيغة…">
-<!ENTITY pasteAs.accesskey "ص">
+<!ENTITY pasteAs.label "ألصق ك‍">
+<!ENTITY pasteAs.accesskey "ل">
 <!ENTITY pasteAsQuotationCmd.label "ألصق كاقتباس">
 <!ENTITY pasteAsQuotationCmd.accesskey "ت">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "ابحث واستبدل…">
 <!ENTITY enableInlineSpellChecker.label "دقق الإملاء بينما تكتب">
 <!ENTITY enableInlineSpellChecker.accesskey "د">
-<!ENTITY checkSpellingCmd2.label "دقِّق الإملاء">
+<!ENTITY checkSpellingCmd2.label "دقِّق الإملاء…">
 <!ENTITY checkSpellingCmd2.accesskey "ء">
 <!ENTITY checkSpellingCmd2.key "p">
 <!-- Insert menu items -->
@@ -344,3 +344,8 @@
 <!ENTITY removeTOC.accesskey      "ز">
 <!ENTITY tocMenu.label            "جدول المحتويات…">
 <!ENTITY tocMenu.accesskey        "ج">
+
+<!ENTITY findBarCmd.label "Find…">
+<!ENTITY findReplaceCmd.label "Find and Replace…">
+<!ENTITY insertMathCmd.accesskey "M">
+<!ENTITY insertMathCmd.label "Math…">

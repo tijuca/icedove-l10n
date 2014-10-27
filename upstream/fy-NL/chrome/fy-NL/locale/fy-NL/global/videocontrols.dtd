@@ -8,6 +8,7 @@
 <!ENTITY muteButton.unmuteLabel "Lûd oan">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Folslein skerm">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Folslein skerm ferlitte">
+<!ENTITY castingButton.castingLabel "Fersjoer nei skerm">
 
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Grutte">
@@ -17,8 +18,6 @@
 <!ENTITY stats.activityEnded "Beëinige">
 <!ENTITY stats.activitySeeking "(sykje)">
 <!ENTITY stats.volume "Folume">
-<!ENTITY stats.channels "Kanalen">
-<!ENTITY stats.sampleRate "Bemonsteringsfrekwinsje">
 <!ENTITY stats.framesParsed "Frames ferwurke">
 <!ENTITY stats.framesDecoded "Frames dekodearre">
 <!ENTITY stats.framesPresented "Frames presintearre">

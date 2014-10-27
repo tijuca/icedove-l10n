@@ -35,3 +35,11 @@
 <!ENTITY button.exportOPML.tooltip   "صدّر التلقيمات مع تركيبة المجلد؛ انقر أثناء ضغط ctrl أو ctrl مع enter لتصدير التلقيمات كقائمة">
 
 <!ENTITY cmd.close.commandKey        "w">
+
+<!ENTITY autoTagPrefix.placeholder   "Enter a tag prefix">
+<!ENTITY autotagEnable.accesskey     "c">
+
+<!ENTITY autotagEnable.label         "Automatically create tags from feed &lt;category&gt; names">
+<!ENTITY autotagUsePrefix.accesskey  "P">
+<!ENTITY autotagUsePrefix.label      "Prefix tags with:">
+<!ENTITY button.close.label          "Close">

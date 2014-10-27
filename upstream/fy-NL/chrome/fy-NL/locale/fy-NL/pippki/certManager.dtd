@@ -27,7 +27,7 @@
 <!ENTITY certmgr.pending.label                "No sertifikaat oan it ferifiearjen…">
 <!ENTITY certmgr.subjectinfo.label            "Utjûn oan">
 <!ENTITY certmgr.issuerinfo.label             "Utjûn troch">
-<!ENTITY certmgr.validity.label               "Jildichheid">
+<!ENTITY certmgr.periodofvalidity.label       "Perioade fan jildichheid">
 <!ENTITY certmgr.fingerprints.label           "Fingerprint">
 <!ENTITY certmgr.certdetail.title             "Detail fan sertifikaat">
 <!ENTITY certmgr.certdetail.cn                "Algemiene namme (CN)">
@@ -39,14 +39,10 @@
 
 <!ENTITY certmgr.editcert.title               "Befeiligings-sertifikaatynstellings bewurkje">
 <!ENTITY certmgr.editcacert.title             "CA-sertifikaat-fertrouwensynstellings bewurkje">
-<!ENTITY certmgr.editsslcert.title            "Websteesertifikaat-fertrouwensynstellings bewurkje">
 <!ENTITY certmgr.editcert.edittrust           "Fertrouwensynstellings bewurkje:">
 <!ENTITY certmgr.editcert.trustssl            "Dit sertifikaat kin websteeën identifisearje.">
 <!ENTITY certmgr.editcert.trustemail          "Dit sertifikaat kin e-mailbrûkers identifisearje.">
 <!ENTITY certmgr.editcert.trustobjsign        "Dit sertifikaat kin makkers fan programmatuer identifisearje.">
-<!ENTITY certmgr.editsslcert.edittrust        "Sertifikaat-fertrouwensynstellings bewurkje:">
-<!ENTITY certmgr.editsslcert.dotrust          "Fertrouw de echtheid fan dit sertifikaat.">
-<!ENTITY certmgr.editsslcert.donttrust 		  "Wantrouw de echtheid fan dit sertifikaat.">
 <!ENTITY certmgr.editemailcert.title          "E-mailsertifikaat-fertrouwensynstellings bewurkje">
 <!ENTITY certmgr.editemailcert.edittrust      "Sertifikaat-fertrouwensynstellings bewurkje:">
 <!ENTITY certmgr.editemailcert.dotrust        "De echtheid fan dit sertifikaat fertrouwe.">
@@ -63,7 +59,7 @@
 <!ENTITY certmgr.certserver                   "Tsjinner">
 <!ENTITY certmgr.override_lifetime            "Libbensdoer">
 <!ENTITY certmgr.tokenname 					  "Befeiligingsapparaat">
-<!ENTITY certmgr.issued 					  "Utjûn op">
+<!ENTITY certmgr.begins 					  "Start op">
 <!ENTITY certmgr.expires 					  "Ferrint op">
 <!ENTITY certmgr.email 						  "E-mailadres">
 <!ENTITY certmgr.serial 					  "Searjenûmer">

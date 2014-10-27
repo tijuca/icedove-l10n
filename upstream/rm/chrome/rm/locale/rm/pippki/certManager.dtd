@@ -27,7 +27,7 @@
 <!ENTITY certmgr.pending.label                "Il certificat vegn actualmain verifitgà…">
 <!ENTITY certmgr.subjectinfo.label            "Emess per">
 <!ENTITY certmgr.issuerinfo.label             "Emess da">
-<!ENTITY certmgr.validity.label               "Validitad" >
+<!ENTITY certmgr.periodofvalidity.label       "Perioda da validitad" >
 <!ENTITY certmgr.fingerprints.label           "Improntas dal det">
 <!ENTITY certmgr.certdetail.title             "Detagl dal certificat">
 <!ENTITY certmgr.certdetail.cn                "Num general (CN)">
@@ -39,14 +39,10 @@
 
 <!ENTITY certmgr.editcert.title               "Modifitgar las preferenzas dal certificat da segirezza">
 <!ENTITY certmgr.editcacert.title             "Modifitgar las preferenzas da fidanza en certificats CA">
-<!ENTITY certmgr.editsslcert.title            "Modifitgar las preferenzas da fidanza en certificats da websites">
 <!ENTITY certmgr.editcert.edittrust           "Modifitgar las preferenzas da fidanza">
 <!ENTITY certmgr.editcert.trustssl            "Quest certificat po identifitgar websites.">
 <!ENTITY certmgr.editcert.trustemail          "Quest certificat po identifitgar utilisaders dad e-mail.">
 <!ENTITY certmgr.editcert.trustobjsign        "Quest certificat po identifitgar producents da software.">
-<!ENTITY certmgr.editsslcert.edittrust        "Modifitgar las preferenzas da fidanza da certificats:">
-<!ENTITY certmgr.editsslcert.dotrust          "Fidar a l'autenticitad da quest certificat.">
-<!ENTITY certmgr.editsslcert.donttrust        "Betg fidar a l'autenticitad da quest certificat.">
 <!ENTITY certmgr.editemailcert.title          "Modifitgar las preferenzas da fidanza en certificats dad e-mail">
 <!ENTITY certmgr.editemailcert.edittrust      "Modifitgar las preferenzas da fidanza da certificats:">
 <!ENTITY certmgr.editemailcert.dotrust        "Fidar a l'autenticitad da quest certificat.">
@@ -63,7 +59,7 @@
 <!ENTITY certmgr.certserver                   "Server">
 <!ENTITY certmgr.override_lifetime            "Durada da vita">
 <!ENTITY certmgr.tokenname                    "Modul da criptografia">
-<!ENTITY certmgr.issued                       "Emess ils">
+<!ENTITY certmgr.begins                       "Cumenza ils">
 <!ENTITY certmgr.expires                      "Scroda ils">
 <!ENTITY certmgr.email                        "Adressa dad e-mail">
 <!ENTITY certmgr.serial                       "Numer da seria">

@@ -47,8 +47,17 @@
 <!ENTITY updates.checkForUpdates.accesskey    "T">
 <!ENTITY updates.viewUpdates.label            "Mussar las ultimas actualisaziuns">
 <!ENTITY updates.viewUpdates.accesskey        "a">
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
+     is a checkbox that toggles the default global behavior for add-on update
+     checking. -->
 <!ENTITY updates.updateAddonsAutomatically.label     "Actualisar automaticamain ils supplements">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
+     Specific addons can have custom update checking behaviors ("Manually",
+     "Automatically", "Use default global behavior"). These menu items reset the
+     update checking behavior for all add-ons to the default global behavior
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Midar tut ils supplements sin l'actualisaziun automatica">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
 <!ENTITY updates.resetUpdatesToManual.label          "Midar tut ils supplements sin l'actualisaziun manuala">
@@ -82,10 +91,18 @@
 <!ENTITY cmd.enableTheme.accesskey            "M">
 <!ENTITY cmd.disableTheme.label               "Demontar il design">
 <!ENTITY cmd.disableTheme.accesskey           "D">
+<!ENTITY cmd.askToActivate.label              "Dumandar per activar">
+<!ENTITY cmd.askToActivate.tooltip            "Dumandar tar mintga utilisaziun da quest supplement">
+<!ENTITY cmd.alwaysActivate.label             "Adina activar">
+<!ENTITY cmd.alwaysActivate.tooltip           "Adina utilisar quest supplement">
+<!ENTITY cmd.neverActivate.label              "Mai activar">
+<!ENTITY cmd.neverActivate.tooltip            "Mai utilisar quest supplement">
+<!ENTITY cmd.stateMenu.tooltip                "Midar cura che quest supplement vegn exequì">
 <!ENTITY cmd.installAddon.label               "Installar">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Allontanar">
 <!ENTITY cmd.uninstallAddon.accesskey         "A">
+<!ENTITY cmd.debugAddon.label                 "Tschertgar errurs">
 <!ENTITY cmd.showPreferencesWin.label         "Preferenzas">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Midar las preferenzas da quest supplement">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferenzas">
@@ -195,17 +212,20 @@
 
 <!ENTITY addon.createdBy.label                "Da ">
 
-<!ENTITY eula.title                       "Contract da licenza da l'utilisader">
-<!ENTITY eula.width                       "560px">
-<!ENTITY eula.height                      "400px">
-<!ENTITY eula.accept                      "Acceptar ed installar…">
+<!ENTITY eula.title                           "Contract da licenza da l'utilisader">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Acceptar ed installar…">
 
-<!ENTITY settings.path.button.label       "Tschertgar en…">
+<!ENTITY settings.path.button.label           "Tschertgar en…">
 
-<!ENTITY cmd.alwaysActivate.label             "Always Activate">
-<!ENTITY cmd.alwaysActivate.tooltip           "Always use this add-on">
-<!ENTITY cmd.askToActivate.label              "Ask to Activate">
-<!ENTITY cmd.askToActivate.tooltip            "Ask to use this add-on each time">
-<!ENTITY cmd.neverActivate.label              "Never Activate">
-<!ENTITY cmd.neverActivate.tooltip            "Never use this add-on">
-<!ENTITY cmd.stateMenu.tooltip                "Change when this add-on runs">
+<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
+     experiments are present on the "Experiments" tab of the add-ons manager.
+     This tab won't be displayed unless an Experiment add-on is installed.
+     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
+     to cause this tab to appear. -->
+<!ENTITY experiment.info.label "Tge è quai? La funcziun da telemetria po installar ed exequir experiments da temp en temp.">
+<!ENTITY experiment.info.learnmore "Ulteriuras infurmaziuns">
+<!ENTITY experiment.info.learnmore.accesskey "L">
+<!ENTITY experiment.info.changetelemetry "Configuraziun da la funcziun da telemetria">
+<!ENTITY experiment.info.changetelemetry.accesskey "T">

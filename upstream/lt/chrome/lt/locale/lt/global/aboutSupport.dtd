@@ -12,11 +12,29 @@
   <a id='supportLink'>pagalbos svetainėje</a>.
 ">
 
+<!ENTITY aboutSupport.crashes.title "Strigčių pranešimai">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "Pranešimo ID">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like date.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.sendDate "Pranešimo data">
+<!ENTITY aboutSupport.crashes.allReports "Visi strigčių pranešimai">
+<!ENTITY aboutSupport.crashes.noConfig "Ši programa nėra parengta rodyti strigčių pranešimus.">
+
 <!ENTITY aboutSupport.extensionsTitle              "Plėtiniai">
 <!ENTITY aboutSupport.extensionName                "Pavadinimas">
 <!ENTITY aboutSupport.extensionEnabled             "Įjungtas">
 <!ENTITY aboutSupport.extensionVersion             "Laida">
 <!ENTITY aboutSupport.extensionId                  "ID">
+
+<!ENTITY aboutSupport.experimentsTitle "Eksperimentinės funkcijos">
+<!ENTITY aboutSupport.experimentName "Pavadinimas">
+<!ENTITY aboutSupport.experimentId "ID">
+<!ENTITY aboutSupport.experimentDescription "Aprašas">
+<!ENTITY aboutSupport.experimentActive "Aktyvi">
+<!ENTITY aboutSupport.experimentEndDate "Galioja iki">
+<!ENTITY aboutSupport.experimentHomepage "Tinklalapis">
 
 <!ENTITY aboutSupport.appBasicsTitle               "Pagrindinės programos savybės">
 <!ENTITY aboutSupport.appBasicsName                "Pavadinimas">
@@ -36,7 +54,6 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins      "Įjungti priedai">
 <!ENTITY aboutSupport.appBasicsBuildConfig         "Darinio konfigūracija">
 <!ENTITY aboutSupport.appBasicsUserAgent           "Naršyklės identifikacinė eilutė">
-<!ENTITY aboutSupport.appBasicsCrashIDs            "Strigčių pranešimai">
 <!ENTITY aboutSupport.appBasicsMemoryUse           "Atminties naudojimas">
 
 <!ENTITY aboutSupport.showDir.label                "Atverti aplanką">

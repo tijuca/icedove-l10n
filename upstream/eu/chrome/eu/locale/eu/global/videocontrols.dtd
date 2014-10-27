@@ -8,6 +8,7 @@
 <!ENTITY muteButton.unmuteLabel "Ez mututu">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Pantaila osoa">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Irten pantaila osoko modutik">
+<!ENTITY castingButton.castingLabel "Transmititu pantailara">
 
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Tamaina">
@@ -17,8 +18,6 @@
 <!ENTITY stats.activityEnded "Amaituta">
 <!ENTITY stats.activitySeeking "(bilatzen)">
 <!ENTITY stats.volume "Bolumena">
-<!ENTITY stats.channels "Kanalak">
-<!ENTITY stats.sampleRate "Lagin-maiztasuna">
 <!ENTITY stats.framesParsed "Analizatutako fotogramak">
 <!ENTITY stats.framesDecoded "Deskodetutako fotogramak">
 <!ENTITY stats.framesPresented "Aurkeztutako fotogramak">

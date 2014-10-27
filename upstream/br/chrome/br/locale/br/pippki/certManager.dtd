@@ -27,7 +27,7 @@
 <!ENTITY certmgr.pending.label                "O wiriañ an testeni bremañ…">
 <!ENTITY certmgr.subjectinfo.label            "Skignet davit">
 <!ENTITY certmgr.issuerinfo.label             "Skignet gant">
-<!ENTITY certmgr.validity.label               "Talvoudegezh" >
+<!ENTITY certmgr.periodofvalidity.label       "Marevezh talvoudegezh" >
 <!ENTITY certmgr.fingerprints.label           "Roudoù biz">
 <!ENTITY certmgr.certdetail.title             "Munudoù an testeni">
 <!ENTITY certmgr.certdetail.cn                "Anv boutin (AB)">
@@ -39,14 +39,10 @@
 
 <!ENTITY certmgr.editcert.title               "Embann arventennoù an testenioù diogelroez">
 <!ENTITY certmgr.editcacert.title             "Embann arventennoù testenioù a fiziañs an aotrouniezh testeniañ ">
-<!ENTITY certmgr.editsslcert.title            "Embann arventennoù testenioù al lec'hienn :">
 <!ENTITY certmgr.editcert.edittrust           "Embann an arventennoù a fiziañs :">
 <!ENTITY certmgr.editcert.trustssl            "An testeni-mañ a c'hall anaout al lec'hiennoù web.">
 <!ENTITY certmgr.editcert.trustemail          "Barrek eo an testeni-mañ da anaout an arveriaded posteloù.">
 <!ENTITY certmgr.editcert.trustobjsign        "Barrek eo an testeni-mañ da anaout ar savourion veziantoù.">
-<!ENTITY certmgr.editsslcert.edittrust        "Embann arventennoù testeni a fiziañs">
-<!ENTITY certmgr.editsslcert.dotrust          "Bezit gant fiziañs e gwirder an testeni-mañ.">
-<!ENTITY certmgr.editsslcert.donttrust        "Na gaout fiziañs e gwirded eus an testeni-mañ.">
 <!ENTITY certmgr.editemailcert.title          "Embann arventennoù testeni a fiziañs ar posteloù">
 <!ENTITY certmgr.editemailcert.edittrust      "Embann arventennoù testeni a fiziañs">
 <!ENTITY certmgr.editemailcert.dotrust        "Bezit gant fiziañs e gwirder an testeni-mañ.">
@@ -63,8 +59,8 @@
 <!ENTITY certmgr.certserver                   "Dafariad">
 <!ENTITY certmgr.override_lifetime            "Buhez pad">
 <!ENTITY certmgr.tokenname                    "Trobarzhell diogelroez">
-<!ENTITY certmgr.issued                       "Skignet war">
-<!ENTITY certmgr.expires                      "Diamzeret e vo d'ar">
+<!ENTITY certmgr.begins                       "Kregiñ a ra d'an/ar">
+<!ENTITY certmgr.expires                      "Diamzeret e vo d'an/ar">
 <!ENTITY certmgr.email                        "Chomlec'h Postel">
 <!ENTITY certmgr.serial                       "Steudriñv">
 

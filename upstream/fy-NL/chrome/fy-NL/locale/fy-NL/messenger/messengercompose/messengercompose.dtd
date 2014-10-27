@@ -28,6 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Persoanlike fisitekaart (vCard)">
 <!ENTITY attachVCardCmd.accesskey "P">
+<!ENTITY remindLater.label "Letter werinnerje">
+<!ENTITY remindLater.accesskey "L">
 <!ENTITY closeCmd.label "Slute">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "S">
@@ -50,6 +52,8 @@
 <!ENTITY sendLaterCmd.accesskey "s">
 <!ENTITY printSetupCmd.label "Side-ynstellingen…">
 <!ENTITY printSetupCmd.accesskey "S">
+<!ENTITY printPreviewCmd.label "Ofdrukfoarbyld">
+<!ENTITY printPreviewCmd.accesskey "O">
 <!ENTITY printCmd.label "Ofdrukke…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "d">
@@ -84,9 +88,11 @@
 <!ENTITY selectAllCmd.label "Alles selektearje">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY findCmd.label "Sykje en ferfange…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "S">
+<!ENTITY findBarCmd.label "Sykje…">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findBarCmd.accesskey "S">
+<!ENTITY findReplaceCmd.label "Sykje en ferfange…">
+<!ENTITY findReplaceCmd.accesskey "f">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Op 'e nij sykje">
 <!ENTITY findAgainCmd.key "G">
@@ -176,11 +182,11 @@
 <!ENTITY addressBookCmd.label "Adresboek">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Accountynstellingen…">
-<!ENTITY accountManagerCmd.accesskey "c">
-<!ENTITY accountManagerCmdUnix.accesskey "i">
-<!ENTITY preferencesCmd.label "Opsjes…">
-<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY accountManagerCmd2.label "Accountynstellingen">
+<!ENTITY accountManagerCmd2.accesskey "c">
+<!ENTITY accountManagerCmdUnix2.accesskey "i">
+<!ENTITY preferencesCmd2.label "Opsjes">
+<!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Foarkarren">
 <!ENTITY preferencesCmdUnix.accesskey "F">
 
@@ -198,6 +204,7 @@
 <!ENTITY attachButton.label "Bylage">
 <!ENTITY spellingButton.label "Stavering">
 <!ENTITY saveButton.label "Bewarje">
+<!ENTITY printButton.label "Ofdrukke">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Dit berjocht no ferstjoere">
@@ -210,6 +217,7 @@
 <!ENTITY cutButton.tooltip "Knippe">
 <!ENTITY copyButton.tooltip "Kopiearje">
 <!ENTITY pasteButton.tooltip "Plakke">
+<!ENTITY printButton.tooltip "Dit berjocht ôfdrukke">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and

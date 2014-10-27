@@ -28,6 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Vizitku (vCard)">
 <!ENTITY attachVCardCmd.accesskey "V">
+<!ENTITY remindLater.label "Pripomenúť neskôr">
+<!ENTITY remindLater.accesskey "m">
 <!ENTITY closeCmd.label "Zavrieť okno">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "Z">
@@ -50,6 +52,8 @@
 <!ENTITY sendLaterCmd.accesskey "d">
 <!ENTITY printSetupCmd.label "Nastavenie tlače…">
 <!ENTITY printSetupCmd.accesskey "a">
+<!ENTITY printPreviewCmd.label "Ukážka pred tlačou">
+<!ENTITY printPreviewCmd.accesskey "e">
 <!ENTITY printCmd.label "Tlačiť…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "T">
@@ -84,9 +88,11 @@
 <!ENTITY selectAllCmd.label "Vybrať všetko">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY findCmd.label "Hľadať a nahradiť…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "H">
+<!ENTITY findBarCmd.label "Hľadať…">
+<!ENTITY findBarCmd.accesskey "H">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Hľadať a nahradiť…">
+<!ENTITY findReplaceCmd.accesskey "d">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Hľadať ďalej">
 <!ENTITY findAgainCmd.key "G">
@@ -176,11 +182,11 @@
 <!ENTITY addressBookCmd.label "Adresár">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Nastavenie účtov…">
-<!ENTITY accountManagerCmd.accesskey "N">
-<!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "Možnosti…">
-<!ENTITY preferencesCmd.accesskey "M">
+<!ENTITY accountManagerCmd2.label "Nastavenie účtov">
+<!ENTITY accountManagerCmd2.accesskey "N">
+<!ENTITY accountManagerCmdUnix2.accesskey "S">
+<!ENTITY preferencesCmd2.label "Možnosti">
+<!ENTITY preferencesCmd2.accesskey "M">
 <!ENTITY preferencesCmdUnix.label "Možnosti">
 <!ENTITY preferencesCmdUnix.accesskey "M">
 
@@ -198,6 +204,7 @@
 <!ENTITY attachButton.label "Priložiť">
 <!ENTITY spellingButton.label "Pravopis">
 <!ENTITY saveButton.label "Uložiť">
+<!ENTITY printButton.label "Tlačiť">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Odoslať správu">
@@ -210,6 +217,7 @@
 <!ENTITY cutButton.tooltip "Vystrihnúť">
 <!ENTITY copyButton.tooltip "Kopírovať">
 <!ENTITY pasteButton.tooltip "Prilepiť">
+<!ENTITY printButton.tooltip "Vytlačiť túto správu">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and

@@ -22,3 +22,18 @@ sentence. -->
 
 <!ENTITY sendTyping.label "Abair le daoine nuair a bhím ag clóscríobh">
 <!ENTITY sendTyping.accesskey "d">
+
+<!ENTITY chatNotifications.label "When messages directed at you arrive:">
+<!ENTITY desktopChatNotifications.label "Taispeáin fógra">
+<!ENTITY desktopChatNotifications.accesskey "g">
+<!ENTITY chatSound.accesskey "m">
+<!ENTITY chatSound.label "Seinn fuaim">
+<!ENTITY play.label "Seinn">
+<!ENTITY play.accesskey "S">
+<!ENTITY systemSound.label "Fuaim réamhshocraithe ar an gcóras le haghaidh ríomhphoist nua">
+<!ENTITY systemSound.accesskey "r">
+<!ENTITY customsound.label "Úsáid an comhad fuaime seo">
+<!ENTITY customsound.accesskey "u">
+<!ENTITY browse.label "Brabhsáil…">
+<!ENTITY browse.accesskey "B">
+

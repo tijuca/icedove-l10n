@@ -8,6 +8,7 @@
 <!ENTITY muteButton.unmuteLabel   "Summutus maha">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Täisekraanirežiim">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Välju täisekraanirežiimist">
+<!ENTITY castingButton.castingLabel "Edasta ekraanile">
 
 <!ENTITY stats.media              "Meedia">
 <!ENTITY stats.size               "Suurus">
@@ -17,8 +18,6 @@
 <!ENTITY stats.activityEnded      "Lõppenud">
 <!ENTITY stats.activitySeeking    "(otsimine)">
 <!ENTITY stats.volume             "Helitugevus">
-<!ENTITY stats.channels           "Kanalid">
-<!ENTITY stats.sampleRate         "Diskreetimissagedus">
 <!ENTITY stats.framesParsed       "Parsitud kaadreid">
 <!ENTITY stats.framesDecoded      "Dekodeeritud kaadreid">
 <!ENTITY stats.framesPresented    "Esitatavaid kaadreid">

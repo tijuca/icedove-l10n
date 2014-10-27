@@ -16,10 +16,11 @@
 <!ENTITY pasteAsQuotationCmd.label "Enganxa com a citació">
 <!ENTITY pasteAsQuotationCmd.accesskey "g">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Cerca i reemplaça…">
-<!ENTITY enableInlineSpellChecker.label "Revisa l'ortografia mentre s'escriu">
+<!ENTITY findBarCmd.label "Cerca…">
+<!ENTITY findReplaceCmd.label "Cerca i reemplaça…">
+<!ENTITY enableInlineSpellChecker.label "Revisa l'ortografia a mesura que s'escriu">
 <!ENTITY enableInlineSpellChecker.accesskey "s">
-<!ENTITY checkSpellingCmd2.label "Revisa l'ortografia…">
+<!ENTITY checkSpellingCmd2.label "Verifica l'ortografia…">
 <!ENTITY checkSpellingCmd2.accesskey "o">
 <!ENTITY checkSpellingCmd2.key "p">
 <!-- Insert menu items -->
@@ -29,7 +30,7 @@
 <!ENTITY insertLinkCmd.label "Enllaç…">
 <!ENTITY insertLinkCmd.accesskey "l">
 <!ENTITY insertLinkCmd.key "L">
-<!ENTITY insertAnchorCmd.label "Àncora anomenada…">
+<!ENTITY insertAnchorCmd.label "Àncora amb nom…">
 <!ENTITY insertAnchorCmd.accesskey "a">
 <!ENTITY insertImageCmd.label "Imatge…">
 <!ENTITY insertImageCmd.accesskey "I">
@@ -39,6 +40,8 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "Expressió matemàtica…">
+<!ENTITY insertMathCmd.accesskey "m">
 <!ENTITY insertCharsCmd.label "Caràcters i símbols…">
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "Salt sota les imatges">
@@ -81,9 +84,9 @@
 
 <!ENTITY fontSizeMenu.label "Mida">
 <!ENTITY fontSizeMenu.accesskey "M">
-<!ENTITY size-xx-smallCmd.label "xx-petit">
+<!ENTITY size-xx-smallCmd.label "extrapetit">
 <!ENTITY size-xx-smallCmd.accesskey "t">
-<!ENTITY size-x-smallCmd.label "x-petit">
+<!ENTITY size-x-smallCmd.label "molt petit">
 <!ENTITY size-x-smallCmd.accesskey "e">
 <!ENTITY size-smallCmd.label "petit">
 <!ENTITY size-smallCmd.accesskey "p">
@@ -91,9 +94,9 @@
 <!ENTITY size-mediumCmd.accesskey "i">
 <!ENTITY size-largeCmd.label "gran">
 <!ENTITY size-largeCmd.accesskey "g">
-<!ENTITY size-x-largeCmd.label "x-gran">
+<!ENTITY size-x-largeCmd.label "molt gran">
 <!ENTITY size-x-largeCmd.accesskey "r">
-<!ENTITY size-xx-largeCmd.label "xx-gran">
+<!ENTITY size-xx-largeCmd.label "extragran">
 <!ENTITY size-xx-largeCmd.accesskey "a">
 <!-- Font Style SubMenu -->
 
@@ -140,7 +143,7 @@
 
 <!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">
-<!ENTITY formatRemoveNamedAnchors.label "Suprimeix les àncores anomenades">
+<!ENTITY formatRemoveNamedAnchors.label "Suprimeix les àncores amb nom">
 <!ENTITY formatRemoveNamedAnchors.accesskey "m">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
 
@@ -284,7 +287,7 @@
 <!ENTITY tableProperties.accesskey "o">
 <!-- Toolbar-only items -->
 
-<!ENTITY menuBar.tooltip "Barra de menús">
+<!ENTITY menuBar.tooltip "Barra de menú">
 <!ENTITY formatToolbar.tooltip "S'està formatant la barra d'eines">
 <!ENTITY cutToolbarCmd.tooltip "Retalla">
 <!ENTITY copyToolbarCmd.tooltip "Copia">
@@ -294,20 +297,20 @@
 <!ENTITY findToolbarCmd.label "Cerca">
 <!ENTITY findToolbarCmd.tooltip "Cerca text a la pàgina">
 <!ENTITY spellToolbarCmd.label "Ortografia">
-<!ENTITY spellToolbarCmd.tooltip "Revisa l'ortografia de la selecció o de tota la pàgina">
+<!ENTITY spellToolbarCmd.tooltip "Verifica l'ortografia de la selecció o de tota la pàgina">
 <!ENTITY imageToolbarCmd.label "Imatge">
-<!ENTITY imageToolbarCmd.tooltip "Insereix una nova imatge o edita les propietats de la imatge seleccionada">
+<!ENTITY imageToolbarCmd.tooltip "Insereix una imatge nova o edita les propietats de la imatge seleccionada">
 <!ENTITY hruleToolbarCmd.label "Línia horitzontal">
 <!ENTITY hruleToolbarCmd.tooltip "Insereix una línia horitzontal o edita les propietats de la línia seleccionada">
 <!ENTITY tableToolbarCmd.label "Taula">
-<!ENTITY tableToolbarCmd.tooltip "Insereix una nova taula o edita les propietats de la taula seleccionada">
+<!ENTITY tableToolbarCmd.tooltip "Insereix una taula nova o edita les propietats de la taula seleccionada">
 <!ENTITY linkToolbarCmd.label "Enllaç">
-<!ENTITY linkToolbarCmd.tooltip "Insereix un nou enllaç o edita les propietats de l'enllaç seleccionat">
+<!ENTITY linkToolbarCmd.tooltip "Insereix un enllaç nou o edita les propietats de l'enllaç seleccionat">
 <!ENTITY anchorToolbarCmd.label "Àncora">
-<!ENTITY anchorToolbarCmd.tooltip "Insereix un nou objectiu anomenat o edita les propietats de l'objectiu seleccionat">
+<!ENTITY anchorToolbarCmd.tooltip "Insereix una àncora amb nom nova o edita les propietats de l'àncora seleccionada">
 <!ENTITY TextColorButton.tooltip "Trieu un color per al text">
 <!ENTITY BackgroundColorButton.tooltip "Trieu un color per al fons">
-<!ENTITY throbber.tooltip "Vés a la pàgina del &vendorShortName;">
+<!ENTITY throbber.tooltip "Vés a la pàgina inicial de &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Trieu el color del ressaltat del text">
 <!-- Editor toolbar -->
 
@@ -321,7 +324,7 @@
 <!ENTITY outdentToolbarCmd.tooltip "Treu el sagnat del text (mou a l'esquerra)">
 <!ENTITY indentToolbarCmd.tooltip "Sagna el text (mou a la dreta)">
 <!ENTITY AlignPopupButton.tooltip "Trieu l'alineació del text">
-<!ENTITY InsertPopupButton.tooltip "Insereix un enllaç, objectiu, imatge, línia horitzontal o taula">
+<!ENTITY InsertPopupButton.tooltip "Insereix un enllaç, àncora, imatge, línia horitzontal o taula">
 <!ENTITY alignLeftButton.tooltip "Alinea el text al marge esquerra">
 <!ENTITY alignCenterButton.tooltip "Centra el text">
 <!ENTITY alignRightButton.tooltip "Alinea el text al marge dret">

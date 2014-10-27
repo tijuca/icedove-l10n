@@ -14,6 +14,11 @@
 <!ENTITY feedFolder.accesskey "G">
 <!ENTITY quickMode.label "Sýna yfirlit greinar í staðinn fyrir að hlaða inn vefsíðu">
 <!ENTITY quickMode.accesskey "h">
+<!ENTITY autotagEnable.label "Búa sjálkrafa til tög frá &lt;flokka&gt; nöfnum straums">
+<!ENTITY autotagEnable.accesskey "B">
+<!ENTITY autotagUsePrefix.label "Setja forskeyti á tög:">
+<!ENTITY autotagUsePrefix.accesskey "S">
+<!ENTITY autoTagPrefix.placeholder "Sláðu inn forskeyti fyrir tög">
 <!ENTITY locationValidate.label "Sannreyna">
 <!ENTITY validateText.label "Athuga sannprófun og ná í rétt veffang.">
 <!ENTITY button.addFeed.label "Bæta við">
@@ -28,3 +33,4 @@
 <!ENTITY button.exportOPML.accesskey "t">
 <!ENTITY button.exportOPML.tooltip "Flytja út strauma með möppulista; ctrl smelltu eða ctrl enter til að flytja út strauma sem lista">
 <!ENTITY cmd.close.commandKey "w">
+<!ENTITY button.close.label "Loka">
