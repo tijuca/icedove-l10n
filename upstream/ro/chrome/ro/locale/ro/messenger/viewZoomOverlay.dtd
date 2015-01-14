@@ -22,14 +22,15 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoomEnlargeCmd.label       "Mărește mărimea textului">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "m">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "m">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.accesskey   "r">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+ <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Micșorează mărimea textului">
-<!ENTITY fullZoomReduceCmd.accesskey    "c">
-<!ENTITY fullZoomReduceCmd.commandkey   "c">
+<!ENTITY fullZoomReduceCmd.accesskey    "o">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Normal">
