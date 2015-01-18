@@ -1,3 +1,15 @@
+icedove-l10n (1:31.4.0-1) unstable; urgency=medium
+
+  * [ba9e08f] debian/control: fix recommends for icedove-l10n-sr
+    (Closes: #767635)
+  * [f36a6c4] debian/c-u-t: adding new helper script
+  * [f5e62c4] Imported Upstream version 31.4.0
+  * [e854a2b] gbp.conf: we want numbered patches
+  * [2d5a8a3] rebuild patch queue from patch-queue branch
+  * [4857382] adjust icedove depends to >= 31.4.0 and << 32
+
+ -- Carsten Schoenert <c.schoenert@t-online.de>  Sun, 18 Jan 2015 10:17:24 +0100
+
 icedove-l10n (1:31.2.0-1) unstable; urgency=low
 
   [ Christoph Goehre ]
