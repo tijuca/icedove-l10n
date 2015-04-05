@@ -1,7 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  fontsAndEncodingsDialog.title           "Schriftarten und Zeichenkodierungen">
-<!ENTITY  window.width                            "43em">
-<!ENTITY  window.macWidth                         "47em">
-<!ENTITY  window.unixWidth                        "45em">
 
 <!ENTITY  language.label                          "Schriftarten für">
 <!ENTITY  language.accesskey                      "S">
@@ -74,3 +75,15 @@
 <!ENTITY viewDefaultCharsetList.accesskey "I">
 <!ENTITY replyInDefaultCharset2.label     "Wenn möglich, Standard-Zeichenkodierung für Antworten verwenden">
 <!ENTITY replyInDefaultCharset2.accesskey "W">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "Latin">
+<!ENTITY  font.langGroup.oriya                    "Oriya">
+<!ENTITY  font.langGroup.other                    "Other Writing Systems">
+<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.tibetan                  "Tibetan">
+<!ENTITY  sizeMonospace.accesskey                 "i">
+<!ENTITY  sizeProportional.accesskey              "e">

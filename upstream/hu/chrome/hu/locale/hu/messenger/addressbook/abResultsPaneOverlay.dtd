@@ -34,3 +34,8 @@
 <!ENTITY sortAscending.accesskey               "N">
 <!ENTITY sortDescending.label                  "Csökkenő sorrendben">
 <!ENTITY sortDescending.accesskey              "C">
+
+<!ENTITY Addrbook.accesskey                    "B">
+
+
+<!ENTITY Addrbook.label                        "Address Book">

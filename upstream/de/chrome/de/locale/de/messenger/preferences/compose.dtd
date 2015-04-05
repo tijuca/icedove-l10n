@@ -55,3 +55,6 @@
 <!ENTITY attachmentReminder.accesskey          "u">
 <!ENTITY attachmentReminderOptions.label       "Schlüsselwörter…">
 <!ENTITY attachmentReminderOptions.accesskey   "S">
+
+
+<!ENTITY dialogCompose.title                 "Composing">

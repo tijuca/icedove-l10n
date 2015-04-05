@@ -71,3 +71,8 @@
 
 <!ENTITY accountTitle.label		"계정 설정">
 <!ENTITY accountSettingsDesc.label	"이는 특수한 계정으로 특정 정보가 없습니다.">
+
+<!ENTITY maildirStore.label "File per message (maildir)">
+<!ENTITY mboxStore.label "One large file (mbox)">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY storeType.label "Message Store Type:">

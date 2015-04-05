@@ -108,3 +108,5 @@
 <!ENTITY exceptionMgr.certstatus.accesskey    "M">
 <!ENTITY exceptionMgr.permanent.label         "Kivétel megőrzése">
 <!ENTITY exceptionMgr.permanent.accesskey     "K">
+
+<!ENTITY certmgr.hierarchy.accesskey2         "H">

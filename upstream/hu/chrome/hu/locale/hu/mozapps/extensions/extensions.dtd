@@ -225,3 +225,7 @@
 <!ENTITY experiment.info.learnmore.accesskey "T">
 <!ENTITY experiment.info.changetelemetry "Telemetria beállításai">
 <!ENTITY experiment.info.changetelemetry.accesskey "b">
+
+<!ENTITY search.buttonlabel                   "Search">
+
+<!ENTITY setting.learnmore "Learn More…">

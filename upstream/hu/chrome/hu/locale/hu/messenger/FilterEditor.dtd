@@ -23,6 +23,8 @@
 <!ENTITY contextManual.accesskey "K">
 <!ENTITY contextBeforeCls.label "Szűrés a levélszemét keresése előtt">
 <!ENTITY contextAfterCls.label "Szűrés a levélszemét keresése után">
+<!ENTITY contextOutgoing.label "Küldés után">
+<!ENTITY contextOutgoing.accesskey "d">
 
 <!ENTITY filterActionDesc.label "Műveletek végrehajtása:">
 <!ENTITY filterActionDesc.accesskey "v">
@@ -59,3 +61,6 @@
 
 <!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">
+
+<!ENTITY contextArchive.accesskey "A">
+<!ENTITY contextArchive.label "Archiving">
