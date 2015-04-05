@@ -80,3 +80,8 @@
 
 <!ENTITY accountTitle.label "Konto-Einstellungen">
 <!ENTITY accountSettingsDesc.label "Dies ist ein besonderes Konto, da keine Identitäten mit ihm verknüpft sind.">
+
+<!ENTITY maildirStore.label "File per message (maildir)">
+<!ENTITY mboxStore.label "One large file (mbox)">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY storeType.label "Message Store Type:">

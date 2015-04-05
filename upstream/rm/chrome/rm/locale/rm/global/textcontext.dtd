@@ -24,3 +24,6 @@
 <!ENTITY spellNoSuggestions.label "(Naginas propostas per correcturas)">
 <!ENTITY spellDictionaries.label "Linguas">
 <!ENTITY spellDictionaries.accesskey "s">
+
+
+<!ENTITY searchTextBox.clear.label "Clear">

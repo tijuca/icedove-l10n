@@ -52,3 +52,5 @@
 <!ENTITY attachmentReminder.accesskey "f">
 <!ENTITY attachmentReminderOptions.label "Palavras-chave…">
 <!ENTITY attachmentReminderOptions.accesskey "h">
+
+<!ENTITY dialogCompose.title                 "Composing">

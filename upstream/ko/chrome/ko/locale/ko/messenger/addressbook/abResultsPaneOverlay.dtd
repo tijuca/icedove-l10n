@@ -33,3 +33,8 @@
 <!ENTITY sortDescending.accesskey              "D">
 <!ENTITY ChatName.label                        "이름">
 <!ENTITY ChatName.accesskey                    "C">
+
+<!ENTITY Addrbook.accesskey                    "B">
+
+
+<!ENTITY Addrbook.label                        "Address Book">

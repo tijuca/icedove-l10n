@@ -228,3 +228,7 @@ einige der besten und populärsten Add-ons zum Ausprobieren anbieten.">
 <!ENTITY experiment.info.learnmore.accesskey "W">
 <!ENTITY experiment.info.changetelemetry "Telemetrie-Einstellungen">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
+
+<!ENTITY search.buttonlabel                   "Search">
+
+<!ENTITY setting.learnmore "Learn More…">

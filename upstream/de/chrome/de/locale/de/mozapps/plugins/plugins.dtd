@@ -39,3 +39,5 @@
 
 <!ENTITY plugin.file                                         "Datei">
 <!ENTITY plugin.mimeTypes                                    "MIME-Typen">
+
+<!ENTITY plugin.flashProtectedMode.label                     "Enable Adobe Flash protected mode">

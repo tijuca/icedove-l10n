@@ -58,3 +58,5 @@
 
 <!ENTITY plugin.file                                         "Datoteca">
 <!ENTITY plugin.mimeTypes                                    "Tips da MIME">
+
+<!ENTITY plugin.flashProtectedMode.label                     "Enable Adobe Flash protected mode">

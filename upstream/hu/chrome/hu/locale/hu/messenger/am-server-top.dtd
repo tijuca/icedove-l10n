@@ -84,3 +84,8 @@
 
 <!ENTITY accountTitle.label "Postafiók beállításai">
 <!ENTITY accountSettingsDesc.label "A következő egy különleges postafiók, amelyhez nem tartoznak személyazonosságok.">
+
+<!ENTITY maildirStore.label "File per message (maildir)">
+<!ENTITY mboxStore.label "One large file (mbox)">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY storeType.label "Message Store Type:">

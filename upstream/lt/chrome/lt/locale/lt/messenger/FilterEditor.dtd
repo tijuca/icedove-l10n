@@ -23,6 +23,10 @@
 <!ENTITY contextManual.accesskey "n">
 <!ENTITY contextBeforeCls.label "prieš atrenkant brukalą">
 <!ENTITY contextAfterCls.label "atrinkus brukalą">
+<!ENTITY contextOutgoing.label "Išsiuntus">
+<!ENTITY contextOutgoing.accesskey "s">
+
+
 
 <!ENTITY filterActionDesc.label "atlikti šiuos veiksmus:">
 <!ENTITY filterActionDesc.accesskey "v">
@@ -59,3 +63,6 @@
 
 <!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">
+
+<!ENTITY contextArchive.accesskey "A">
+<!ENTITY contextArchive.label "Archiving">
