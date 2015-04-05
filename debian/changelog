@@ -1,3 +1,13 @@
+icedove-l10n (1:38.0~b1-1) experimental; urgency=low
+
+  [ Carsten Schoenert ]
+  * [83c9a84] debian/gbp.conf: correct upstream-branch assignment
+  * [5b7af83] Imported Upstream version 38.0~b1
+  * [da0c125] rebuild patch queue from patch-queue branch
+  * [66335e6] adjust icedove depends >= 38.0~ and icedove << 39
+
+ -- Carsten Schoenert <c.schoenert@t-online.de>  Sun, 05 Apr 2015 20:26:13 +0200
+
 icedove-l10n (1:36.0~b1-1) experimental; urgency=low
 
   [ Carsten Schoenert ]
