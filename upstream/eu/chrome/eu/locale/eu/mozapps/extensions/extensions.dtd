@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "Gehigarrien kudeatzailea">
 
 <!ENTITY search.placeholder                   "Bilatu gehigarri guztiak">
+<!ENTITY search.buttonlabel                   "Bilaketa">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -229,6 +230,4 @@ gehigarri on eta ezagunenetako batzuk agertuko dira proba ditzazun.">
 <!ENTITY experiment.info.changetelemetry "Telemetry ezarpenak">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
-<!ENTITY search.buttonlabel                   "Search">
-
-<!ENTITY setting.learnmore "Learn More…">
+<!ENTITY setting.learnmore "Argibide gehiago…">

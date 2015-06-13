@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "W">
 <!ENTITY showFolderPaneCmd.label "Wobłuk rjadowakow">
 <!ENTITY showFolderPaneCmd.accesskey "b">
+<!ENTITY showFolderPaneColsCmd.label "Špałty wobłuka rjadowakow">
+<!ENTITY showFolderPaneColsCmd.accesskey "r">
 <!ENTITY showMessageCmd.label "Wobłuk powěsćow">
 <!ENTITY showMessageCmd.accesskey "b">
 
@@ -593,7 +595,9 @@
 <!ENTITY manageTags.accesskey "Z">
 <!-- Folder Pane -->
 
-<!ENTITY folderColumn.label "Mjeno">
+<!ENTITY folderNameColumn.label "Mjeno">
+<!ENTITY folderUnreadColumn.label "Njepřečitany">
+<!ENTITY folderTotalColumn.label "Dohromady">
 <!ENTITY folderSizeColumn.label "Wulkosć">
 <!-- Folder Pane Context Menu -->
 
@@ -903,11 +907,3 @@
 <!-- Mac OS X Dock Icon pop-up menu -->
 
 <!ENTITY dockOptions.label              "Nastajenja nałoženskich symbolow…">
-
-
-<!-- Folder Pane -->
-<!ENTITY folderNameColumn.label "Name">
-<!ENTITY folderTotalColumn.label "Total">
-<!ENTITY folderUnreadColumn.label "Unread">
-<!ENTITY showFolderPaneColsCmd.accesskey "P">
-<!ENTITY showFolderPaneColsCmd.label "Folder Pane Columns">
