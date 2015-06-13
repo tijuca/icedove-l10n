@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "S">
 <!ENTITY showFolderPaneCmd.label "Leòsan nam pasgan">
 <!ENTITY showFolderPaneCmd.accesskey "m">
+<!ENTITY showFolderPaneColsCmd.label "Colbhan leòsan nam pasgan">
+<!ENTITY showFolderPaneColsCmd.accesskey "p">
 <!ENTITY showMessageCmd.label "Leòsan na teachdaireachd">
 <!ENTITY showMessageCmd.accesskey "L">
 
@@ -567,7 +569,7 @@
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
 <!ENTITY editRemoteContentSettings.label "Deasaich roghainnean na susbaint chèin...">
 <!ENTITY editRemoteContentSettings.accesskey "e">
-<!ENTITY editRemoteContentSettingsUnix.label "Deasaich roghainnean na susbaint chèin... ">
+<!ENTITY editRemoteContentSettingsUnix.label "Deasaich roghainnean na susbaint chèin...">
 <!ENTITY editRemoteContentSettingsUnix.accesskey "e">
 <!-- Phishing Button Popup -->
 
@@ -593,7 +595,9 @@
 <!ENTITY manageTags.accesskey "S">
 <!-- Folder Pane -->
 
-<!ENTITY folderColumn.label "Ainm">
+<!ENTITY folderNameColumn.label "Ainm">
+<!ENTITY folderUnreadColumn.label "Gun leughadh">
+<!ENTITY folderTotalColumn.label "Gu h-iomlan">
 <!ENTITY folderSizeColumn.label "Meud">
 <!-- Folder Pane Context Menu -->
 

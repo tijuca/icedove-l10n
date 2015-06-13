@@ -66,7 +66,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>O sítio respondeu ao pedido de rede de uma forma inesperada e o navegador não pode continuar.</p>">
 
 <!ENTITY nssFailure2.title "Ligação Segura Falhada">
-<!ENTITY nssFailure2.longDesc "<p>A página que está a tentar ver não pode ser mostrada porque não foi possível verificar a autenticidade da informação recebida.</p><ul><li>Por favor contacte os donos do sítio web para os informar deste problema.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>A página que está a tentar ver não pode ser mostrada porque não foi possível verificar a autenticidade da informação recebida.</p><ul><li>Por favor contacte os donos do sítio web para os informar deste problema.</li></ul>">
 
 <!ENTITY nssBadCert.title "Ligação Segura Falhada">
 <!ENTITY nssBadCert.longDesc2 "<ul>
@@ -87,8 +87,8 @@
 <p>Este tipo de falsificações web são usadas em esquemas conhecidos como ataques de engodo, em que páginas web fraudulentas e mensagens de correio electrónico são utilizadas para imitar fontes em que confia.</p>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Bloqueado pela política de segurança de conteúdo">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>O navegador preveniu esta página de carregar desta maneira porque a página tem uma política de segurança de conteúdos que a desactiva.</p>">
+<!ENTITY cspBlocked.title "Bloqueado pela política de segurança de conteúdo">
+<!ENTITY cspBlocked.longDesc "<p>O navegador preveniu esta página de carregar desta maneira porque a página tem uma política de segurança de conteúdos que a desactiva.</p>">
 
 <!ENTITY corruptedContentError.title "Erro de conteúdo corrompido">
 <!ENTITY corruptedContentError.longDesc "<p>A página que está a tentar visualizar não pode ser apresentada porque foi detectado um erro na transmissão de dados.</p><ul><li>Por favor, contacte o dono do sítio web para o informar sobre este problema.</li></ul>">

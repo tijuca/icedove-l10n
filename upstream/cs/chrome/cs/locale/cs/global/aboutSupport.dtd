@@ -11,7 +11,7 @@ vyřešit nějaký složitější problém s aplikací. Odpovědi na často klad
 aplikace &brandShortName; naleznete na <a id='supportLink'>webových stránkách podpory</a>.
 ">
 
-<!ENTITY aboutSupport.crashes.title "Hlášení o pádech">
+<!ENTITY aboutSupport.crashes.title "Hlášení pádů">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "ID hlášení">
@@ -38,9 +38,11 @@ This is likely the same like date.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "Stručně o aplikaci">
 <!ENTITY aboutSupport.appBasicsName "Název">
 <!ENTITY aboutSupport.appBasicsVersion "Verze">
+<!ENTITY aboutSupport.appBasicsBuildID "Id buildu">
 
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Kanál aktualizací">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Historie aktualizací">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Zobrazit historii aktualizací">
 
@@ -54,6 +56,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsBuildConfig "Nastavení sestavení">
 <!ENTITY aboutSupport.appBasicsUserAgent "Identifikace prohlížeče">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Spotřeba paměti">
+
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprocesová okna">
 
 <!ENTITY aboutSupport.showDir.label "Otevřít adresář">
 
@@ -73,6 +77,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.userJSTitle "Předvolby user.js">
 <!ENTITY aboutSupport.userJSDescription "Složka s profilem obsahuje <a id='prefs-user-js-link'>soubor user.js</a>, který obsahuje předvolby, jež nebyly vytvořeny aplikací &brandShortName;.">
 
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Důležité uzamčené předvolby">
+<!ENTITY aboutSupport.lockedPrefsName "Název">
+<!ENTITY aboutSupport.lockedPrefsValue "Hodnota">
+
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
@@ -89,3 +97,8 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Zkopírovat text do schránky">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Zkopírovat data do schránky">
+
+<!ENTITY aboutSupport.sandboxTitle "Sandbox">
+
+<!ENTITY aboutSupport.safeModeTitle "Vyzkoušet nouzový režim">
+<!ENTITY aboutSupport.restartInSafeMode.label "Restartovat se zakázanými doplňky…">

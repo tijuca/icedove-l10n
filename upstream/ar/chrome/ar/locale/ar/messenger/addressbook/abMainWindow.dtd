@@ -3,8 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "دفتر العناوين">
+<!ENTITY blankResultsPaneMessage.label                  "لا يعرض دفتر العناوين هذا المتراسلين إلا بعد البحث">
+<!ENTITY localResultsOnlyMessage.label                  "المتراسلين من دفاتر العناوين البعيدة لا تظهر إلا بعد البحث">
 <!-- File Menu -->
-
 <!ENTITY fileMenu.label                                 "ملف">
 <!ENTITY fileMenu.accesskey                             "م">
 <!ENTITY newMenu.label                                  "جديد">
@@ -74,8 +75,8 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                            "الخصائص…">
-<!ENTITY propertiesCmd.accesskey                        "خ">
+<!ENTITY propertiesCmd2.label                           "الخصائص">
+<!ENTITY propertiesCmd2.accesskey                       "خ">
 <!ENTITY propertiesCmd.key                              "i">
 <!-- View Menu -->
 
@@ -122,8 +123,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "س">
 <!ENTITY exportCmd.label                                "صدِّر…">
 <!ENTITY exportCmd.accesskey                            "ص">
-<!ENTITY preferencesCmd.label                           "الخيارات…">
-<!ENTITY preferencesCmd.accesskey                       "خ">
+<!ENTITY preferencesCmd2.label                          "الخيارات">
+<!ENTITY preferencesCmd2.accesskey                      "خ">
 <!ENTITY preferencesCmdUnix.label                       "التفضيلات">
 <!ENTITY preferencesCmdUnix.accesskey                   "ف">
 <!-- Address Book Toolbar and Context Menus -->  
@@ -160,6 +161,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "بحث سريع">
 <!-- Results Pane -->
 
+<!ENTITY Addrbook.label                                 "دفتر العناوين">
+<!ENTITY Addrbook.accesskey                             "د">
 <!ENTITY GeneratedName.label                            "الاسم">
 <!ENTITY GeneratedName.accesskey                        "س">
 <!ENTITY PrimaryEmail.label                             "البريد">
@@ -217,8 +220,3 @@ because displayed names don't have the comma in between. -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "اجلب الكل للمقدمة">
 <!ENTITY zoomWindow.label "قرّب">
-
-<!ENTITY preferencesCmd2.accesskey                      "O">
-<!ENTITY preferencesCmd2.label                          "Options">
-<!ENTITY propertiesCmd2.accesskey                       "i">
-<!ENTITY propertiesCmd2.label                           "Properties">

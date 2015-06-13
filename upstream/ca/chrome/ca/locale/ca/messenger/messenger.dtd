@@ -11,7 +11,7 @@
 <!ENTITY closeTabCmd2.label "Tanca la pestanya">
 <!ENTITY closeTabCmd2.accesskey "T">
 <!ENTITY closeOtherTabsCmd2.label "Tanca les altres pestanyes">
-<!ENTITY closeOtherTabsCmd2.accesskey "a">
+<!ENTITY closeOtherTabsCmd2.accesskey "l">
 <!ENTITY recentlyClosedTabsCmd.label "Pestanyes tancades recentment">
 <!ENTITY recentlyClosedTabsCmd.accesskey "r">
 
@@ -903,3 +903,11 @@
 <!-- Mac OS X Dock Icon pop-up menu -->
 
 <!ENTITY dockOptions.label              "Opcions de la icona de l'aplicació…">
+
+
+<!-- Folder Pane -->
+<!ENTITY folderNameColumn.label "Name">
+<!ENTITY folderTotalColumn.label "Total">
+<!ENTITY folderUnreadColumn.label "Unread">
+<!ENTITY showFolderPaneColsCmd.accesskey "P">
+<!ENTITY showFolderPaneColsCmd.label "Folder Pane Columns">

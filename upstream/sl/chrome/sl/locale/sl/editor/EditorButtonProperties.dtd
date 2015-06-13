@@ -16,10 +16,10 @@
 <!ENTITY ButtonName.accesskey "I">
 <!ENTITY ButtonValue.label "Vrednost:">
 <!ENTITY ButtonValue.accesskey "V">
-<!ENTITY tabIndex.label "Indeks oznake:">
-<!ENTITY tabIndex.accesskey "N">
+<!ENTITY tabIndex.label "Kazalo oznake:">
+<!ENTITY tabIndex.accesskey "K">
 <!ENTITY ButtonDisabled.label "Onemogočeno">
-<!ENTITY ButtonDisabled.accesskey "M">
+<!ENTITY ButtonDisabled.accesskey "m">
 <!ENTITY AccessKey.label "Ključ za dostop:">
 <!ENTITY AccessKey.accesskey "K">
 

@@ -6,13 +6,13 @@
 <!ENTITY  startupAction.accesskey     "s">
 <!ENTITY  startupOffline.label        "保持我的聊天帐号离线">
 <!ENTITY  startupConnectAuto.label    "自动连接我的聊天帐号">
-
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
+
 <!ENTITY  reportIdleAfter.label         "当我不活动超过">
 <!ENTITY  reportIdleAfter.accesskey     "I">
 <!ENTITY  idleTime                      "分钟时，让我的联系人获知">
@@ -26,6 +26,9 @@ sentence. -->
 <!ENTITY  chatNotifications.label             "当有直接发送给您的消息时：">
 <!ENTITY  desktopChatNotifications.label      "显示通知">
 <!ENTITY  desktopChatNotifications.accesskey  "c">
+<!ENTITY  completeNotification.label          "带有发送者的名称和消息预览">
+<!ENTITY  buddyInfoOnly.label                 "仅带有发送者的名称">
+<!ENTITY  dummyNotification.label             "不带有任何信息">
 <!ENTITY  chatSound.accesskey                 "d">
 <!ENTITY  chatSound.label                     "播放声音">
 <!ENTITY  play.label                          "播放">

@@ -6,22 +6,19 @@
 <!ENTITY window.width                     "30em">
 
 <!ENTITY alertCustomization.intro         "Uyarı bildiriminde hangi alanların gösterileceğini seçin:">
-<!ENTITY previewText.label                "İleti ön izleme metni">
+<!ENTITY previewText.label                "İleti Önizleme Metni">
 <!ENTITY previewText.accesskey            "İ">
 <!ENTITY subject.label                    "Konu">
 <!ENTITY subject.accesskey                "K">
 <!ENTITY sender.label                     "Gönderen">
 <!ENTITY sender.accesskey                 "e">
-
-
-
-<!ENTITY  totalOpenTimeBefore.accesskey   "N">
-
 <!-- LOCALIZATION NOTE: totalOpenTimeBefore.label is displayed first, then
 there's a field where the user can enter a number, and totalOpenTimeEnd.label
 is displayed at the end of the line. The translations of the
 totalOpenTimeBefore.label and totalOpenTimeEnd.label parts don't have to mean
 the exact same thing as in English; please try instead to translate the whole
 sentence. -->
-<!ENTITY  totalOpenTimeBefore.label       "Show New Mail Alert for">
-<!ENTITY  totalOpenTimeEnd.label          "seconds">
+
+<!ENTITY  totalOpenTimeBefore.label       "Yeni E-Posta Uyarısını">
+<!ENTITY  totalOpenTimeBefore.accesskey   "Y">
+<!ENTITY  totalOpenTimeEnd.label          "saniye boyunca göster">

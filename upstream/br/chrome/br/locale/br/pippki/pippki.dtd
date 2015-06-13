@@ -14,11 +14,11 @@
 
 <!ENTITY resetPasswordButtonLabel "Adderaouekaat">
 <!ENTITY resetPassword.title  "Adderaouekaat ger-tremen mestr">
-<!ENTITY resetPassword.text  "Mar tilanot ho ker-tremen mestr e vo ankouaet ho kerioù-tremen evit internet, ho posteloù, ho roadennoù furmskridoù, ho testenioù personel hag hoc'h alc'hwezioù prevez. Fellout a ra deoc'h dilemel ho ker-tremen mestr ?">
+<!ENTITY resetPassword.text  "Mar adderaouekait ho ker-tremen mestr e vo ankouaet ho kerioù-tremen evit internet, ho posteloù, ho roadennoù furmskridoù, ho testenioù personel hag hoc'h alc'hwezioù prevez. Fellout a ra deoc'h dilemel ho ker-tremen mestr ?">
 <!-- Values for getpassword.xul -->
 
 <!ENTITY getPassword.title  "Roit ar ger-tremen mestr">
-<!ENTITY getPassword.tokenName2.label "Trobarzhell diogelroez:">
+<!ENTITY getPassword.tokenName2.label "Trevnad diogelroez :">
 <!ENTITY getPassword.password.label "Ger-tremen :">
 <!-- These should be common -->
 
@@ -30,7 +30,7 @@
 <!ENTITY pref.security.general.rHeader "Arventennoù evit an diogelroez hollek">
 <!ENTITY pref.security.general.header "Arventennoù evit an diogelroez hollek">
 <!ENTITY pref.security.general.level.title "Live diogelroez">
-<!ENTITY pref.security.general.paranoid.label "Arverañ arventennoù diogelroez paranoiak">
+<!ENTITY pref.security.general.paranoid.label "Arverañ arventennoù diogelroez paranoiakel">
 <!ENTITY pref.security.general.certificates.title "Testenioù">
 <!ENTITY pref.security.general.manageCert.label "Ardeiñ an testenioù">
 <!-- Downloading a cert -->
@@ -80,17 +80,8 @@
 <!ENTITY createCertInfo.title "O c'henel un alc'hwez prevez">
 <!ENTITY createCertInfo.msg1 "O c'henel an alc'hwez… Un tammig amzer e pado moarvat….">
 <!ENTITY createCertInfo.msg2 "Gortozit mar plij …">
-<!-- Form Signing confirmation prompt -->
-
-<!ENTITY formSigning.title "Azgoulenn ar sinañ testenn">
-<!ENTITY formSigning.cert "O sinañ an testeni">
-<!ENTITY formSigning.confirmPassword "Evit kadarnaat ez oc'h a-du da sinañ ar gemennadenn destenn-mañ en ur arverañ ho testeni diuzet, kadarnait dre enankañ ar ger-tremen mestr :">
 <!-- Strings for protectedAuth dialog -->
 
 <!ENTITY protectedAuth.title "Dilesa ar reveziadenn gwarezet">
 <!ENTITY protectedAuth.msg "Mar plij, dilesait ouzh ar reveziadenn. Hentenn dilesa a vo hervez rizh ho reveziadenn.">
 <!ENTITY protectedAuth.tokenName.label "Reveziadenn :">
-
-<!ENTITY certErrorDlg.title "C'hwitadenn war ar c'hennask diarvar">
-<!ENTITY certErrorDlg.info1 "Marteze ez eus ur gudenn gant kefluniadur an dafariad, pe un den bennak o klask kemer pivelezh an dafariad.">
-<!ENTITY certErrorDlg.info2 "Mard oc'h bet kennasket ouzh an dafariad gant berzh a-raok ez eus ur fazi padennek moarvat, klaskit diwezhatoc'h.">

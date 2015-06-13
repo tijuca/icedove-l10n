@@ -8,7 +8,7 @@
 <!ENTITY aboutSupport.pageSubtitle "
   Diese Seite enthält technische Informationen, die nützlich sein könnten,
   wenn Sie versuchen, ein Problem zu lösen. Wenn Sie nach Antworten auf häufig
-  gestellten Fragen zu &brandShortName; suchen, besuchen Sie bitte unsere  <a id='supportLink'>Hilfeseite</a>.
+  gestellte Fragen zu &brandShortName; suchen, besuchen Sie bitte unsere  <a id='supportLink'>Hilfeseite</a>.
 ">
 
 <!ENTITY aboutSupport.crashes.title "Absturzberichte">
@@ -37,9 +37,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "Allgemeine Informationen">
 <!ENTITY aboutSupport.appBasicsName "Name">
 <!ENTITY aboutSupport.appBasicsVersion "Version">
+<!ENTITY aboutSupport.appBasicsBuildID "Build-ID">
 
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Update-Kanal">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Update-Chronik">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Update-Chronik anzeigen">
 
@@ -53,6 +55,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build-Konfiguration">
 <!ENTITY aboutSupport.appBasicsUserAgent "User-Agent">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Speicherverwendung">
+
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Fenster mit mehreren Prozessen">
 
 <!ENTITY aboutSupport.showDir.label "Ordner öffnen">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -71,6 +75,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.userJSTitle "user.js-Einstellungen">
 <!ENTITY aboutSupport.userJSDescription "Der Profilordner besitzt eine <a id='prefs-user-js-link'>user.js-Datei</a>, welche Einstellungen enthält, die nicht von &brandShortName; erstellt wurden.">
 
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Wichtige nicht veränderbare Einstellungen">
+<!ENTITY aboutSupport.lockedPrefsName "Name">
+<!ENTITY aboutSupport.lockedPrefsValue "Wert">
+
 <!ENTITY aboutSupport.graphicsTitle "Grafik">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
@@ -87,3 +95,8 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Text in die Zwischenablage kopieren">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Rohdaten in die Zwischenablage kopieren">
+
+<!ENTITY aboutSupport.sandboxTitle "Isolierte Umgebungen">
+
+<!ENTITY aboutSupport.safeModeTitle "Abgesicherten Modus probieren">
+<!ENTITY aboutSupport.restartInSafeMode.label "Mit deaktivierten Add-ons neu starten…">

@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label                 "استعد المبدئيات">
 <!ENTITY useDefault.accesskey             "س">
 
-<!ENTITY bounceSystemDockIcon.label       "حرّك أيقونة الشريط">
-<!ENTITY bounceSystemDockIcon.accesskey   "ح">
+<!ENTITY changeDockIconOptions.label      "غيّر تفضيلات أيقونة التطبيق">
+<!ENTITY dockOptions.label                "خيارات أيقونة التطبيق…">
+<!ENTITY dockOptions.accesskey            "خ">
 
 <!ENTITY newMessagesArrive.label          "عند وصول رسالة جديدة:">
 <!ENTITY playSound.label                  "شغّل ملفًا صوتيًا">
@@ -35,7 +36,4 @@
 <!ENTITY browse.label                     "تصفّح… ">
 <!ENTITY browse.accesskey                 "ص">
 
-
-<!ENTITY changeDockIconOptions.label      "Change preferences for the app icon">
-<!ENTITY dockOptions.accesskey            "n">
-<!ENTITY dockOptions.label                "App Icon Options…">
+<!ENTITY defaultSearchEngine.label        "محرك البحث المبدئي">

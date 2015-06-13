@@ -52,6 +52,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Erabiltzaile-agentea">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Memoriaren erabilpena">
 
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprozesu leihoak">
+
 <!ENTITY aboutSupport.showDir.label "Ireki direktorioa">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -69,6 +71,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.userJSTitle "user.js hobespenak">
 <!ENTITY aboutSupport.userJSDescription "Zure profil-karpetak <a id='prefs-user-js-link'>user.js fitxategia</a> dauka, zeinak &brandShortName;(e)k sortu ez dituen hobespenak dauzkan.">
 
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Blokeatutako hobespen garrantzitsuak">
+<!ENTITY aboutSupport.lockedPrefsName "Izena">
+<!ENTITY aboutSupport.lockedPrefsValue "Balioa">
+
 <!ENTITY aboutSupport.graphicsTitle "Grafikoak">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
@@ -85,3 +91,14 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Kopiatu testua arbelean">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopiatu datu gordinak arbelean">
+
+<!ENTITY aboutSupport.sandboxTitle "Isolamendua">
+
+<!ENTITY aboutSupport.appBasicsBuildID "Build ID">
+
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Update Channel">
+<!ENTITY aboutSupport.restartInSafeMode.label "Restart with Add-ons Disabled…">
+
+<!ENTITY aboutSupport.safeModeTitle "Try Safe Mode">

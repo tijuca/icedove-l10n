@@ -12,15 +12,19 @@
   Telemeetria on <span>keelatud</span>.
 ">
 
+<!ENTITY aboutTelemetry.generalDataSection        "
+  Üldandmed
+">
+
 <!ENTITY aboutTelemetry.slowSqlSection            "
-  Aeglased SQLi päringud
+  Aeglased SQL-päringud
 ">
 
 <!ENTITY aboutTelemetry.chromeHangsSection        "
   Brauseri hangumised
 ">
 
-<!ENTITY aboutTelemetry.threadHangStatsSection "
+<!ENTITY aboutTelemetry.threadHangStatsSection    "
   Lõimede hangumised
 ">
 
@@ -28,11 +32,15 @@
   Histogrammid
 ">
 
+<!ENTITY aboutTelemetry.keyedHistogramsSection    "
+  Keyed Histograms
+">
+
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Lihtsad mõõdistused
 ">
 
-<!ENTITY aboutTelemetry.addonDetailsSection "
+<!ENTITY aboutTelemetry.addonDetailsSection       "
   Lisade üksikasjad
 ">
 
@@ -48,7 +56,7 @@
   Lisade poolt kogutud histogrammid
 ">
 
-<!ENTITY aboutTelemetry.toggle "
+<!ENTITY aboutTelemetry.toggle                    "
   Sektsiooni laiendamiseks/ahendamiseks klõpsa
 ">
 
@@ -57,7 +65,7 @@
 ">
 
 <!ENTITY aboutTelemetry.fullSqlWarning            "
-  MÄRKUS: Aeglase SQLi debugimine on lubatud. Allpool võidakse kuvada täielikke SQLi päringuid, aga neid ei saadeta telemeetria kaudu edasi.
+  MÄRKUS: Aeglase SQLi debugimine on lubatud. Allpool võidakse kuvada täielikke SQL-päringuid, aga neid ei saadeta telemeetria kaudu edasi.
 ">
 
 <!ENTITY aboutTelemetry.fetchSymbols              "
@@ -68,6 +76,6 @@
   Kuva hangumiste töötlemata andmeid
 ">
 
-<!ENTITY aboutTelemetry.filterText "
+<!ENTITY aboutTelemetry.filterText                "
   Filtreeri (stringide või /regulaaravaldistega/)
 ">

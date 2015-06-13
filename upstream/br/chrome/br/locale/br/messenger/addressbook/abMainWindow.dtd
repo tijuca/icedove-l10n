@@ -113,7 +113,7 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY tasksMenu.label                                "Ostilhoù">
 <!ENTITY tasksMenu.accesskey                            "O">
-<!ENTITY messengerCmd.label                             "Posteloù &amp; strolladoù-keleier">
+<!ENTITY messengerCmd.label                             "Posteloù ha strolladoù-keleier">
 <!ENTITY messengerCmd.accesskey                         "P">
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "Klask posteloù…">
@@ -217,3 +217,10 @@ because displayed names don't have the comma in between. -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Kas pep tra d'ar rakleur">
 <!ENTITY zoomWindow.label "Zoum">
+
+<!ENTITY Addrbook.accesskey                             "B">
+
+<!-- Results Pane -->
+<!ENTITY Addrbook.label                                 "Address Book">
+<!ENTITY blankResultsPaneMessage.label                  "This address book shows contacts only after a search">
+<!ENTITY localResultsOnlyMessage.label                  "Contacts from remote address books are not shown until you search">

@@ -105,7 +105,7 @@ an t-siostam agad.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Dh'fhàillig an ceangal tèarainte">
-<!ENTITY nssFailure2.longDesc "<ul> 
+<!ENTITY nssFailure2.longDesc2 "<ul> 
 <li>Cha ghabh an duilleag a tha thu airson faicinn a shealltainn a chionn 's nach gabh dearbhachd an dàta a fhuaradh a dhearbhadh.</li> 
 <li>Cuir fios gun fheadhainn aig a bheil an làrach-lìn gu bheil a leithid de dhuilgheadas ann.</li> 
 </ul>">
@@ -135,8 +135,8 @@ progsaidh, dèan cinnteach gu bheil cead aig &brandShortName; ceangal ris an lì
 <!ENTITY phishingBlocked.longDesc "<p>Dh&apos;fhaodadh goid do dhearbh-aithne no foill eile èirigh dhut ma bheir thu seachad fiosrachadh pearsanta sam bith air an duilleag seo</p>
 <p>Thèid an seòrsa seo de dh&apos;fhallsaidheachd-lìn a chleachdadh ann an cam-ghnothach air a bheil &quot;fiasgach&quot; far a bheil duilleagan-lìn is puist-dhealain a&apos; gabhail orra gu bheil iad nan tùsan earbsach.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "'Ga chasgadh le poileasaidh tèarainteachd susbainte">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Chuir &brandShortName; casg air luchdadh na duilleige seo air an dòigh seo a chionn 's gu bheil poileasaidh tèarainteachd susbainte ann nach eil 'ga cheadachadh.</p>">
+<!ENTITY cspBlocked.title "'Ga chasgadh le poileasaidh tèarainteachd susbainte">
+<!ENTITY cspBlocked.longDesc "<p>Chuir &brandShortName; casg air luchdadh na duilleige seo air an dòigh seo a chionn 's gu bheil poileasaidh tèarainteachd susbainte ann nach eil 'ga cheadachadh.</p>">
 
 <!ENTITY corruptedContentError.title "Mearachd air sgàth susbaint thruaillte">
 <!ENTITY corruptedContentError.longDesc "<p>Chan fhaic thu an t-susbaint a dh'iarr thu air sgàth mearachd ann an tar-chur an dàta.</p><ul><li>Cuir fios gu seilbheadair na làraich mun duilgheadas seo.</li></ul>">

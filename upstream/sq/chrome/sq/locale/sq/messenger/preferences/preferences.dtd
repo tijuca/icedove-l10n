@@ -4,6 +4,7 @@
 
 <!ENTITY  prefWindow.titleWin     "Mundësi">
 <!ENTITY  prefWindow.titleGNOME   "Parapëlqime &brandShortName;-i">
+<!ENTITY  prefWindow.titleMAC     "Parapëlqime">
 <!ENTITY  prefWindow.styleWindows "width: 60em; min-height: 38.5em;">
 <!ENTITY  prefWindow.styleMac     "width: 60em;">
 <!ENTITY  prefWindow.styleGNOME   "width: 60em; min-height: 38em;">
@@ -12,8 +13,11 @@
 <!ENTITY paneDisplay.title        "Paraqitje">
 <!ENTITY paneComposition.title    "Hartim">
 <!ENTITY paneChat.title           "Fjalosje">
-<!ENTITY paneAttachments.title    "Bashkangjitje">
+<!ENTITY paneAttachments.title    "Bashkëngjitje">
+<!ENTITY panePrivacy.title        "Privatësi">
 <!ENTITY paneAdvanced.title       "Të mëtejshme">
 <!ENTITY paneSecurity.title       "Siguri">
+<!ENTITY paneAccount.title        "Llogari">
 
-<!ENTITY panePrivacy.title        "Privacy">
+<!ENTITY okButton.title           "OK">
+<!ENTITY okButton.accesskey       "O">

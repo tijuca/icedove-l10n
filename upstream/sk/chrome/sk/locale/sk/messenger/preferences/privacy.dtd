@@ -14,6 +14,8 @@
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "Webový obsah">
 
+<!ENTITY keepHistory.label "Zapamätať si webové stránky a odkazy, ktoré navštívim">
+<!ENTITY keepHistory.accesskey "m">
 <!ENTITY acceptCookies.label "Povoliť cookies webových stránok">
 <!ENTITY acceptCookies.accesskey "k">
 <!ENTITY acceptThirdParty.pre.label "Povoliť cookies tretích strán:">
@@ -31,11 +33,7 @@
 <!ENTITY showCookies.label "Zobraziť cookies…">
 <!ENTITY showCookies.accesskey "Z">
 
-<!ENTITY dntTrackingNopref.label2 "Neinformovať stránky o mojich preferenciách v oblasti sledovania aktivity">
-<!ENTITY dntTrackingNopref.accesskey "e">
 <!ENTITY dntTrackingNotOkay.label2 "Požiadať webové stránky, aby nesledovali moju aktivitu">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
-<!ENTITY dntTrackingOkay.label2 "Informovať webové stránky, že môžu sledovať moju aktivitu">
-<!ENTITY dntTrackingOkay.accesskey "w">
 <!ENTITY doNotTrackInfo.label "Ďalšie informácie o funkcii Do Not Track">
 

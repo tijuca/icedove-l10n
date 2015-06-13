@@ -66,7 +66,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>Webstedet svarede på netværksforespørgslen på en uventet måde, og browseren kan ikke fortsætte.</p>">
 
 <!ENTITY nssFailure2.title "Sikker forbindelse mislykkedes">
-<!ENTITY nssFailure2.longDesc "<p>Siden kunne ikke vises da autenticiteten af de modtagne data ikke kunne bekræftes.</p><ul><li>Kontakt ejeren af webstedet omkring dette problem.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>Siden kunne ikke vises da autenticiteten af de modtagne data ikke kunne bekræftes.</p><ul><li>Kontakt ejeren af webstedet omkring dette problem.</li></ul>">
 
 <!ENTITY nssBadCert.title "Sikker forbindelse mislykkedes">
 <!ENTITY nssBadCert.longDesc2 "<ul>
@@ -87,8 +87,8 @@
 <p>Denne type netsvindel er kendt som phishing-angreb, hvor falske websteder og emails bruges til at imitere kilder, du normalt stoler på.</p>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blokeret grundet Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Browseren forhindrede denne side i at blive indlæst, da den har en Content Security Policy, der forbyder det.</p>">
+<!ENTITY cspBlocked.title "Blokeret grundet indholdssikkerhedspolitik">
+<!ENTITY cspBlocked.longDesc "<p>Browseren forhindrede denne side i at blive indlæst, da den har en indholdssikkerhedspolitik, der forbyder det.</p>">
 
 <!ENTITY corruptedContentError.title "Fejlbehæftet indhold">
 <!ENTITY corruptedContentError.longDesc "<p>Siden kan ikke vises, da der er fundet en fejl i overførslen af data.</p><ul><li>Kontakt ejerne af webstedet omkring dette problem.</li></ul>">

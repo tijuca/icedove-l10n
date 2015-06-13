@@ -14,6 +14,8 @@
 
 <!ENTITY captionWebContent.label "Endalc'had Web">
 
+<!ENTITY keepHistory.label "Derc'hel soñj eus al lec'hiennoù hag an ereoù gweladennet ganin">
+<!ENTITY keepHistory.accesskey "s">
 <!ENTITY acceptCookies.label "Degemer toupinoù adalek lec'hiennoù">
 <!ENTITY acceptCookies.accesskey "D">
 <!ENTITY acceptThirdParty.pre.label "Degemer toupinoù un trede :">
@@ -28,14 +30,9 @@
 <!ENTITY askEachTime.label "goulenn ganin bewech">
 <!ENTITY cookieExceptions.label "Nemedennoù…">
 <!ENTITY cookieExceptions.accesskey "e">
-<!ENTITY showCookies.label "Diskwel an toupinoù…">
+<!ENTITY showCookies.label "Diskouez an toupinoù…">
 <!ENTITY showCookies.accesskey "s">
 
-<!ENTITY dntTrackingNopref.label2 "Na lavarout tra ebet d'al lec'hiennoù a-zivout ma gwellvezioù heuliañ.">
-<!ENTITY dntTrackingNopref.accesskey "N">
 <!ENTITY dntTrackingNotOkay.label2 "Lavarout d'al lec'hiennoù ne fell ket din bezañ heuliet.">
 <!ENTITY dntTrackingNotOkay.accesskey "L">
-<!ENTITY dntTrackingOkay.label2 "Lavarout d'al lec'hiennoù e fell din bezañ heuliet.">
-<!ENTITY dntTrackingOkay.accesskey "n">
 <!ENTITY doNotTrackInfo.label "Gouzout hiroc'h a-zivout Do Not Track">
-

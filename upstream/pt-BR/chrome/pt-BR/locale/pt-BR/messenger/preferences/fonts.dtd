@@ -51,24 +51,24 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmuqui">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malaiala">
-
 <!-- Minimum font size -->
+
 <!ENTITY minSize.label                            "Tamanho mínimo permitido:">
 <!ENTITY minSize.accesskey                        "m">
 <!ENTITY minSize.none                             "Nenhum">
-
 <!-- default font type -->
+
 <!ENTITY  useDefaultFontSerif.label               "Com serifa">
 <!ENTITY  useDefaultFontSansSerif.label           "Sem serifa">
-
 <!-- fonts in message -->
+
 <!ENTITY  fontControl.label                       "Controle das fontes">
 <!ENTITY  useFixedWidthForPlainText.label         "Usar fonte monoespaçada em mensagens sem formatação">
 <!ENTITY  fixedWidth.accesskey                    "U">
 <!ENTITY  useDocumentFonts.label                  "Mensagens podem usar outras fontes">
 <!ENTITY  useDocumentFonts.accesskey              "n">
-
 <!-- Language settings -->
+
 <!ENTITY sendDefaultCharset.label         "Para mensagens enviadas:">
 <!ENTITY sendDefaultCharset.accesskey     "r">
 <!ENTITY languagesTitle1.label            "Codificações padrão">
@@ -78,3 +78,16 @@
 <!ENTITY viewDefaultCharsetList.accesskey  "e">
 <!ENTITY replyInDefaultCharset2.label     "Quando possível, usar a codificação padrão ao responder">
 <!ENTITY replyInDefaultCharset2.accesskey "Q">
+
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "Latin">
+<!ENTITY  font.langGroup.oriya                    "Oriya">
+<!ENTITY  font.langGroup.other                    "Other Writing Systems">
+<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.tibetan                  "Tibetan">
+<!ENTITY  sizeMonospace.accesskey                 "i">
+<!ENTITY  sizeProportional.accesskey              "e">

@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-archiveoptions.xul -->
+
 
 <!ENTITY dialogTitle.label "Možnosti za arhiviranje">
 <!ENTITY archiveGranularityPrefix.label "Pri arhiviranju shrani sporočila v:">
 <!ENTITY archiveFlat.label "eno samo mapo">
 <!ENTITY archiveFlat.accesskey "e">
 <!ENTITY archiveYearly.label "letne arhivske mape">
-<!ENTITY archiveYearly.accesskey "l">
+<!ENTITY archiveYearly.accesskey "n">
 <!ENTITY archiveMonthly.label "mesečne arhivske mape">
 <!ENTITY archiveMonthly.accesskey "m">
 <!ENTITY keepFolderStructure.label "Obdrži obstoječo strukturo map z arhiviranimi sporočili">

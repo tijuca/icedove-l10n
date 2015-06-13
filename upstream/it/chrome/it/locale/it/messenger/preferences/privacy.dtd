@@ -4,11 +4,13 @@
 
 <!ENTITY captionMailContent.label "Contenuto della posta">
 <!ENTITY acceptRemoteContent.label "Permettere contenuti remoti dentro i messaggi">
-<!ENTITY acceptRemoteContent.accesskey "A">
+<!ENTITY acceptRemoteContent.accesskey "m">
 <!ENTITY remoteContentExceptions.label "Eccezioni…">
 <!ENTITY remoteContentExceptions.accesskey "z">
 <!ENTITY acceptRemoteContentInfo.label "Maggiori informazioni sui problemi di privacy dei contenuti remoti">
 <!ENTITY captionWebContent.label "Contenuto web">
+<!ENTITY keepHistory.label "Ricordarsi dei siti web e dei link visitati">
+<!ENTITY keepHistory.accesskey "R">
 <!ENTITY acceptCookies.label "Accettare cookie dai siti">
 <!ENTITY acceptCookies.accesskey "A">
 <!ENTITY acceptThirdParty.pre.label "Accettare cookie da terze parti:">
@@ -25,10 +27,6 @@
 <!ENTITY cookieExceptions.accesskey "E">
 <!ENTITY showCookies.label "Mostra i cookie…">
 <!ENTITY showCookies.accesskey "o">
-<!ENTITY dntTrackingNopref.label2 "Non rivelare nulla ai siti circa le mie preferenze di tracciamento">
-<!ENTITY dntTrackingNopref.accesskey "N">
 <!ENTITY dntTrackingNotOkay.label2 "Informare i siti che non desidero essere tracciato">
 <!ENTITY dntTrackingNotOkay.accesskey "I">
-<!ENTITY dntTrackingOkay.label2 "Informare i siti che desidero essere tracciato">
-<!ENTITY dntTrackingOkay.accesskey "t">
 <!ENTITY doNotTrackInfo.label "Maggiori informazioni su Non tracciare">

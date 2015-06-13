@@ -6,7 +6,7 @@
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
-  Ta stran vsebuje tehnične podatke, ki jih boste morda potrebovali pri odpravljanu
+  Ta stran vsebuje tehnične podatke, ki jih boste morda potrebovali pri odpravljanju
   težav. Če iščete odgovore na splošna vprašanja o programu
   &brandShortName;, obiščite <a id='supportLink'>strani za podporo uporabnikom</a>.
 ">
@@ -37,9 +37,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "Osnovni podatki">
 <!ENTITY aboutSupport.appBasicsName "Ime">
 <!ENTITY aboutSupport.appBasicsVersion "Različica">
+<!ENTITY aboutSupport.appBasicsBuildID "ID gradnje">
 
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Posodobitveni kanal">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Zgodovina posodobitev">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Prikaži zgodovino posodobitev">
 
@@ -53,6 +55,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsBuildConfig "Nastavitev graditve">
 <!ENTITY aboutSupport.appBasicsUserAgent "Uporabniški agent">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Poraba pomnilnika">
+
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Večprocesna okna">
 
 <!ENTITY aboutSupport.showDir.label "Odpri mapo">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -71,6 +75,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.userJSTitle "Nastavitve user.js">
 <!ENTITY aboutSupport.userJSDescription "V vaši mapi s profilom se nahaja <a id='prefs-user-js-link'>datoteka user.js</a>, ki vsebuje nastavitve, ki jih ni ustvaril &brandShortName;.">
 
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Pomembne zaklenjene nastavitve">
+<!ENTITY aboutSupport.lockedPrefsName "Ime">
+<!ENTITY aboutSupport.lockedPrefsValue "Vrednost">
+
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
@@ -87,3 +95,8 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Kopiraj besedilo v odložišče">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopiraj neobdelane podatke v odložišče">
+
+<!ENTITY aboutSupport.sandboxTitle "Peskovnik">
+
+<!ENTITY aboutSupport.safeModeTitle "Poskusite varni način">
+<!ENTITY aboutSupport.restartInSafeMode.label "Ponovno zaženi z onemogočenimi dodatki …">

@@ -14,6 +14,8 @@
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "Verkkosisältö">
 
+<!ENTITY keepHistory.label "Muista avaamani sivustot ja linkit">
+<!ENTITY keepHistory.accesskey "M">
 <!ENTITY acceptCookies.label "Sivustot saavat asettaa evästeitä">
 <!ENTITY acceptCookies.accesskey "v">
 <!ENTITY acceptThirdParty.pre.label "Salli kolmannen osapuolen evästeet:">
@@ -31,11 +33,6 @@
 <!ENTITY showCookies.label "Näytä evästeet…">
 <!ENTITY showCookies.accesskey "N">
 
-<!ENTITY dntTrackingNopref.label2 "Älä kerro sivustoille mitään seuranta-asetuksistani">
-<!ENTITY dntTrackingNopref.accesskey "Ä">
 <!ENTITY dntTrackingNotOkay.label2 "Ilmoita sivustoille, etten halua niiden seuraavan minua">
 <!ENTITY dntTrackingNotOkay.accesskey "I">
-<!ENTITY dntTrackingOkay.label2 "Ilmoita sivustoille, että haluan niiden seuraavan minua">
-<!ENTITY dntTrackingOkay.accesskey "h">
 <!ENTITY doNotTrackInfo.label "Lue lisää seuranta-asetuksista">
-

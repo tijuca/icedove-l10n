@@ -49,16 +49,17 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "總是顯示回覆給寄件者">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 
-<!ENTITY otherActionsButton1.label "其他動作">
+<!ENTITY otherActionsButton2.label "更多">
+<!ENTITY otherActionsButton.tooltip "更多操作">
 <!ENTITY otherActionsOpenConversation1.label "以討論串檢視模式開啟">
 <!ENTITY otherActionsOpenConversation1.accesskey "C">
 <!ENTITY otherActionsOpenInNewWindow1.label "開啟至新視窗">
 <!ENTITY otherActionsOpenInNewWindow1.accesskey "w">
 <!ENTITY otherActionsOpenInNewTab1.label "用新分頁開啟">
 <!ENTITY otherActionsOpenInNewTab1.accesskey "T">
-<!ENTITY markAsReadMenuItem1.label "標示為已閱讀">
+<!ENTITY markAsReadMenuItem1.label "標示為已讀">
 <!ENTITY markAsReadMenuItem1.accesskey "r">
-<!ENTITY markAsUnreadMenuItem1.label "標示為未閱讀">
+<!ENTITY markAsUnreadMenuItem1.label "標示為未讀">
 <!ENTITY markAsUnreadMenuItem1.accesskey "r">
 <!ENTITY saveAsMenuItem1.label "另存為…">
 <!ENTITY saveAsMenuItem1.accesskey "S">

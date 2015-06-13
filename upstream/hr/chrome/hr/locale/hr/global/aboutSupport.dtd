@@ -35,9 +35,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "Osnove aplikacije">
 <!ENTITY aboutSupport.appBasicsName "Naziv">
 <!ENTITY aboutSupport.appBasicsVersion "Inačica">
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+<!ENTITY aboutSupport.appBasicsBuildID "Build ID">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
 
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Kanal ažuriranja">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Povijest ažuriranja">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Prikaži povijest ažuriranja">
 
@@ -51,6 +53,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build konfiguracija">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Zauzeće memorije">
+
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Više procesni prozori">
 
 <!ENTITY aboutSupport.showDir.label "Otvori direktorij">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -69,6 +73,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.userJSTitle "user.js osobitosti">
 <!ENTITY aboutSupport.userJSDescription "Vaš profil sadrži <a id='prefs-user-js-link'>user.js datoteku</a>, koja uključuje osobitosti koje nije stvorio &brandShortName;.">
 
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Važne zaključane postavke">
+<!ENTITY aboutSupport.lockedPrefsName "Naziv">
+<!ENTITY aboutSupport.lockedPrefsValue "Vrijednost">
+
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
@@ -85,3 +93,8 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Kopiraj tekst u međuspremnik">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopiraj neobrađene podatke u međuspremnik">
+
+<!ENTITY aboutSupport.sandboxTitle "Sandbox">
+
+<!ENTITY aboutSupport.safeModeTitle "Pokušaj siguran način rada">
+<!ENTITY aboutSupport.restartInSafeMode.label "Ponovno pokreni s isključenim dodacima…">

@@ -35,9 +35,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "Bun-tùs na h-aplacaid">
 <!ENTITY aboutSupport.appBasicsName "Ainm">
 <!ENTITY aboutSupport.appBasicsVersion "Tionndadh">
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+<!ENTITY aboutSupport.appBasicsBuildID "Build ID">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
 
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Ùraich an t-seanail">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Eachdraidh nan ùrachaidhean">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Seall eachdraidh nan ùrachaidhean">
 
@@ -51,6 +53,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsBuildConfig "Rèiteachadh na togalach">
 <!ENTITY aboutSupport.appBasicsUserAgent "UserAgent">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Cleachdadh na cuimhne">
+
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Uinneagan ioma-phròiseasaidh">
 
 <!ENTITY aboutSupport.showDir.label "Fosgail am pasgan">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -69,6 +73,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.userJSTitle "Roghainnean user.js">
 <!ENTITY aboutSupport.userJSDescription "Tha faidhle air a bheil <a id='prefs-user-js-link'>user.js</a> ann am pasgan na pròifil agad agus gheibh thu roghainnean 'na bhroinn nach deach an cruthachadh le &brandShortName;.">
 
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Roghainnean cudromach a tha glaiste">
+<!ENTITY aboutSupport.lockedPrefsName "Ainm">
+<!ENTITY aboutSupport.lockedPrefsValue "Luach">
+
 <!ENTITY aboutSupport.graphicsTitle "Grafaigean">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
@@ -85,3 +93,8 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Cuir lethbhreac dhen teacsa air an stòr-bhòrd">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Cuir lethbhreac dhen dàta lom dhan stòr-bhòrd">
+
+<!ENTITY aboutSupport.sandboxTitle "Bogsa-gainmhich">
+
+<!ENTITY aboutSupport.safeModeTitle "Feuch am modh tèarainte">
+<!ENTITY aboutSupport.restartInSafeMode.label "Ath-thòisich leis na tuilleadan air an cur à comas…">

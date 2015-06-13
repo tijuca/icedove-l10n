@@ -6,7 +6,7 @@
 <!ENTITY captionMailContent.label "Contingut del correu">
 
 <!ENTITY acceptRemoteContent.label "Permet contingut remot en els missatges">
-<!ENTITY acceptRemoteContent.accesskey "P">
+<!ENTITY acceptRemoteContent.accesskey "m">
 <!ENTITY remoteContentExceptions.label "Excepcions…">
 <!ENTITY remoteContentExceptions.accesskey "x">
 <!ENTITY acceptRemoteContentInfo.label "Més informació sobre els problemes de privadesa del contingut remot">
@@ -14,6 +14,8 @@
 
 <!ENTITY captionWebContent.label "Contingut web">
 
+<!ENTITY keepHistory.label "Recorda els llocs web i els enllaços que he visitat">
+<!ENTITY keepHistory.accesskey "R">
 <!ENTITY acceptCookies.label "Accepta galetes dels llocs web">
 <!ENTITY acceptCookies.accesskey "A">
 <!ENTITY acceptThirdParty.pre.label "Accepta galetes de tercers:">
@@ -31,11 +33,6 @@
 <!ENTITY showCookies.label "Mostra les galetes…">
 <!ENTITY showCookies.accesskey "s">
 
-<!ENTITY dntTrackingNopref.label2 "No facis saber res als llocs sobre les meves preferències de seguiment">
-<!ENTITY dntTrackingNopref.accesskey "o">
 <!ENTITY dntTrackingNotOkay.label2 "Fes saber als llocs web que no vull que se'm segueixi">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
-<!ENTITY dntTrackingOkay.label2 "Fes saber als llocs web que vull que se'm segueixi">
-<!ENTITY dntTrackingOkay.accesskey "F">
 <!ENTITY doNotTrackInfo.label "Més informació de «No vull que se'm segueixi»">
-

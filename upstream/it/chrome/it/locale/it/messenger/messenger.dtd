@@ -103,7 +103,7 @@
 <!ENTITY menuFavoriteFolder.accesskey "f">
 <!ENTITY folderPropsCmd2.label "Proprietà">
 <!ENTITY folderPropsFolderCmd2.label "Proprietà cartella">
-<!ENTITY folderPropsNewsgroupCmd2.label "Proprietà newsgroup">
+<!ENTITY folderPropsNewsgroupCmd2.label "Proprietà gruppi di discussione">
 <!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY undoDeleteMsgCmd.label "Annulla elimina messaggio">
 <!ENTITY redoDeleteMsgCmd.label "Ripeti elimina messaggio">
@@ -133,6 +133,8 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showFolderPaneCmd.label "Riquadro cartelle">
 <!ENTITY showFolderPaneCmd.accesskey "R">
+<!ENTITY showFolderPaneColsCmd.label "Colonne del pannello delle cartelle">
+<!ENTITY showFolderPaneColsCmd.accesskey "P">
 <!ENTITY showMessageCmd.label "Anteprima messaggio">
 <!ENTITY showMessageCmd.accesskey "A">
 <!ENTITY folderView.label "Cartelle">
@@ -329,9 +331,9 @@
 <!ENTITY forwardAsInline.accesskey "P">
 <!ENTITY forwardAsAttachmentCmd.label "Allegato">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
-<!ENTITY editAsNewMsgCmd.label "Modifica come nuovo messaggio">
+<!ENTITY editAsNewMsgCmd.label "Modifica messaggio come nuovo">
 <!ENTITY editAsNewMsgCmd.accesskey "M">
-<!ENTITY editAsNewMsgCmd.key "m">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "Crea un filtro dal messaggio…">
 <!ENTITY createFilter.accesskey "f">
 <!ENTITY moveMsgToMenu.label "Sposta in">
@@ -407,7 +409,7 @@
 <!ENTITY openFeedWebPage.accesskey "W">
 <!ENTITY openFeedSummary.label "Aprire come sommario">
 <!ENTITY openFeedSummary.accesskey "S">
-<!ENTITY openFeedWebPageInMP.label "Scambia la pagina web ed il sommario nel riquadro dell'anteprima">
+<!ENTITY openFeedWebPageInMP.label "Scambia la pagina web e il sommario nel riquadro dell'anteprima">
 <!ENTITY openFeedWebPageInMP.accesskey "S">
 <!ENTITY windowMenu.label "Finestra">
 <!ENTITY tasksMenu.label "Strumenti">
@@ -546,7 +548,9 @@
 <!ENTITY addNewTag.accesskey "N">
 <!ENTITY manageTags.label "Gestisci le etichette…">
 <!ENTITY manageTags.accesskey "s">
-<!ENTITY folderColumn.label "Nome">
+<!ENTITY folderNameColumn.label "Nome">
+<!ENTITY folderUnreadColumn.label "Non letto">
+<!ENTITY folderTotalColumn.label "Totale">
 <!ENTITY folderSizeColumn.label "Dimensione">
 <!ENTITY folderContextGetMessages.label "Scarica messaggi">
 <!ENTITY folderContextGetMessages.accesskey "c">
@@ -720,12 +724,12 @@
 <!ENTITY reportPhishingURL.accesskey "o">
 <!ENTITY spellAddDictionaries.label "Aggiungi dizionari…">
 <!ENTITY spellAddDictionaries.accesskey "A">
-<!ENTITY saveLinkAsCmd.label "Salva collegamento come…">
+<!ENTITY saveLinkAsCmd.label "Salva link come…">
 <!ENTITY saveLinkAsCmd.accesskey "v">
 <!ENTITY saveImageAsCmd.label "Salva con nome…">
 <!ENTITY saveImageAsCmd.accesskey "v">
-<!ENTITY copyLinkCmd.label "Copia indirizzo">
-<!ENTITY copyLinkCmd.accesskey "z">
+<!ENTITY copyLinkCmd.label "Copia link">
+<!ENTITY copyLinkCmd.accesskey "o">
 <!ENTITY copyImageAllCmd.label "Copia immagine">
 <!ENTITY copyImageAllCmd.accesskey "I">
 <!ENTITY copyEmailCmd.label "Copia indirizzo email">
@@ -736,7 +740,7 @@
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY openInBrowser.label "Apri nel browser">
 <!ENTITY openInBrowser.accesskey "w">
-<!ENTITY openLinkInBrowser.label "Apri collegamento nel browser">
+<!ENTITY openLinkInBrowser.label "Apri link nel browser">
 <!ENTITY openLinkInBrowser.accesskey "w">
 <!ENTITY statusText.label "Fatto">
 <!ENTITY minimizeWindow.label "Contrai">

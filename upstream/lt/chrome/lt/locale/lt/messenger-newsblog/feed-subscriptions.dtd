@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Subscription Dialog -->
+
 <!ENTITY feedSubscriptions.label     "Sklaidos kanalų prenumerata">
-<!ENTITY subscriptionDesc.label      "Dėmesio! Prenumeratos aplanko pakeitimas ar pašalinimas negalioja jau parsiųstiems straipsniams.">
+<!ENTITY learnMore.label             "Sužinokite daugiau apie sklaidos kanalus">
 
 <!ENTITY feedTitle.label             "Pavadinimas:">
 <!ENTITY feedTitle.accesskey         "v">
@@ -12,6 +12,8 @@
 <!ENTITY feedLocation.label          "Kanalo URL: ">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Įveskite galiojantį sklaidos kanalo adresą">
+<!ENTITY locationValidate.label      "Patikrinti">
+<!ENTITY validateText.label          "Patikrinti atitikimą formatams ir gauti tinkamą URL.">
 
 <!ENTITY feedFolder.label            "Kanalo straipsnius laikyti aplanke:">
 <!ENTITY feedFolder.accesskey        "K">
@@ -25,20 +27,17 @@
 <!ENTITY autotagUsePrefix.accesskey  "s">
 <!ENTITY autoTagPrefix.placeholder   "Įveskite gairių prefiksą">
 
-<!ENTITY locationValidate.label      "Patikrinti">
-<!ENTITY validateText.label          "Patikrinti atitikimą formatams ir gauti tinkamą URL.">
+<!ENTITY button.addFeed.label        "Pridėti">
+<!ENTITY button.addFeed.accesskey    "P">
+<!ENTITY button.editFeed.label       "Tvarkyti">
+<!ENTITY button.editFeed.accesskey   "v">
+<!ENTITY button.removeFeed.label     "Pašalinti">
+<!ENTITY button.removeFeed.accesskey "š">
+<!ENTITY button.importOPML.label     "Importuoti">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label     "Eksportuoti">
+<!ENTITY button.exportOPML.accesskey "E">
+<!ENTITY button.exportOPML.tooltip   "Eksportuoti kanalus su aplankų struktūra. Naudokite Vald + spustelėjimą arba Vald + Įvesti, jeigu norite kanalus eksportuoti kaip sąrašą">
 
-<!ENTITY button.addFeed.label          "Pridėti">
-<!ENTITY button.addFeed.accesskey      "P">
-<!ENTITY button.editFeed.label         "Tvarkyti">
-<!ENTITY button.editFeed.accesskey     "v">
-<!ENTITY button.removeFeed.label       "Pašalinti">
-<!ENTITY button.removeFeed.accesskey   "š">
-<!ENTITY button.importOPML.label       "Importuoti">
-<!ENTITY button.importOPML.accesskey   "I">
-<!ENTITY button.exportOPML.label       "Eksportuoti">
-<!ENTITY button.exportOPML.accesskey   "E">
-<!ENTITY button.exportOPML.tooltip     "Eksportuoti kanalus su aplankų struktūra. Naudokite Vald + spustelėjimą arba Vald + Įvesti, jeigu norite kanalus eksportuoti kaip sąrašą">
-
-<!ENTITY cmd.close.commandKey          "w">
+<!ENTITY cmd.close.commandKey        "w">
 <!ENTITY button.close.label          "Užverti">

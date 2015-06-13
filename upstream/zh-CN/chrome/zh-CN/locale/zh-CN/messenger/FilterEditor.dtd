@@ -23,14 +23,18 @@
 <!ENTITY contextManual.accesskey "R">
 <!ENTITY contextBeforeCls.label "在垃圾邮件分级之前过滤">
 <!ENTITY contextAfterCls.label "在垃圾邮件分级之后过滤">
+<!ENTITY contextOutgoing.label "发送后">
+<!ENTITY contextOutgoing.accesskey "S">
+<!ENTITY contextArchive.label "存档">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "执行动作:">
 <!ENTITY filterActionDesc.accesskey "P">
 
 <!ENTITY filterActionOrderWarning.label "注：过滤器操作将以不同的顺序运行。">
 <!ENTITY filterActionOrder.label "见执行顺序">
-
 <!-- New Style Filter Rule Actions -->
+
 <!ENTITY moveMessage.label "移动消息至">
 <!ENTITY copyMessage.label "复制消息至">
 <!ENTITY forwardTo.label "转发消息至">
@@ -51,11 +55,11 @@
 
 <!ENTITY addAction.tooltip "添加新动作">
 <!ENTITY removeAction.tooltip "移除此动作">
-
 <!-- LOCALIZATION NOTE
   The values below are used to control the widths of the filter action widgets.
   Change the values only when the localized strings in the popup menus
   are truncated in the widgets.
  -->
+
 <!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">

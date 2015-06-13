@@ -37,9 +37,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "응용 프로그램 기본 정보">
 <!ENTITY aboutSupport.appBasicsName "이름">
 <!ENTITY aboutSupport.appBasicsVersion "버전">
+<!ENTITY aboutSupport.appBasicsBuildID "빌드 ID">
 
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+<!ENTITY aboutSupport.appBasicsUpdateChannel "업데이트 채널">
 <!ENTITY aboutSupport.appBasicsUpdateHistory		"업데이트 기록">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory	"업데이트 기록 표시">
 
@@ -49,6 +51,8 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsBuildConfig "빌드 설정">
 <!ENTITY aboutSupport.appBasicsUserAgent "사용자 에이전트">
 <!ENTITY aboutSupport.appBasicsMemoryUse "메모리 사용">
+
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "다중프로세스 윈도우">
 
 <!ENTITY aboutSupport.showDir.label "디렉터리 열기">
 <!ENTITY aboutSupport.showWin.label	"폴더 열기">
@@ -66,6 +70,10 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.userJSTitle "user.js 환경 설정">
 <!ENTITY aboutSupport.userJSDescription "현재 프로필 폴더에는 <a id='prefs-user-js-link'>user.js 파일</a>이 있습니다. 이는 &brandShortName;에 의해 초기 설정이 아닌 사용자 설정을 담고 있습니다.">
 
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "중요한 잠긴 환경 설정">
+<!ENTITY aboutSupport.lockedPrefsName "이름">
+<!ENTITY aboutSupport.lockedPrefsValue "값">
+
 <!ENTITY aboutSupport.graphicsTitle "그래픽">
 
 <!ENTITY aboutSupport.jsTitle			"JavaScript">
@@ -82,3 +90,8 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "클립보드로 텍스트 복사하기">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "클립보드로 원본 복사하기">
+
+<!ENTITY aboutSupport.sandboxTitle "샌드박스">
+
+<!ENTITY aboutSupport.safeModeTitle "안전 모드">
+<!ENTITY aboutSupport.restartInSafeMode.label "부가 기능 없이 재시작…">

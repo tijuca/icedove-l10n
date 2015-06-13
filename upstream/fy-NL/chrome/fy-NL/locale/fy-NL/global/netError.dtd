@@ -23,7 +23,7 @@
 <!ENTITY generic.longDesc "<p>Ekstra ynformaasje oer dit probleem of dizze flater is op dit stuit net beskikber.</p>">
 
 <!ENTITY malformedURI.title "Unjildich-adres">
-<!ENTITY malformedURI.longDesc "<p>It opjûn adres hat gjin herkenber formaat. Kontrolearje de lokaasjebalke op flaters en probearje it op 'e nij.</p>">
+<!ENTITY malformedURI.longDesc "<p>It opjûne adres hat gjin werkenbere yndieling. Kontrolearje de lokaasjebalke op flaters en probearje it opnij.</p>">
 
 <!ENTITY netInterrupt.title "Dataoerdracht ûnderbrutsen">
 <!ENTITY netInterrupt.longDesc "<p>De browser hat mei súkses ferbining makke, mar dizze wurde ûnderbrutsen tiidens it oerbringen fan ynformaasje. Probearje it op 'e nij.</p><ul><li>Kin jo gjin oare websteeën besykje? Kontrolearje de netwurkferbining fan de kompjûter.</li><li>Ha jo nog hieltyd problemen? Freegje jo netwurkbehearder of ynternetprovider foar assistinsje.</li></ul>">
@@ -66,36 +66,36 @@
 <!ENTITY unknownSocketType.longDesc "<p>It webstee antwurde op in ûnferwachte manier op it netwurkfersyk en de browser kin net trochgean.</p>">
 
 <!ENTITY nssFailure2.title "Befeilige ferbining mislearre">
-<!ENTITY nssFailure2.longDesc "<p>De side dy't jo besjen wolle kin net toand wurde, omdat de werkomst fan de ûntfongen data net werlaad wurde kin.</p><ul><li> Nim kontakt op mei de webstee-eigners om se te ynformearjen oer dit probleem. Of brûk de keppeling yn it helpmenu om defekte websteeën te rapportearjen.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>De side dy't jo besjen wolle kin net toand wurde, omdat de echtheid fan de ûntfongen gegevens net ferifiearre wurde kin.</p><ul><li> Nim kontakt op mei de webstee-eigners om se te ynformearjen oer dit probleem.</li></ul>">
 
-<!ENTITY nssBadCert.title "Feilige Ferbining Mislearre">
+<!ENTITY nssBadCert.title "Feilige ferbining mislearre">
 <!ENTITY nssBadCert.longDesc2 "<ul>
 <li>Dit koe in probleem wêze mei de konfiguraasje fan de tsjinner, of it kin iets wêze wat probeart de tsjinner as in oar foar te dwaan.</li>
 <li>As jo earder al súksesfol ferbining hân hawwe mei dizze tsjinner, kin de flater tydlik wêze en kinne jo it letter nochris probearje.</li>
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "Fertochte Oanfalside!">
+<!ENTITY malwareBlocked.title "Fertochte oanfalside!">
 <!ENTITY malwareBlocked.longDesc "<p>Oanfalsides probearje om programmatuer te ynstallearjen dy't privee-ynformaasje stêle kinne, jo komjûter brûke om oaren oan te fallen, of jo systeem skansearje.</p><p> Jo soenen better dizze side net besykje!</p>">
 
-<!ENTITY phishingBlocked.title "Fertochte Web Ferfalsking!">
+<!ENTITY phishingBlocked.title "Fertochte Webferfalsking!">
 <!ENTITY phishingBlocked.longDesc "
 <p>It ynfieren fan persoanlike ynformaasje op dizze side kin resultearje yn identeitsstellerij of oare fraude.</p>
 <p>Dizze typen fan webferfalsking wurde brûkt yn scams bekend as phishing oanfallen, weryn frauduleuse websides en emails brûkt wurde om boarnes dy't jo fertrouwe te imitearjen.</p>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blokkearre troch ynhâldsfeilichheidsbelied">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>De browser hat foarkommen dat dizze side laden op dizze wize wurdt, omdat de side in ynhâldsfeilichheidsbelied hat dy't dat net tastiet.</p>">
+<!ENTITY cspBlocked.title "Blokkearre troch ynhâldsbefeiligingsbelied">
+<!ENTITY cspBlocked.longDesc "<p>De browser hat opkeard dat de side op dizze manier laden wurd, omdat de side in ynhâldsbefeiligingsbelied hat dat dit net tastiet.</p>">
 
 <!ENTITY corruptedContentError.title "Korruptearre ynhâldsflater">
 <!ENTITY corruptedContentError.longDesc "<p>De side dy't jo probearje te besjen kin net toand wurde omdat der in flater yn de gegevensoerdracht ûntdekt waard.</p><ul><li>Nim kontakt op mei de webstee-eigners om se te ynformearjen oer dit probleem.</li></ul>">
 
+<!ENTITY remoteXUL.title "Remote XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Nim kontakt op mei de webstee-eigners om se te ynformearjen oer dit probleem.</li></ul></p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly. -->
+     this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
-
-<!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Nim kontakt op mei de webstee-eigners om se te ynformearjen oer dit probleem.</li></ul></p>">

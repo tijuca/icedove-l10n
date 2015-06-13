@@ -54,6 +54,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Selaintunniste">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Muistin käyttö">
 
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Usean prosessin ikkunoita">
+
 <!ENTITY aboutSupport.showDir.label "Avaa kansio">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -71,6 +73,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.userJSTitle "user.js-asetukset">
 <!ENTITY aboutSupport.userJSDescription "Profiilisi sisältää <a id='prefs-user-js-link'>user.js-tiedoston</a>, joka sisältää muiden kuin &brandShortName;in määrittelemät asetukset.">
 
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Tärkeät lukitut asetukset">
+<!ENTITY aboutSupport.lockedPrefsName "Nimi">
+<!ENTITY aboutSupport.lockedPrefsValue "Arvo">
+
 <!ENTITY aboutSupport.graphicsTitle "Grafiikka">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
@@ -87,3 +93,14 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Kopioi teksti leikepöydälle">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopioi muokkaamaton data leikepöydälle">
+
+<!ENTITY aboutSupport.sandboxTitle "Hiekkalaatikko">
+
+<!ENTITY aboutSupport.appBasicsBuildID "Build ID">
+
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Update Channel">
+<!ENTITY aboutSupport.restartInSafeMode.label "Restart with Add-ons Disabled…">
+
+<!ENTITY aboutSupport.safeModeTitle "Try Safe Mode">

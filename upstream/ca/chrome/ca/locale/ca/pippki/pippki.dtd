@@ -80,17 +80,8 @@
 <!ENTITY createCertInfo.title "S'està generant una clau privada">
 <!ENTITY createCertInfo.msg1 "S'està generant la clau… Pot trigar uns minuts…">
 <!ENTITY createCertInfo.msg2 "Espereu…">
-<!-- Form Signing confirmation prompt -->
-
-<!ENTITY formSigning.title "Sol·licitud de signatura del text">
-<!ENTITY formSigning.cert "Certificat de signatura">
-<!ENTITY formSigning.confirmPassword "Si esteu d'acord en signar aquest missatge de text utilitzant el certificat seleccionat, confirmeu-ho introduint la vostra contrasenya mestra: ">
 <!-- Strings for protectedAuth dialog -->
 
 <!ENTITY protectedAuth.title "Autenticació de testimoni protegit">
 <!ENTITY protectedAuth.msg "Autentiqueu al testimoni. El mètode d'autenticació depèn del tipus del vostre testimoni.">
 <!ENTITY protectedAuth.tokenName.label "Testimoni:">
-
-<!ENTITY certErrorDlg.title "Ha fallat la connexió segura">
-<!ENTITY certErrorDlg.info1 "Podria ser un problema amb la configuració del servidor o algú podria estar provant de suplantar el servidor.">
-<!ENTITY certErrorDlg.info2 "Si us heu connectat al servidor amb èxit en el passat, l'error podria ser temporal i podríeu tornar-ho a provar més tard.">

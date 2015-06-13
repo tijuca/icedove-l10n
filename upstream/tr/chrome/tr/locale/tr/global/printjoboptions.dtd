@@ -1,19 +1,19 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from printjoboptions.xul -->
+
 
 <!ENTITY printJobOptions.title "Yazıcı Özellikleri">
 
-<!ENTITY paperInput.label "Sayfa boyutu:">
-<!ENTITY paperInput.accesskey "f">
+<!ENTITY paperInput.label "Kâğıt boyutu:">
+<!ENTITY paperInput.accesskey "K">
 
 <!ENTITY plexInput.label "Plex kipi:">
 <!ENTITY plexInput.accesskey "k">
 
-<!ENTITY resolutionInput.label "Çözülüm/Kalite:">
-<!ENTITY resolutionInput.accesskey "e">
+<!ENTITY resolutionInput.label "Çözünürlük/kalite:">
+<!ENTITY resolutionInput.accesskey "ö">
 
 <!ENTITY cmdInput.label "Yazdırma komutu:">
 <!ENTITY cmdInput.accesskey "o">
@@ -22,12 +22,12 @@
 <!ENTITY jobTitleInput.accesskey "G">
 
 <!ENTITY colorGroup.label "Renkler:">
-<!ENTITY grayRadio.label "GrayScale">
+<!ENTITY grayRadio.label "Gri tonlama">
 <!ENTITY grayRadio.accesskey "G">
 <!ENTITY colorRadio.label "Renkler">
 <!ENTITY colorRadio.accesskey "R">
 
-<!ENTITY colorspaceInput.label "Renk boşluğu:">
+<!ENTITY colorspaceInput.label "Renk uzayı:">
 <!ENTITY colorspaceInput.accesskey "n">
 
 <!ENTITY fontsGroup.label "Yazı tipleri:">
@@ -43,4 +43,3 @@
 <!ENTITY leftInput.accesskey "l">
 <!ENTITY rightInput.label "Sağ:">
 <!ENTITY rightInput.accesskey "S">
-

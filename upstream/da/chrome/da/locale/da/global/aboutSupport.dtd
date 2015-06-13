@@ -15,8 +15,6 @@
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "Rapport-ID">
-<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like date.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.sendDate "Sendt">
 <!ENTITY aboutSupport.crashes.allReports "Alle fejlrapporter">
 <!ENTITY aboutSupport.crashes.noConfig "Dette program er ikke konfigureret til at vise fejlrapporter.">
@@ -27,7 +25,7 @@ This is likely the same like date.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Version">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.experimentsTitle "Eksperimentelle funktioner Features">
+<!ENTITY aboutSupport.experimentsTitle "Eksperimentelle funktioner">
 <!ENTITY aboutSupport.experimentName "Navne">
 <!ENTITY aboutSupport.experimentId "ID">
 <!ENTITY aboutSupport.experimentDescription "Beskrivelse">
@@ -35,12 +33,15 @@ This is likely the same like date.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentEndDate "Slutdato">
 <!ENTITY aboutSupport.experimentHomepage "Websted">
 
+
 <!ENTITY aboutSupport.appBasicsTitle "Programinfo">
 <!ENTITY aboutSupport.appBasicsName "Navn">
 <!ENTITY aboutSupport.appBasicsVersion "Version">
+<!ENTITY aboutSupport.appBasicsBuildID "Build-ID">
 
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Opdateringskanal">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Opdateringshistorik">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Vis opdateringshistorik">
 
@@ -55,8 +56,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Hukommelsesforbrug">
 
-<!ENTITY aboutSupport.showDir.label "Åbn mappe">
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiproces-vinduer">
 
+<!ENTITY aboutSupport.showDir.label "Åbn mappe">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
@@ -72,6 +74,10 @@ variant of aboutSupport.showDir.label. -->
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "Indstillinger i user.js">
 <!ENTITY aboutSupport.userJSDescription "Din profilmappe indeholder filen <a id='prefs-user-js-link'>user.js</a>, som indeholder indstillinger, der ikke er oprettet af &brandShortName;.">
+
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Vigtige låste indstillinger">
+<!ENTITY aboutSupport.lockedPrefsName "Navn">
+<!ENTITY aboutSupport.lockedPrefsValue "Værdi">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafik">
 
@@ -89,3 +95,8 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Kopier tekst til udklipsholderen">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopier rå data til udklipsholderen">
+
+<!ENTITY aboutSupport.sandboxTitle "Sandbox">
+
+<!ENTITY aboutSupport.safeModeTitle "Prøv fejlsikret tilstand">
+<!ENTITY aboutSupport.restartInSafeMode.label "Genstart med tilføjelser deaktiveret…">

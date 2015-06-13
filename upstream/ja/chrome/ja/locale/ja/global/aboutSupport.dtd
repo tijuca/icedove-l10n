@@ -33,9 +33,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle		"アプリケーション基本情報">
 <!ENTITY aboutSupport.appBasicsName		"名前">
 <!ENTITY aboutSupport.appBasicsVersion		"バージョン">
+<!ENTITY aboutSupport.appBasicsBuildID		"ビルド ID">
 
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+<!ENTITY aboutSupport.appBasicsUpdateChannel		"更新チャンネル">
 <!ENTITY aboutSupport.appBasicsUpdateHistory		"更新履歴">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory	"更新履歴を表示">
 
@@ -49,6 +51,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsBuildConfig	"ビルド設定">
 <!ENTITY aboutSupport.appBasicsUserAgent	"ユーザエージェント">
 <!ENTITY aboutSupport.appBasicsMemoryUse	"メモリ使用量">
+
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport	"マルチプロセスウィンドウ">
 
 <!ENTITY aboutSupport.showDir.label		"ディレクトリを開く"><!-- Win/Mac 以外 -->
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -67,6 +71,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.userJSTitle		"user.js 設定ファイル">
 <!ENTITY aboutSupport.userJSDescription		"このプロファイルには、&brandShortName; では作成されない設定値が含まれた <a id='prefs-user-js-link'>user.js 設定ファイル</a> があります。">
 
+<!ENTITY aboutSupport.lockedKeyPrefsTitle	"ロックされた重要な設定">
+<!ENTITY aboutSupport.lockedPrefsName		"名前">
+<!ENTITY aboutSupport.lockedPrefsValue		"値">
+
 <!ENTITY aboutSupport.graphicsTitle		"グラフィックス">
 
 <!ENTITY aboutSupport.jsTitle			"JavaScript">
@@ -83,3 +91,8 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label		"テキストをクリップボードにコピー">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label	"生データをクリップボードにコピー">
+
+<!ENTITY aboutSupport.sandboxTitle		"サンドボックス">
+
+<!ENTITY aboutSupport.safeModeTitle		"セーフモードを試す">
+<!ENTITY aboutSupport.restartInSafeMode.label	"アドオンを無効化して再起動...">

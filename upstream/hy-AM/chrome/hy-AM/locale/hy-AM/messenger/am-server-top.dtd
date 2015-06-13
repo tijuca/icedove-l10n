@@ -65,8 +65,8 @@
 <!ENTITY maxMessagesStart.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "նամակներ">
-<!ENTITY alwaysAuthenticate.label "Սպասարկիչին միանալիս միշտ պահանջել վավերացում">
-<!ENTITY alwaysAuthenticate.accesskey "w">
+<!ENTITY alwaysAuthenticate.label "Սպասարկիչին կապակցելիս միշտ պահանջել վավերացում">
+<!ENTITY alwaysAuthenticate.accesskey "տ">
 <!ENTITY newsrcFilePath.label "newsrc file:">
 <!ENTITY newsrcPicker.label "Ընտրեք newsrc ֆայլը">
 <!ENTITY abbreviate.label "Ցուցադրել նորութ. անունները Նամակի թղթապանակում որպես.">
@@ -84,3 +84,8 @@
 
 <!ENTITY accountTitle.label "Փոստարկղի կարգավորումներ">
 <!ENTITY accountSettingsDesc.label "Սա հատուկ փոստարկղ է։ Չկան որոշակի ասոցիացումներ։">
+
+<!ENTITY maildirStore.label "File per message (maildir)">
+<!ENTITY mboxStore.label "One large file (mbox)">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY storeType.label "Message Store Type:">

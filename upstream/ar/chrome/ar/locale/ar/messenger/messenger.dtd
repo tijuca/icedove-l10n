@@ -72,8 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "ل">
 <!ENTITY synchronizeOfflineCmd.label "نزّل/زامِن الآن…">
 <!ENTITY synchronizeOfflineCmd.accesskey "ز">
-<!ENTITY settingsOfflineCmd.label "إعدادات اللااتصال…">
-<!ENTITY settingsOfflineCmd.accesskey "ص">
+<!ENTITY settingsOfflineCmd2.label "إعدادات اللااتصال">
+<!ENTITY settingsOfflineCmd2.accesskey "ص">
 <!ENTITY downloadSelectedCmd.label "اجلب الرسائل المختارة">
 <!ENTITY downloadSelectedCmd.accesskey "م">
 <!ENTITY downloadStarredCmd.label "اجلب الرسائل ذات النجمة">
@@ -110,10 +110,10 @@
 <!ENTITY selectFlaggedCmd.accesskey "ة">
 <!ENTITY menuFavoriteFolder.label "مجلد المفضّلات">
 <!ENTITY menuFavoriteFolder.accesskey "ف">
-<!ENTITY folderPropsCmd.label "خصائص…">
-<!ENTITY folderPropsFolderCmd.label "خصائص المجلد…">
-<!ENTITY folderPropsNewsgroupCmd.label "خصائص مجموعة البريد…">
-<!ENTITY folderPropsCmd.accesskey "خ">
+<!ENTITY folderPropsCmd2.label "الخصائص">
+<!ENTITY folderPropsFolderCmd2.label "خصائص المجلد">
+<!ENTITY folderPropsNewsgroupCmd2.label "خصائص مجموعة البريد">
+<!ENTITY folderPropsCmd.accesskey "م">
 <!ENTITY undoDeleteMsgCmd.label "ألغِ حذف الرسالة">
 <!ENTITY redoDeleteMsgCmd.label "أعِد حذف الرسالة">
 <!ENTITY undoMoveMsgCmd.label "ألغِ نقل الرسالة">
@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "ر">
 <!ENTITY showFolderPaneCmd.label "لوحة المجلدات">
 <!ENTITY showFolderPaneCmd.accesskey "م">
+<!ENTITY showFolderPaneColsCmd.label "أعمدة لوحة المجلد">
+<!ENTITY showFolderPaneColsCmd.accesskey "ح">
 <!ENTITY showMessageCmd.label "لوح الرسائل">
 <!ENTITY showMessageCmd.accesskey "ح">
 
@@ -160,6 +162,8 @@
 <!ENTITY favoriteFolders.accesskey "م">
 <!ENTITY recentFolders.label "حديث">
 <!ENTITY recentFolders.accesskey "ح">
+<!ENTITY compactVersion.label "منظور متضام">
+<!ENTITY compactVersion.accesskey "م">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "رتّب حسب">
@@ -459,8 +463,8 @@
 <!ENTITY savedFiles.label "الملفات المحفوظة">
 <!ENTITY savedFiles.accesskey "ظ">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd.label "مرشِّحات الرسائِل…">
-<!ENTITY filtersCmd.accesskey "س">
+<!ENTITY filtersCmd2.label "مرشِّحات الرسائِل">
+<!ENTITY filtersCmd2.accesskey "س">
 <!ENTITY filtersApply.label "شغّل المرشِّحات على المجلد">
 <!ENTITY filtersApply.accesskey "ش">
 <!ENTITY filtersApplyToSelection.label "شغّل المرشحات على الرسائل المحددة">
@@ -478,11 +482,11 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "امسح التأريخ الحالي…">
 <!ENTITY clearRecentHistory.accesskey "س">
-<!ENTITY accountManagerCmd.label "إعدادات الحساب…">
-<!ENTITY accountManagerCmd.accesskey "ع">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+<!ENTITY accountManagerCmd2.label "إعدادات الحساب">
+<!ENTITY accountManagerCmd2.accesskey "ع">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "ح">
+<!ENTITY accountManagerCmdUnix2.accesskey "ح">
 <!ENTITY allowRemoteDebugging.label "اسمح بالتنقيح عن بعد">
 <!ENTITY allowRemoteDebugging.accesskey "ق">
 <!-- Mail Toolbar -->
@@ -563,8 +567,10 @@
 
 <!ENTITY remoteContentOptionsAllowForMsg.label "أظهر المحتوى البعيد في هذه الرسالة">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "ظ">
-<!ENTITY remoteContentOptionAllowForAddress.label "أظهر المحتوى البعيد من هذا المُرسِل">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey "م">
+<!ENTITY editRemoteContentSettings.label "حرر خيارات المحتوى البعيد…">
+<!ENTITY editRemoteContentSettings.accesskey "ح">
+<!ENTITY editRemoteContentSettingsUnix.label "حرر تفضيلات المحتوى البعيد…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "ح">
 <!-- Phishing Button Popup -->
 
 <!ENTITY phishingOptionIgnore.label "تجاهل التحذير لهذه الرسالة">
@@ -589,7 +595,9 @@
 <!ENTITY manageTags.accesskey "س">
 <!-- Folder Pane -->
 
-<!ENTITY folderColumn.label "الاسم">
+<!ENTITY folderNameColumn.label "الاسم">
+<!ENTITY folderUnreadColumn.label "غير مقروء">
+<!ENTITY folderTotalColumn.label "المجموع">
 <!ENTITY folderSizeColumn.label "الحجم">
 <!-- Folder Pane Context Menu -->
 
@@ -623,12 +631,12 @@
 <!ENTITY folderContextSubscribe.accesskey "ش">
 <!ENTITY folderContextSearchForMessages.label "ابحث في الرسائل…">
 <!ENTITY folderContextSearchForMessages.accesskey "س">
-<!ENTITY folderContextProperties.label "الخصائص…">
-<!ENTITY folderContextProperties.accesskey "خ">
+<!ENTITY folderContextProperties2.label "الخصائص">
+<!ENTITY folderContextProperties2.accesskey "خ">
 <!ENTITY folderContextFavoriteFolder.label "مجلد المفضّلات">
 <!ENTITY folderContextFavoriteFolder.accesskey "ف">
-<!ENTITY folderContextSettings.label "إعدادات…">
-<!ENTITY folderContextSettings.accesskey "ع">
+<!ENTITY folderContextSettings2.label "الإعدادات">
+<!ENTITY folderContextSettings2.accesskey "ع">
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "الاسم أو البريد يحوي:">
@@ -658,7 +666,7 @@
 <!ENTITY statusColumn.label "الحالة">
 <!ENTITY sizeColumn.label "الحجم">
 <!ENTITY junkStatusColumn.label "حالة السخام">
-<!ENTITY unreadColumn.label "غير المقروء">
+<!ENTITY unreadColumn.label "غير مقروء">
 <!ENTITY totalColumn.label "المجموع">
 <!ENTITY readColumn.label "مقروء">
 <!ENTITY receivedColumn.label "مستلَم">
@@ -700,6 +708,8 @@
 <!ENTITY contextOpenNewTab.accesskey "ل">
 <!ENTITY contextOpenConversation.label "افتح الرسالة في محادثة">
 <!ENTITY contextOpenConversation.accesskey "ث">
+<!ENTITY contextOpenContainingFolder.label "افتح الرسالة في المجلد الذي يحتويها">
+<!ENTITY contextOpenContainingFolder.accesskey "ف">
 <!ENTITY contextEditMsgAsNew.label "حرّر كرسالةٍ جديدة">
 <!ENTITY contextEditMsgAsNew.accesskey "ح">
 <!ENTITY contextArchive.label "أرشيف">
@@ -858,8 +868,8 @@
 <!ENTITY saveLinkAsCmd.accesskey "ك">
 <!ENTITY saveImageAsCmd.label "احفظ الصورة ك‍…">
 <!ENTITY saveImageAsCmd.accesskey "ظ">
-<!ENTITY copyLinkCmd.label "انسخ مكان الوصلة">
-<!ENTITY copyLinkCmd.accesskey "ص">
+<!ENTITY copyLinkCmd.label "انسخ مكان الرابط">
+<!ENTITY copyLinkCmd.accesskey "ط">
 <!ENTITY copyImageAllCmd.label "انسخ الصورة">
 <!ENTITY copyImageAllCmd.accesskey "ص">
 <!ENTITY copyEmailCmd.label "انسخ البريد الإلكتروني">
@@ -870,8 +880,8 @@
 <!ENTITY reloadCmd.accesskey "ح">
 <!ENTITY openInBrowser.label "افتح في المتصفح">
 <!ENTITY openInBrowser.accesskey "ت">
-<!ENTITY openLinkInBrowser.label "افتح الوصلة في المتصفح">
-<!ENTITY openLinkInBrowser.accesskey "ة">
+<!ENTITY openLinkInBrowser.label "افتح الرابط في المتصفح">
+<!ENTITY openLinkInBrowser.accesskey "ر">
 <!-- Statusbar -->
 
 <!ENTITY statusText.label "تمّ">
@@ -883,7 +893,7 @@
 <!ENTITY zoomWindow.label "قرّب">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 
-<!ENTITY preferencesCmdMac.label        "تفضيلات…">
+<!ENTITY preferencesCmdMac2.label       "التفضيلات">
 <!ENTITY preferencesCmdMac.commandkey   "،">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "خدمات">
@@ -894,34 +904,6 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "أظهِر الكل">
-
-<!ENTITY accountManagerCmd2.accesskey "S">
-<!ENTITY accountManagerCmd2.label "Account Settings">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
-        which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix2.accesskey "A">
-<!ENTITY compactVersion.accesskey "C">
-<!ENTITY compactVersion.label "Compact View">
-<!ENTITY contextOpenContainingFolder.accesskey "n">
-<!ENTITY contextOpenContainingFolder.label "Open Message in Containing Folder">
-
 <!-- Mac OS X Dock Icon pop-up menu -->
-<!ENTITY dockOptions.label              "App Icon Options…">
-<!ENTITY editRemoteContentSettings.accesskey "E">
-<!ENTITY editRemoteContentSettings.label "Edit remote content options…">
-<!ENTITY editRemoteContentSettingsUnix.accesskey "E">
-<!ENTITY editRemoteContentSettingsUnix.label "Edit remote content preferences…">
-<!ENTITY filtersCmd2.accesskey "F">
-<!ENTITY filtersCmd2.label "Message Filters">
-<!ENTITY folderContextProperties2.accesskey "P">
-<!ENTITY folderContextProperties2.label "Properties">
-<!ENTITY folderContextSettings2.accesskey "e">
-<!ENTITY folderContextSettings2.label "Settings">
-<!ENTITY folderPropsCmd2.label "Properties">
-<!ENTITY folderPropsFolderCmd2.label "Folder Properties">
-<!ENTITY folderPropsNewsgroupCmd2.label "Newsgroup Properties">
 
-<!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac2.label       "Preferences">
-<!ENTITY settingsOfflineCmd2.accesskey "e">
-<!ENTITY settingsOfflineCmd2.label "Offline Settings">
+<!ENTITY dockOptions.label              "خيارات أيقونة التطبيق">

@@ -36,7 +36,7 @@
 <!ENTITY forwardTo.label "Kas ar gemennadenn en-dro da">
 <!ENTITY replyWithTemplate.label "Respont gant ur patrom">
 <!ENTITY markMessageRead.label "Merkañ evel Lennet">
-<!ENTITY markMessageUnread.label "Merkañ evel Ket Lennet">
+<!ENTITY markMessageUnread.label "Merkañ evel Anlennet">
 <!ENTITY markMessageStarred.label "Ouzhpennañ ur steredenn">
 <!ENTITY setPriority.label "Lakaat tevet da">
 <!ENTITY addTag.label "Kemennadenn gant ur merk">
@@ -59,3 +59,8 @@
 
 <!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">
+
+<!ENTITY contextArchive.accesskey "A">
+<!ENTITY contextArchive.label "Archiving">
+<!ENTITY contextOutgoing.accesskey "S">
+<!ENTITY contextOutgoing.label "After Sending">

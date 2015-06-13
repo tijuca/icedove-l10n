@@ -4,70 +4,40 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetrijos duomenys">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "
-  Telemetrija <span>įjungta</span>.
-">
+<!ENTITY aboutTelemetry.telemetryEnabled "  Telemetrija <span>įjungta</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "
-  Telemetrija <span>išjungta</span>.
-">
+<!ENTITY aboutTelemetry.telemetryDisabled "  Telemetrija <span>išjungta</span>.">
 
-<!ENTITY aboutTelemetry.slowSqlSection "
-  Lėti SQL sakiniai
-">
+<!ENTITY aboutTelemetry.generalDataSection "  Įprasti duomenys">
 
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  Naršyklės strigtys
-">
+<!ENTITY aboutTelemetry.slowSqlSection "  Lėti SQL sakiniai">
 
-<!ENTITY aboutTelemetry.threadHangStatsSection "
-  Gijų strigtys
-">
+<!ENTITY aboutTelemetry.chromeHangsSection "  Naršyklės strigtys">
 
-<!ENTITY aboutTelemetry.histogramsSection "
-  Histogramos
-">
+<!ENTITY aboutTelemetry.threadHangStatsSection "  Gijų strigtys">
 
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "
-  Paprasti matavimai
-">
+<!ENTITY aboutTelemetry.histogramsSection "  Histogramos">
 
-<!ENTITY aboutTelemetry.addonDetailsSection "
-  Priedų duomenys
-">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Raktinės histogramos">
 
-<!ENTITY aboutTelemetry.lateWritesSection "
-  Vėlavę įrašymai
-">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Paprasti matavimai">
 
-<!ENTITY aboutTelemetry.systemInfoSection "
-  Sistemos duomenys
-">
+<!ENTITY aboutTelemetry.addonDetailsSection "  Priedų duomenys">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Priedų sukauptos histogramos
-">
+<!ENTITY aboutTelemetry.lateWritesSection "  Vėlavę įrašymai">
 
-<!ENTITY aboutTelemetry.toggle "
-  Spustelėkite sekcijai išskleisti / suskleisti
-">
+<!ENTITY aboutTelemetry.systemInfoSection "  Sistemos duomenys">
 
-<!ENTITY aboutTelemetry.emptySection "
-  (surinktų duomenų nėra)
-">
+<!ENTITY aboutTelemetry.addonHistogramsSection "  Priedų sukauptos histogramos">
 
-<!ENTITY aboutTelemetry.fullSqlWarning "
-  PASTABA: Įjungtas lėtų SQL sakinių derinimas. Žemiau gali būti rodomi pilni SQL sakiniai, tačiau jie nebus pateikiami telemetrijai.
-">
+<!ENTITY aboutTelemetry.toggle "  Spustelėkite sekcijai išskleisti / suskleisti">
 
-<!ENTITY aboutTelemetry.fetchSymbols "
-  Strigčių dėklams rinkti funkcijų vardus
-">
+<!ENTITY aboutTelemetry.emptySection "  (surinktų duomenų nėra)">
 
-<!ENTITY aboutTelemetry.hideSymbols "
-  Rodyti neapdorotus strigčių duomenis
-">
+<!ENTITY aboutTelemetry.fullSqlWarning "  PASTABA: Įjungtas lėtų SQL sakinių derinimas. Žemiau gali būti rodomi pilni SQL sakiniai, tačiau jie nebus pateikiami telemetrijai.">
 
-<!ENTITY aboutTelemetry.filterText "
-  Filtras (tekstas arba /reguliarusis reiškinys/)
-">
+<!ENTITY aboutTelemetry.fetchSymbols "  Strigčių dėklams rinkti funkcijų vardus">
+
+<!ENTITY aboutTelemetry.hideSymbols "  Rodyti neapdorotus strigčių duomenis">
+
+<!ENTITY aboutTelemetry.filterText "  Filtras (tekstas arba /reguliarusis reiškinys/)">

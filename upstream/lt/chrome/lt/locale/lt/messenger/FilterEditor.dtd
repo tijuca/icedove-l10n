@@ -4,7 +4,6 @@
 
 <!ENTITY window.title "Filtravimo taisyklės">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
-
 <!ENTITY filterName.label "Filtro pavadinimas:">
 <!ENTITY filterName.accesskey "F">
 
@@ -24,14 +23,18 @@
 <!ENTITY contextManual.accesskey "n">
 <!ENTITY contextBeforeCls.label "prieš atrenkant brukalą">
 <!ENTITY contextAfterCls.label "atrinkus brukalą">
+<!ENTITY contextOutgoing.label "Išsiuntus">
+<!ENTITY contextOutgoing.accesskey "s">
+<!ENTITY contextArchive.label "Archyvavimas">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "atlikti šiuos veiksmus:">
 <!ENTITY filterActionDesc.accesskey "v">
 
 <!ENTITY filterActionOrderWarning.label "Pastaba: filtrai bus vykdomi kita tvarka.">
 <!ENTITY filterActionOrder.label "Parodyti vykdymo tvarką">
-
 <!-- New Style Filter Rule Actions -->
+
 <!ENTITY moveMessage.label "Perkelti į aplanką:">
 <!ENTITY copyMessage.label "Nukopijuoti į aplanką:">
 <!ENTITY forwardTo.label "Persiųsti:">
@@ -52,11 +55,11 @@
 
 <!ENTITY addAction.tooltip "Pridėti naują veiksmą">
 <!ENTITY removeAction.tooltip "Pašalinti šį veiksmą">
-
 <!-- LOCALIZATION NOTE
   The values below are used to control the widths of the filter action widgets.
   Change the values only when the localized strings in the popup menus
   are truncated in the widgets.
  -->
+
 <!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">

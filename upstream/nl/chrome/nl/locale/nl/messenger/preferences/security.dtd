@@ -11,13 +11,13 @@
 <!ENTITY junkMail.intro "Stel uw standaardinstellingen voor ongewensteberichtendetectie in. Accountspecifieke instellingen kunnen worden geconfigureerd in Accountinstellingen.">
 <!ENTITY manualMark.label "Wanneer ik berichten markeer als ongewenst:">
 <!ENTITY manualMark.accesskey "W">
-<!ENTITY manualMarkModeMove.label "ze verplaatsen naar de map “Ongewenst” van de account">
+<!ENTITY manualMarkModeMove.label "ze verplaatsen naar de map ‘Ongewenst’ van de account">
 <!ENTITY manualMarkModeMove.accesskey "z">
 <!ENTITY manualMarkModeDelete.label "ze verwijderen">
 <!ENTITY manualMarkModeDelete.accesskey "v">
 <!ENTITY markAsReadOnSpam.label "Berichten die zijn gedetecteerd als ongewenst, markeren als gelezen">
 <!ENTITY markAsReadOnSpam.accesskey "B">
-<!ENTITY enableAdaptiveJunkLogging.label "Zelflerende ongewensteberichtenlogboek activeren">
+<!ENTITY enableAdaptiveJunkLogging.label "Logboek van zelflerend ongewensteberichtenfilter inschakelen">
 <!ENTITY enableAdaptiveJunkLogging.accesskey "o">
 <!ENTITY openJunkLog.label "Logboek tonen">
 <!ENTITY openJunkLog.accesskey "L">

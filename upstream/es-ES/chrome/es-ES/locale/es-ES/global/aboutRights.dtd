@@ -8,7 +8,7 @@
 <!ENTITY rights.intro "&brandFullName; es un software gratuito y de código abierto construido por una comunidad de miles de colaboradores de todo el mundo. Hay una serie de cosas que debería conocer:">
 <!ENTITY rights.intro-point1a "&brandShortName; está disponible para usted bajo los términos de la ">
 <!ENTITY rights.intro-point1b "Mozilla Public License (Licencia Pública de Mozilla)">
-<!ENTITY rights.intro-point1c ". Esto significa que puede usar, copiar y distribuir &brandShortName; a los demás. También puede modificar el código fuente para adaptarlo a sus necesidades. La Mozilla Public License (Licencia Pública de Mozilla) le otorga el derecho de distribuir sus versiones modificadas.">
+<!ENTITY rights.intro-point1c ". Esto significa que puede usar, copiar y distribuir &brandShortName; a los demás. También puede modificar el código fuente de &brandShortName; para adaptarlo a sus necesidades. La Mozilla Public License (Licencia Pública de Mozilla) le otorga el derecho de distribuir sus versiones modificadas.">
 <!ENTITY rights.intro-point2-a "No se le concede ningún derecho ni licencia sobre las marcas comerciales de Mozilla Foundation o sus filiales, incluyendo sin limitación el nombre y logo de Firefox. Puede encontrarse información adicional sobre las marcas comerciales ">
 <!ENTITY rights.intro-point2-b "aquí">
 <!ENTITY rights.intro-point2-c ".">
@@ -17,7 +17,7 @@
 <!ENTITY rights2.intro-point3b "Política de privacidad de &brandShortName;">
 <!ENTITY rights.intro-point3c ".">
 <!ENTITY rights.intro-point3-unbranded "Cualquier política de privacidad aplicable a este producto se debe listar aquí.">
-<!ENTITY rights2.intro-point4a "Algunas características de &brandShortName; hacen uso de servicios de información basados en web; sin embargo, no podemos garantizar que sean 100&#037; precisos ni libres de errores. Se pueden encontrar más detalles, incluyendo información sobre cómo desactivar las características que usan estos servicios, en la ">
+<!ENTITY rights2.intro-point4a "Algunas características de &brandShortName; hacen uso de servicios de información basados en web; sin embargo, no podemos garantizar que sean 100 &#037; precisos ni libres de errores. Se pueden encontrar más detalles, incluyendo información sobre cómo desactivar las características que usan estos servicios, en la ">
 <!ENTITY rights.intro-point4b "términos del servicio">
 <!ENTITY rights.intro-point4c ".">
 <!ENTITY rights.intro-point4a-unbranded "Si este producto incorpora servicios web, cualesquiera términos del servicio aplicables a los servicios deberían enlazarse en los ">
