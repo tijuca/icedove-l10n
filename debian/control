@@ -267,7 +267,7 @@ Package: icedove-l10n-fi
 Architecture: all
 Depends: ${misc:Depends}, icedove (>= 38.0~), icedove (<< 39)
 Homepage: https://wiki.mozilla.org/L10n:Teams:fi
-Recommends: myspell-fi
+Recommends: xul-ext-mozvoikko
 Description: Finnish language package for Icedove
  Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
